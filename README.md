@@ -88,6 +88,6 @@ python -u main.py -v -t 1 -e 1000 \
 ```
 
 ## FAQ
-**The Program is running so slow and WikiSearch returns nothing.** This is because of the AWS connection issue from the URL used in the Wikipedia Search tool. Our tests conducted between April and June 2023 show that the server works well and typically takes 2-3 seconds to return a result, yet after June 20th, retrieval times increased to 120 seconds without returning anything. One potential solution here is to change the Wikisearch URL (http://ec2-44-228-128-229.us-west-2.compute.amazonaws.com:8893/api/search) or use the Python [Wikipedia Search package](https://pypi.org/project/wikipedia/) until it is fixed, but may not guarantee the same experiment result. 
+**The Program is running so slow and WikiSearch returns nothing.** This is because of the AWS connection issue from the URL used in the Wikipedia Search tool. Our tests conducted between April and June 2023 show that the server works well and typically takes 2-3 seconds to return a result, yet after June 20th, retrieval times increased to 120 seconds without returning anything. One potential solution here is to change the Wikisearch URL or use the Python [Wikipedia Search package](https://pypi.org/project/wikipedia/) until it is fixed, but may not guarantee the same experiment result. 
 
-Reach out to Yining ylu130@jh.edu if you have any other questions! :)
+Reach out to Yining ylu130@jh.edu or hyu90@jh.edu if you have any other questions! :)
