@@ -1,0 +1,5002 @@
+[
+    {
+        "id": 0,
+        "text": "I want to make a call to someone. He is in Jerusalem, and I am in GMT-8. If it is May 25 2038 11:22:40PM here, what time is it there?",
+        "gold_answer": "2038-05-25 17:22:40"
+    },
+    {
+        "id": 1,
+        "text": "I want to talk to someone in Tongatapu at Nov 16 2016 07:34:02AM in Aqtau. What time is it there?",
+        "gold_answer": "2016-11-16 16:34:02"
+    },
+    {
+        "id": 2,
+        "text": "I want to make a call to someone. He is in Makassar, and I am in LHI. If it is Jul 24 2016 04:40:22PM here, what time is it there?",
+        "gold_answer": "2016-07-24 14:10:22"
+    },
+    {
+        "id": 3,
+        "text": "I want to make a call to someone. He is in Indiana, and I am in Cairo. If it is 2000-12-25 18:42:47 here, what time is it there?",
+        "gold_answer": "2000-12-25 11:42:47"
+    },
+    {
+        "id": 4,
+        "text": "My friend is in Cordoba, and I am in Madeira. If it is 2016-07-14 08:24:07 here, what time is it there?",
+        "gold_answer": "2016-07-14 04:24:07"
+    },
+    {
+        "id": 5,
+        "text": "It is 2013-07-12 00:53:53 in Macau. What is the time in Guadeloupe?",
+        "gold_answer": "2013-07-11 12:53:53"
+    },
+    {
+        "id": 6,
+        "text": "What is the time in Hawaii if it is 2019-03-09 08:04:44 in South?",
+        "gold_answer": "2019-03-08 11:34:44"
+    },
+    {
+        "id": 7,
+        "text": "I want to talk to someone in Oral at 2002-04-30 09:05:04 in Seoul. What time is it there?",
+        "gold_answer": "2002-04-30 05:05:04"
+    },
+    {
+        "id": 8,
+        "text": "I want to make a call to someone. He is in Grenada, and I am in North Dakota. If it is 2001-12-18 16:12:38 here, what time is it there?",
+        "gold_answer": "2001-12-18 19:12:38"
+    },
+    {
+        "id": 9,
+        "text": "I want to talk to someone in Argentina at 03:23:32, Jan 04, 2027 in Lord Howe. What time is it there?",
+        "gold_answer": "2027-01-03 13:23:32"
+    },
+    {
+        "id": 10,
+        "text": "I want to make a call to someone. He is in Johannesburg, and I am in Pitcairn. If it is May 16 2023 10:31:14AM here, what time is it there?",
+        "gold_answer": "2023-05-16 20:31:14"
+    },
+    {
+        "id": 11,
+        "text": "I want to talk to someone in New York at 16:21:17, Aug 22, 2006 in GMT-5. What time is it there?",
+        "gold_answer": "2006-08-22 07:21:17"
+    },
+    {
+        "id": 12,
+        "text": "What is the time in Auckland if it is 2021-12-21 01:51:09 in Recife?",
+        "gold_answer": "2021-12-21 17:51:09"
+    },
+    {
+        "id": 13,
+        "text": "I want to talk to someone in Yangon at 09:31:28, Dec 28, 2034 in Norfolk. What time is it there?",
+        "gold_answer": "2034-12-28 04:01:28"
+    },
+    {
+        "id": 14,
+        "text": "It is 01:20:42, Feb 16, 2008 in Noumea. What is the time in Oslo?",
+        "gold_answer": "2008-02-15 15:20:42"
+    },
+    {
+        "id": 15,
+        "text": "My friend is in Adak, and I am in Metlakatla. If it is Apr 13 2031 10:43:11PM here, what time is it there?",
+        "gold_answer": "2031-04-13 21:43:11"
+    },
+    {
+        "id": 16,
+        "text": "My friend is in Simferopol, and I am in Chita. If it is 2003-08-02 14:38:49 here, what time is it there?",
+        "gold_answer": "2003-08-02 07:38:49"
+    },
+    {
+        "id": 17,
+        "text": "What is the time in Yerevan if it is 2032-08-16 03:58:57 in Brisbane?",
+        "gold_answer": "2032-08-15 21:58:57"
+    },
+    {
+        "id": 18,
+        "text": "My friend is in Truk, and I am in Guatemala. If it is 06:01:22, Dec 25, 2032 here, what time is it there?",
+        "gold_answer": "2032-12-25 22:01:22"
+    },
+    {
+        "id": 19,
+        "text": "My friend is in Detroit, and I am in Danmarkshavn. If it is 08:47:49, Feb 06, 2024 here, what time is it there?",
+        "gold_answer": "2024-02-06 03:47:49"
+    },
+    {
+        "id": 20,
+        "text": "I want to talk to someone in Iqaluit at 2015-04-08 23:59:58 in Moncton. What time is it there?",
+        "gold_answer": "2015-04-08 22:59:58"
+    },
+    {
+        "id": 21,
+        "text": "I want to talk to someone in MST at 2000-07-08 23:03:52 in Casey. What time is it there?",
+        "gold_answer": "2000-07-08 08:03:52"
+    },
+    {
+        "id": 22,
+        "text": "What is the time in Srednekolymsk if it is Jan 25 2035 11:11:15PM in Fortaleza?",
+        "gold_answer": "2035-01-26 13:11:15"
+    },
+    {
+        "id": 23,
+        "text": "I want to talk to someone in Ashkhabad at 2009-12-14 06:46:18 in Nuuk. What time is it there?",
+        "gold_answer": "2009-12-14 14:46:18"
+    },
+    {
+        "id": 24,
+        "text": "What is the time in Tel Aviv if it is 18:07:44, Nov 07, 2033 in Pontianak?",
+        "gold_answer": "2033-11-07 13:07:44"
+    },
+    {
+        "id": 25,
+        "text": "My friend is in Yekaterinburg, and I am in Mazatlan. If it is 2012-10-31 09:41:57 here, what time is it there?",
+        "gold_answer": "2012-10-31 22:41:57"
+    },
+    {
+        "id": 26,
+        "text": "I want to make a call to someone. He is in Winnipeg, and I am in Syowa. If it is Dec 21 2032 10:04:23PM here, what time is it there?",
+        "gold_answer": "2032-12-21 13:04:23"
+    },
+    {
+        "id": 27,
+        "text": "It is 2020-01-29 06:15:32 in Khartoum. What is the time in Havana?",
+        "gold_answer": "2020-01-28 23:15:32"
+    },
+    {
+        "id": 28,
+        "text": "My friend is in Kathmandu, and I am in Nairobi. If it is Dec 21 2005 01:56:59AM here, what time is it there?",
+        "gold_answer": "2005-12-21 04:41:59"
+    },
+    {
+        "id": 29,
+        "text": "It is Apr 13 2029 08:27:00PM in Argentina. What is the time in Malabo?",
+        "gold_answer": "2029-04-14 00:27:00"
+    },
+    {
+        "id": 30,
+        "text": "I want to make a call to someone. He is in Monterrey, and I am in Rio Branco. If it is 2013-07-01 19:10:22 here, what time is it there?",
+        "gold_answer": "2013-07-01 18:10:22"
+    },
+    {
+        "id": 31,
+        "text": "I want to talk to someone in Lagos at 23:55:58, Jan 15, 2029 in Guatemala. What time is it there?",
+        "gold_answer": "2029-01-16 06:55:58"
+    },
+    {
+        "id": 32,
+        "text": "I want to make a call to someone. He is in North Dakota, and I am in W-SU. If it is 2001-07-19 18:04:35 here, what time is it there?",
+        "gold_answer": "2001-07-19 08:04:35"
+    },
+    {
+        "id": 33,
+        "text": "What is the time in Ust-Nera if it is 2001-03-31 10:33:27 in Grenada?",
+        "gold_answer": "2001-04-01 02:33:27"
+    },
+    {
+        "id": 34,
+        "text": "I want to talk to someone in Argentina at May 26 2005 03:13:03AM in GMT-5. What time is it there?",
+        "gold_answer": "2005-05-25 19:13:03"
+    },
+    {
+        "id": 35,
+        "text": "My friend is in Yakutsk, and I am in Hongkong. If it is Sep 16 2009 05:17:27AM here, what time is it there?",
+        "gold_answer": "2009-09-16 07:17:27"
+    },
+    {
+        "id": 36,
+        "text": "What is the time in Sitka if it is Jan 14 2014 11:30:22PM in Portugal?",
+        "gold_answer": "2014-01-14 14:30:22"
+    },
+    {
+        "id": 37,
+        "text": "I want to make a call to someone. He is in Rainy River, and I am in Tahiti. If it is Sep 15 2021 11:38:00PM here, what time is it there?",
+        "gold_answer": "2021-09-16 04:38:00"
+    },
+    {
+        "id": 38,
+        "text": "I want to make a call to someone. He is in St Lucia, and I am in PST8PDT. If it is 2036-11-19 19:28:30 here, what time is it there?",
+        "gold_answer": "2036-11-19 23:28:30"
+    },
+    {
+        "id": 39,
+        "text": "What is the time in Qostanay if it is 2033-04-08 11:08:07 in Argentina?",
+        "gold_answer": "2033-04-08 20:08:07"
+    },
+    {
+        "id": 40,
+        "text": "What is the time in Newfoundland if it is 2008-06-16 10:34:51 in Mountain?",
+        "gold_answer": "2008-06-16 14:04:51"
+    },
+    {
+        "id": 41,
+        "text": "I want to make a call to someone. He is in Port of Spain, and I am in Busingen. If it is 12:44:12, Aug 23, 2015 here, what time is it there?",
+        "gold_answer": "2015-08-23 06:44:12"
+    },
+    {
+        "id": 42,
+        "text": "My friend is in NSW, and I am in Indianapolis. If it is 2030-09-18 19:05:11 here, what time is it there?",
+        "gold_answer": "2030-09-19 09:05:11"
+    },
+    {
+        "id": 43,
+        "text": "I want to make a call to someone. He is in GB, and I am in Jamaica. If it is 2019-05-11 08:30:55 here, what time is it there?",
+        "gold_answer": "2019-05-11 14:30:55"
+    },
+    {
+        "id": 44,
+        "text": "I want to talk to someone in HST at 00:01:13, Nov 12, 2037 in Porto Acre. What time is it there?",
+        "gold_answer": "2037-11-11 19:01:13"
+    },
+    {
+        "id": 45,
+        "text": "My friend is in Cuba, and I am in Apia. If it is Oct 03 2022 09:04:08PM here, what time is it there?",
+        "gold_answer": "2022-10-03 04:04:08"
+    },
+    {
+        "id": 46,
+        "text": "What is the time in WET if it is 2027-02-03 17:55:06 in GMT+9?",
+        "gold_answer": "2027-02-04 02:55:06"
+    },
+    {
+        "id": 47,
+        "text": "My friend is in Tahiti, and I am in Azores. If it is Apr 23 2023 06:34:26AM here, what time is it there?",
+        "gold_answer": "2023-04-22 20:34:26"
+    },
+    {
+        "id": 48,
+        "text": "I want to talk to someone in Perth at 00:23:43, Dec 11, 2013 in St Johns. What time is it there?",
+        "gold_answer": "2013-12-11 11:53:43"
+    },
+    {
+        "id": 49,
+        "text": "What is the time in Asmera if it is 21:41:14, May 18, 2032 in Port Moresby?",
+        "gold_answer": "2032-05-18 14:41:14"
+    },
+    {
+        "id": 50,
+        "text": "I want to make a call to someone. He is in WET, and I am in Jerusalem. If it is May 31 2039 01:46:34AM here, what time is it there?",
+        "gold_answer": "2039-05-30 23:46:34"
+    },
+    {
+        "id": 51,
+        "text": "What is the time in Sakhalin if it is Mar 10 2038 01:27:31PM in Christmas?",
+        "gold_answer": "2038-03-10 17:27:31"
+    },
+    {
+        "id": 52,
+        "text": "I want to make a call to someone. He is in Grenada, and I am in Athens. If it is 20:55:31, Apr 02, 2015 here, what time is it there?",
+        "gold_answer": "2015-04-02 13:55:31"
+    },
+    {
+        "id": 53,
+        "text": "It is 2003-08-08 02:22:23 in Indiana. What is the time in Montserrat?",
+        "gold_answer": "2003-08-08 03:22:23"
+    },
+    {
+        "id": 54,
+        "text": "It is 2025-06-26 22:50:15 in Godthab. What is the time in Tegucigalpa?",
+        "gold_answer": "2025-06-26 17:50:15"
+    },
+    {
+        "id": 55,
+        "text": "What is the time in Bujumbura if it is Feb 05 2035 01:25:25PM in EST?",
+        "gold_answer": "2035-02-05 20:25:25"
+    },
+    {
+        "id": 56,
+        "text": "It is 2028-08-16 06:36:38 in Pitcairn. What is the time in Macquarie?",
+        "gold_answer": "2028-08-17 00:36:38"
+    },
+    {
+        "id": 57,
+        "text": "It is 2012-05-03 08:20:59 in GMT-11. What is the time in Pacific?",
+        "gold_answer": "2012-05-02 14:20:59"
+    },
+    {
+        "id": 58,
+        "text": "What is the time in Cancun if it is Aug 27 2023 10:34:08PM in Funafuti?",
+        "gold_answer": "2023-08-27 05:34:08"
+    },
+    {
+        "id": 59,
+        "text": "It is 20:50:38, Apr 11, 2031 in Indianapolis. What is the time in WET?",
+        "gold_answer": "2031-04-12 01:50:38"
+    },
+    {
+        "id": 60,
+        "text": "My friend is in Samara, and I am in Blantyre. If it is 2000-07-30 00:22:42 here, what time is it there?",
+        "gold_answer": "2000-07-30 03:22:42"
+    },
+    {
+        "id": 61,
+        "text": "My friend is in Taipei, and I am in Ashkhabad. If it is 03:43:15, Dec 24, 2039 here, what time is it there?",
+        "gold_answer": "2039-12-24 06:43:15"
+    },
+    {
+        "id": 62,
+        "text": "I want to make a call to someone. He is in Ho Chi Minh, and I am in GMT+0. If it is Mar 24 2031 05:20:07AM here, what time is it there?",
+        "gold_answer": "2031-03-24 12:20:07"
+    },
+    {
+        "id": 63,
+        "text": "I want to make a call to someone. He is in GMT-7, and I am in Brisbane. If it is Aug 07 2026 12:24:18PM here, what time is it there?",
+        "gold_answer": "2026-08-07 09:24:18"
+    },
+    {
+        "id": 64,
+        "text": "What is the time in Israel if it is 23:20:58, Apr 08, 2018 in Isle of Man?",
+        "gold_answer": "2018-04-09 01:20:58"
+    },
+    {
+        "id": 65,
+        "text": "I want to make a call to someone. He is in Coral Harbour, and I am in Fort Nelson. If it is 2039-12-07 02:24:01 here, what time is it there?",
+        "gold_answer": "2039-12-07 04:24:01"
+    },
+    {
+        "id": 66,
+        "text": "I want to talk to someone in East-Indiana at Sep 26 2026 12:53:35PM in Rankin Inlet. What time is it there?",
+        "gold_answer": "2026-09-26 13:53:35"
+    },
+    {
+        "id": 67,
+        "text": "What is the time in Calcutta if it is 10:15:32, Apr 15, 2040 in GMT0?",
+        "gold_answer": "2040-04-15 15:45:32"
+    },
+    {
+        "id": 68,
+        "text": "It is 10:59:50, Aug 15, 2020 in Grand Turk. What is the time in Gaza?",
+        "gold_answer": "2020-08-15 17:59:50"
+    },
+    {
+        "id": 69,
+        "text": "It is 12:57:45, Jul 13, 2027 in Argentina. What is the time in Rarotonga?",
+        "gold_answer": "2027-07-13 05:57:45"
+    },
+    {
+        "id": 70,
+        "text": "I want to make a call to someone. He is in GMT+7, and I am in Volgograd. If it is 2017-06-11 06:30:48 here, what time is it there?",
+        "gold_answer": "2017-06-10 20:30:48"
+    },
+    {
+        "id": 71,
+        "text": "My friend is in Jerusalem, and I am in Chagos. If it is 2013-09-08 22:29:39 here, what time is it there?",
+        "gold_answer": "2013-09-08 19:29:39"
+    },
+    {
+        "id": 72,
+        "text": "I want to make a call to someone. He is in Yukon, and I am in Guam. If it is 16:05:27, Feb 25, 2005 here, what time is it there?",
+        "gold_answer": "2005-02-24 22:05:27"
+    },
+    {
+        "id": 73,
+        "text": "I want to talk to someone in Argentina at Apr 12 2012 12:17:18PM in Bogota. What time is it there?",
+        "gold_answer": "2012-04-12 14:17:18"
+    },
+    {
+        "id": 74,
+        "text": "My friend is in PST8PDT, and I am in Belem. If it is 2006-03-18 23:09:29 here, what time is it there?",
+        "gold_answer": "2006-03-18 18:09:29"
+    },
+    {
+        "id": 75,
+        "text": "I want to make a call to someone. He is in Jerusalem, and I am in Swift Current. If it is Apr 15 2030 04:43:00PM here, what time is it there?",
+        "gold_answer": "2030-04-16 01:43:00"
+    },
+    {
+        "id": 76,
+        "text": "What is the time in MST if it is 2002-12-30 16:36:25 in Dawson Creek?",
+        "gold_answer": "2002-12-30 16:36:25"
+    },
+    {
+        "id": 77,
+        "text": "I want to talk to someone in Famagusta at 17:42:27, Mar 21, 2024 in Ciudad Juarez. What time is it there?",
+        "gold_answer": "2024-03-22 01:42:27"
+    },
+    {
+        "id": 78,
+        "text": "My friend is in Bangui, and I am in Chungking. If it is 2026-07-23 17:59:59 here, what time is it there?",
+        "gold_answer": "2026-07-23 10:59:59"
+    },
+    {
+        "id": 79,
+        "text": "What is the time in Dar es Salaam if it is 2022-10-01 06:58:37 in Ouagadougou?",
+        "gold_answer": "2022-10-01 09:58:37"
+    },
+    {
+        "id": 80,
+        "text": "I want to make a call to someone. He is in MST, and I am in Portugal. If it is Oct 09 2018 10:46:49PM here, what time is it there?",
+        "gold_answer": "2018-10-09 14:46:49"
+    },
+    {
+        "id": 81,
+        "text": "I want to talk to someone in Santo Domingo at 2003-08-30 16:44:26 in Israel. What time is it there?",
+        "gold_answer": "2003-08-30 09:44:26"
+    },
+    {
+        "id": 82,
+        "text": "I want to make a call to someone. He is in Gibraltar, and I am in Novosibirsk. If it is 2009-04-16 14:18:39 here, what time is it there?",
+        "gold_answer": "2009-04-16 09:18:39"
+    },
+    {
+        "id": 83,
+        "text": "I want to make a call to someone. He is in Araguaina, and I am in Indiana. If it is Mar 03 2022 07:31:53AM here, what time is it there?",
+        "gold_answer": "2022-03-03 09:31:53"
+    },
+    {
+        "id": 84,
+        "text": "I want to make a call to someone. He is in Timbuktu, and I am in Marquesas. If it is 23:22:25, Aug 30, 2029 here, what time is it there?",
+        "gold_answer": "2029-08-31 08:52:25"
+    },
+    {
+        "id": 85,
+        "text": "It is 2038-02-08 17:23:17 in Tijuana. What is the time in Norfolk?",
+        "gold_answer": "2038-02-09 13:23:17"
+    },
+    {
+        "id": 86,
+        "text": "My friend is in Denver, and I am in Harare. If it is 01:06:20, Nov 05, 2001 here, what time is it there?",
+        "gold_answer": "2001-11-04 16:06:20"
+    },
+    {
+        "id": 87,
+        "text": "My friend is in Maceio, and I am in GMT+9. If it is 2000-11-12 22:54:16 here, what time is it there?",
+        "gold_answer": "2000-11-13 04:54:16"
+    },
+    {
+        "id": 88,
+        "text": "It is Dec 16 2006 08:43:31PM in Santa Isabel. What is the time in Dakar?",
+        "gold_answer": "2006-12-17 04:43:31"
+    },
+    {
+        "id": 89,
+        "text": "I want to make a call to someone. He is in Saskatchewan, and I am in Yap. If it is 11:54:04, Aug 21, 2028 here, what time is it there?",
+        "gold_answer": "2028-08-20 19:54:04"
+    },
+    {
+        "id": 90,
+        "text": "My friend is in Kentucky, and I am in Whitehorse. If it is Aug 23 2036 11:16:11PM here, what time is it there?",
+        "gold_answer": "2036-08-24 02:16:11"
+    },
+    {
+        "id": 91,
+        "text": "What is the time in Cancun if it is 16:41:42, Jul 19, 2008 in Ndjamena?",
+        "gold_answer": "2008-07-19 10:41:42"
+    },
+    {
+        "id": 92,
+        "text": "It is May 12 2035 06:23:08AM in Casey. What is the time in Atka?",
+        "gold_answer": "2035-05-11 10:23:08"
+    },
+    {
+        "id": 93,
+        "text": "It is Dec 30 2018 05:05:08PM in Bahia. What is the time in Dawson Creek?",
+        "gold_answer": "2018-12-30 13:05:08"
+    },
+    {
+        "id": 94,
+        "text": "I want to talk to someone in Zulu at 2025-06-05 04:39:50 in Halifax. What time is it there?",
+        "gold_answer": "2025-06-05 07:39:50"
+    },
+    {
+        "id": 95,
+        "text": "What is the time in Glace Bay if it is 2010-03-09 03:51:28 in Egypt?",
+        "gold_answer": "2010-03-08 21:51:28"
+    },
+    {
+        "id": 96,
+        "text": "I want to talk to someone in Dhaka at 2003-04-10 10:10:24 in Chagos. What time is it there?",
+        "gold_answer": "2003-04-10 10:10:24"
+    },
+    {
+        "id": 97,
+        "text": "I want to make a call to someone. He is in Singapore, and I am in Qyzylorda. If it is 01:50:26, Dec 10, 2020 here, what time is it there?",
+        "gold_answer": "2020-12-10 04:50:26"
+    },
+    {
+        "id": 98,
+        "text": "What is the time in East if it is 01:59:47, Oct 03, 2000 in Gaborone?",
+        "gold_answer": "2000-10-02 20:59:47"
+    },
+    {
+        "id": 99,
+        "text": "It is 20:33:29, Sep 02, 2007 in MET. What is the time in South Georgia?",
+        "gold_answer": "2007-09-02 16:33:29"
+    },
+    {
+        "id": 100,
+        "text": "My friend is in Navajo, and I am in Egypt. If it is 09:16:36, Jun 13, 2036 here, what time is it there?",
+        "gold_answer": "2036-06-13 00:16:36"
+    },
+    {
+        "id": 101,
+        "text": "I want to make a call to someone. He is in Virgin, and I am in Brazzaville. If it is 13:00:52, Apr 11, 2008 here, what time is it there?",
+        "gold_answer": "2008-04-11 08:00:52"
+    },
+    {
+        "id": 102,
+        "text": "My friend is in North Dakota, and I am in NZ. If it is Dec 21 2023 10:24:03PM here, what time is it there?",
+        "gold_answer": "2023-12-21 03:24:03"
+    },
+    {
+        "id": 103,
+        "text": "I want to talk to someone in Yekaterinburg at 2035-12-03 12:50:20 in Omsk. What time is it there?",
+        "gold_answer": "2035-12-03 11:50:20"
+    },
+    {
+        "id": 104,
+        "text": "What is the time in Kiritimati if it is Jun 05 2035 09:52:04PM in Fort Wayne?",
+        "gold_answer": "2035-06-06 15:52:04"
+    },
+    {
+        "id": 105,
+        "text": "I want to make a call to someone. He is in Dawson Creek, and I am in Gaza. If it is 2036-02-06 18:38:57 here, what time is it there?",
+        "gold_answer": "2036-02-06 09:38:57"
+    },
+    {
+        "id": 106,
+        "text": "I want to talk to someone in Lagos at May 27 2020 12:10:16PM in North Dakota. What time is it there?",
+        "gold_answer": "2020-05-27 18:10:16"
+    },
+    {
+        "id": 107,
+        "text": "What is the time in Abidjan if it is 10:30:44, Oct 03, 2028 in Maceio?",
+        "gold_answer": "2028-10-03 13:30:44"
+    },
+    {
+        "id": 108,
+        "text": "What is the time in Currie if it is 05:25:48, Feb 17, 2017 in Qatar?",
+        "gold_answer": "2017-02-17 13:25:48"
+    },
+    {
+        "id": 109,
+        "text": "My friend is in Hongkong, and I am in Kuwait. If it is Jun 26 2026 12:17:24AM here, what time is it there?",
+        "gold_answer": "2026-06-26 05:17:24"
+    },
+    {
+        "id": 110,
+        "text": "I want to talk to someone in Oral at 12:17:23, Jun 05, 2021 in Maceio. What time is it there?",
+        "gold_answer": "2021-06-05 20:17:23"
+    },
+    {
+        "id": 111,
+        "text": "I want to make a call to someone. He is in Havana, and I am in Caracas. If it is Jan 25 2006 06:36:04PM here, what time is it there?",
+        "gold_answer": "2006-01-25 18:36:04"
+    },
+    {
+        "id": 112,
+        "text": "It is 18:47:28, Nov 10, 2035 in Faroe. What is the time in Luxembourg?",
+        "gold_answer": "2035-11-10 19:47:28"
+    },
+    {
+        "id": 113,
+        "text": "It is 01:47:39, May 31, 2001 in Arizona. What is the time in Bougainville?",
+        "gold_answer": "2001-05-31 18:47:39"
+    },
+    {
+        "id": 114,
+        "text": "My friend is in Faroe, and I am in Virgin. If it is 2027-11-15 23:36:30 here, what time is it there?",
+        "gold_answer": "2027-11-16 03:36:30"
+    },
+    {
+        "id": 115,
+        "text": "It is 2010-05-12 08:12:29 in Bahia. What is the time in Tel Aviv?",
+        "gold_answer": "2010-05-12 14:12:29"
+    },
+    {
+        "id": 116,
+        "text": "I want to talk to someone in Ujung Pandang at Feb 17 2013 08:43:02PM in Luanda. What time is it there?",
+        "gold_answer": "2013-02-18 03:43:02"
+    },
+    {
+        "id": 117,
+        "text": "It is Apr 06 2022 05:47:35AM in Norfolk. What is the time in Tashkent?",
+        "gold_answer": "2022-04-05 23:47:35"
+    },
+    {
+        "id": 118,
+        "text": "I want to make a call to someone. He is in Funafuti, and I am in Alaska. If it is Jun 11 2034 05:42:18PM here, what time is it there?",
+        "gold_answer": "2034-06-12 13:42:18"
+    },
+    {
+        "id": 119,
+        "text": "I want to talk to someone in Antananarivo at Jul 05 2030 06:59:22PM in Dili. What time is it there?",
+        "gold_answer": "2030-07-05 12:59:22"
+    },
+    {
+        "id": 120,
+        "text": "My friend is in Rangoon, and I am in Christmas. If it is Nov 03 2026 09:00:17PM here, what time is it there?",
+        "gold_answer": "2026-11-03 20:30:17"
+    },
+    {
+        "id": 121,
+        "text": "I want to make a call to someone. He is in Eastern, and I am in Tarawa. If it is Aug 06 2021 06:11:48AM here, what time is it there?",
+        "gold_answer": "2021-08-05 14:11:48"
+    },
+    {
+        "id": 122,
+        "text": "What is the time in Louisville if it is 10:27:12, Sep 17, 2000 in Bangui?",
+        "gold_answer": "2000-09-17 05:27:12"
+    },
+    {
+        "id": 123,
+        "text": "My friend is in Vienna, and I am in North Dakota. If it is 19:11:49, Feb 21, 2017 here, what time is it there?",
+        "gold_answer": "2017-02-22 02:11:49"
+    },
+    {
+        "id": 124,
+        "text": "I want to make a call to someone. He is in GMT+12, and I am in Malta. If it is 2025-01-04 03:45:56 here, what time is it there?",
+        "gold_answer": "2025-01-03 14:45:56"
+    },
+    {
+        "id": 125,
+        "text": "It is Jul 20 2012 02:32:34PM in Kentucky. What is the time in Libya?",
+        "gold_answer": "2012-07-20 20:32:34"
+    },
+    {
+        "id": 126,
+        "text": "It is 22:28:32, Oct 18, 2014 in Newfoundland. What is the time in Dawson Creek?",
+        "gold_answer": "2014-10-18 17:58:32"
+    },
+    {
+        "id": 127,
+        "text": "My friend is in Brussels, and I am in Tokyo. If it is Feb 16 2009 04:51:43PM here, what time is it there?",
+        "gold_answer": "2009-02-16 08:51:43"
+    },
+    {
+        "id": 128,
+        "text": "I want to make a call to someone. He is in Tehran, and I am in Halifax. If it is 2009-11-25 12:58:03 here, what time is it there?",
+        "gold_answer": "2009-11-25 20:28:03"
+    },
+    {
+        "id": 129,
+        "text": "My friend is in Ulan Bator, and I am in Tallinn. If it is 2029-05-26 12:00:17 here, what time is it there?",
+        "gold_answer": "2029-05-26 17:00:17"
+    },
+    {
+        "id": 130,
+        "text": "I want to make a call to someone. He is in Vientiane, and I am in Guadeloupe. If it is Jun 11 2002 05:31:51AM here, what time is it there?",
+        "gold_answer": "2002-06-11 16:31:51"
+    },
+    {
+        "id": 131,
+        "text": "I want to make a call to someone. He is in Cairo, and I am in Rainy River. If it is 2027-10-08 09:46:26 here, what time is it there?",
+        "gold_answer": "2027-10-08 17:46:26"
+    },
+    {
+        "id": 132,
+        "text": "I want to talk to someone in Puerto Rico at 2034-01-25 19:12:52 in Kolkata. What time is it there?",
+        "gold_answer": "2034-01-25 09:42:52"
+    },
+    {
+        "id": 133,
+        "text": "My friend is in Skopje, and I am in GMT-3. If it is 19:22:41, Nov 11, 2002 here, what time is it there?",
+        "gold_answer": "2002-11-11 17:22:41"
+    },
+    {
+        "id": 134,
+        "text": "What is the time in Yakutsk if it is 2009-09-04 17:44:10 in Lome?",
+        "gold_answer": "2009-09-05 03:44:10"
+    },
+    {
+        "id": 135,
+        "text": "I want to make a call to someone. He is in Famagusta, and I am in Zulu. If it is 2019-09-22 00:35:41 here, what time is it there?",
+        "gold_answer": "2019-09-22 03:35:41"
+    },
+    {
+        "id": 136,
+        "text": "I want to make a call to someone. He is in GMT+11, and I am in GMT-7. If it is 21:40:14, Jun 21, 2005 here, what time is it there?",
+        "gold_answer": "2005-06-21 03:40:14"
+    },
+    {
+        "id": 137,
+        "text": "I want to talk to someone in Sofia at 00:15:20, Sep 26, 2031 in Navajo. What time is it there?",
+        "gold_answer": "2031-09-26 09:15:20"
+    },
+    {
+        "id": 138,
+        "text": "My friend is in CET, and I am in Thunder Bay. If it is 2004-08-25 01:43:32 here, what time is it there?",
+        "gold_answer": "2004-08-25 07:43:32"
+    },
+    {
+        "id": 139,
+        "text": "I want to talk to someone in Nairobi at 02:46:02, Jul 22, 2032 in Malta. What time is it there?",
+        "gold_answer": "2032-07-22 03:46:02"
+    },
+    {
+        "id": 140,
+        "text": "My friend is in Sarajevo, and I am in Timbuktu. If it is 15:41:24, May 20, 2026 here, what time is it there?",
+        "gold_answer": "2026-05-20 17:41:24"
+    },
+    {
+        "id": 141,
+        "text": "It is May 26 2023 02:56:47AM in Cayman. What is the time in Gambier?",
+        "gold_answer": "2023-05-25 22:56:47"
+    },
+    {
+        "id": 142,
+        "text": "My friend is in Khandyga, and I am in New York. If it is May 17 2009 05:08:09AM here, what time is it there?",
+        "gold_answer": "2009-05-17 20:08:09"
+    },
+    {
+        "id": 143,
+        "text": "I want to talk to someone in Harare at Jul 12 2019 10:27:48PM in Ojinaga. What time is it there?",
+        "gold_answer": "2019-07-13 06:27:48"
+    },
+    {
+        "id": 144,
+        "text": "I want to make a call to someone. He is in Marquesas, and I am in Istanbul. If it is Feb 07 2034 03:20:16PM here, what time is it there?",
+        "gold_answer": "2034-02-07 02:50:16"
+    },
+    {
+        "id": 145,
+        "text": "I want to talk to someone in Addis Ababa at Apr 21 2001 02:56:53PM in Cuiaba. What time is it there?",
+        "gold_answer": "2001-04-21 21:56:53"
+    },
+    {
+        "id": 146,
+        "text": "What is the time in Omsk if it is May 05 2004 01:22:44PM in Argentina?",
+        "gold_answer": "2004-05-05 23:22:44"
+    },
+    {
+        "id": 147,
+        "text": "What is the time in Porto-Novo if it is 13:20:40, Oct 22, 2001 in Ust-Nera?",
+        "gold_answer": "2001-10-22 02:20:40"
+    },
+    {
+        "id": 148,
+        "text": "My friend is in Argentina, and I am in Bangkok. If it is 2018-02-07 12:28:14 here, what time is it there?",
+        "gold_answer": "2018-02-07 02:28:14"
+    },
+    {
+        "id": 149,
+        "text": "I want to make a call to someone. He is in Chungking, and I am in Indianapolis. If it is Apr 18 2035 12:29:27AM here, what time is it there?",
+        "gold_answer": "2035-04-18 12:29:27"
+    },
+    {
+        "id": 150,
+        "text": "My friend is in Atikokan, and I am in Nicosia. If it is 08:12:21, Feb 03, 2021 here, what time is it there?",
+        "gold_answer": "2021-02-03 01:12:21"
+    },
+    {
+        "id": 151,
+        "text": "I want to make a call to someone. He is in Budapest, and I am in Zulu. If it is 22:51:11, Aug 23, 2010 here, what time is it there?",
+        "gold_answer": "2010-08-24 00:51:11"
+    },
+    {
+        "id": 152,
+        "text": "I want to make a call to someone. He is in West, and I am in Edmonton. If it is 2007-06-11 15:29:40 here, what time is it there?",
+        "gold_answer": "2007-06-12 05:29:40"
+    },
+    {
+        "id": 153,
+        "text": "I want to make a call to someone. He is in Rio Branco, and I am in EasterIsland. If it is 13:49:39, Feb 19, 2009 here, what time is it there?",
+        "gold_answer": "2009-02-19 14:49:39"
+    },
+    {
+        "id": 154,
+        "text": "My friend is in Marquesas, and I am in Riyadh. If it is 2011-08-10 18:10:44 here, what time is it there?",
+        "gold_answer": "2011-08-10 05:40:44"
+    },
+    {
+        "id": 155,
+        "text": "What is the time in Indiana if it is 2008-09-13 06:28:14 in Gaborone?",
+        "gold_answer": "2008-09-13 00:28:14"
+    },
+    {
+        "id": 156,
+        "text": "I want to talk to someone in EST5EDT at 2015-05-26 06:19:08 in GMT. What time is it there?",
+        "gold_answer": "2015-05-26 02:19:08"
+    },
+    {
+        "id": 157,
+        "text": "It is 17:14:15, Mar 29, 2014 in Riga. What is the time in Tel Aviv?",
+        "gold_answer": "2014-03-29 18:14:15"
+    },
+    {
+        "id": 158,
+        "text": "My friend is in Ceuta, and I am in Phnom Penh. If it is 2021-07-06 10:10:46 here, what time is it there?",
+        "gold_answer": "2021-07-06 05:10:46"
+    },
+    {
+        "id": 159,
+        "text": "What is the time in Ponape if it is 11:58:59, Dec 17, 2016 in Adelaide?",
+        "gold_answer": "2016-12-17 12:28:59"
+    },
+    {
+        "id": 160,
+        "text": "I want to talk to someone in Ho Chi Minh at Apr 09 2004 06:39:05AM in Lome. What time is it there?",
+        "gold_answer": "2004-04-09 13:39:05"
+    },
+    {
+        "id": 161,
+        "text": "My friend is in Mawson, and I am in Costa Rica. If it is 2006-05-08 15:26:54 here, what time is it there?",
+        "gold_answer": "2006-05-09 03:26:54"
+    },
+    {
+        "id": 162,
+        "text": "What is the time in Belem if it is 11:31:45, Dec 13, 2006 in Maldives?",
+        "gold_answer": "2006-12-13 03:31:45"
+    },
+    {
+        "id": 163,
+        "text": "It is Mar 23 2036 09:51:42AM in GMT-8. What is the time in Mbabane?",
+        "gold_answer": "2036-03-23 03:51:42"
+    },
+    {
+        "id": 164,
+        "text": "My friend is in Rangoon, and I am in Nouakchott. If it is 19:08:31, Mar 20, 2028 here, what time is it there?",
+        "gold_answer": "2028-03-21 01:38:31"
+    },
+    {
+        "id": 165,
+        "text": "My friend is in Tallinn, and I am in Tokyo. If it is 2032-03-17 15:44:15 here, what time is it there?",
+        "gold_answer": "2032-03-17 08:44:15"
+    },
+    {
+        "id": 166,
+        "text": "My friend is in Argentina, and I am in Skopje. If it is Aug 17 2007 11:46:14AM here, what time is it there?",
+        "gold_answer": "2007-08-17 06:46:14"
+    },
+    {
+        "id": 167,
+        "text": "My friend is in Stockholm, and I am in Faeroe. If it is 18:40:33, Aug 13, 2002 here, what time is it there?",
+        "gold_answer": "2002-08-13 19:40:33"
+    },
+    {
+        "id": 168,
+        "text": "My friend is in Aleutian, and I am in Banjul. If it is 00:27:48, Jun 23, 2005 here, what time is it there?",
+        "gold_answer": "2005-06-22 15:27:48"
+    },
+    {
+        "id": 169,
+        "text": "It is 2025-10-21 23:56:44 in South Pole. What is the time in Choibalsan?",
+        "gold_answer": "2025-10-21 18:56:44"
+    },
+    {
+        "id": 170,
+        "text": "It is Apr 25 2036 12:26:14AM in Rio Branco. What is the time in Moscow?",
+        "gold_answer": "2036-04-25 08:26:14"
+    },
+    {
+        "id": 171,
+        "text": "It is 2032-12-03 21:26:52 in St Johns. What is the time in Argentina?",
+        "gold_answer": "2032-12-03 21:56:52"
+    },
+    {
+        "id": 172,
+        "text": "My friend is in Samoa, and I am in Hebron. If it is Dec 17 2017 02:35:48PM here, what time is it there?",
+        "gold_answer": "2017-12-17 01:35:48"
+    },
+    {
+        "id": 173,
+        "text": "What is the time in St Vincent if it is Jul 10 2039 11:59:37AM in Guam?",
+        "gold_answer": "2039-07-09 21:59:37"
+    },
+    {
+        "id": 174,
+        "text": "What is the time in Fakaofo if it is 00:21:31, Sep 04, 2005 in Jerusalem?",
+        "gold_answer": "2005-09-03 10:21:31"
+    },
+    {
+        "id": 175,
+        "text": "What is the time in Sydney if it is Jan 01 2019 02:20:40PM in Mexico City?",
+        "gold_answer": "2019-01-02 07:20:40"
+    },
+    {
+        "id": 176,
+        "text": "I want to talk to someone in Jujuy at 2018-02-02 22:27:11 in ROC. What time is it there?",
+        "gold_answer": "2018-02-02 11:27:11"
+    },
+    {
+        "id": 177,
+        "text": "My friend is in Khartoum, and I am in Malta. If it is 21:24:49, Aug 23, 2010 here, what time is it there?",
+        "gold_answer": "2010-08-23 22:24:49"
+    },
+    {
+        "id": 178,
+        "text": "I want to make a call to someone. He is in Bougainville, and I am in WET. If it is 02:52:23, Jun 16, 2030 here, what time is it there?",
+        "gold_answer": "2030-06-16 12:52:23"
+    },
+    {
+        "id": 179,
+        "text": "What is the time in Michigan if it is Apr 30 2011 10:06:33PM in Argentina?",
+        "gold_answer": "2011-04-30 21:06:33"
+    },
+    {
+        "id": 180,
+        "text": "It is Jul 20 2006 08:29:15PM in Resolute. What is the time in Halifax?",
+        "gold_answer": "2006-07-20 22:29:15"
+    },
+    {
+        "id": 181,
+        "text": "I want to make a call to someone. He is in Mexico City, and I am in Majuro. If it is 07:58:04, Nov 21, 2032 here, what time is it there?",
+        "gold_answer": "2032-11-20 13:58:04"
+    },
+    {
+        "id": 182,
+        "text": "I want to make a call to someone. He is in Central, and I am in Ulyanovsk. If it is Jan 26 2028 09:40:12AM here, what time is it there?",
+        "gold_answer": "2028-01-25 23:40:12"
+    },
+    {
+        "id": 183,
+        "text": "My friend is in Guayaquil, and I am in Atikokan. If it is 17:41:25, May 07, 2019 here, what time is it there?",
+        "gold_answer": "2019-05-07 17:41:25"
+    },
+    {
+        "id": 184,
+        "text": "I want to talk to someone in Acre at Jan 06 2038 12:18:16AM in Santiago. What time is it there?",
+        "gold_answer": "2038-01-05 22:18:16"
+    },
+    {
+        "id": 185,
+        "text": "My friend is in Chatham, and I am in Santiago. If it is Mar 29 2035 08:34:43AM here, what time is it there?",
+        "gold_answer": "2035-03-30 01:19:43"
+    },
+    {
+        "id": 186,
+        "text": "It is 2002-05-03 02:19:31 in Macao. What is the time in GMT+12?",
+        "gold_answer": "2002-05-02 06:19:31"
+    },
+    {
+        "id": 187,
+        "text": "It is 2013-05-23 10:15:37 in GMT+0. What is the time in South Pole?",
+        "gold_answer": "2013-05-23 22:15:37"
+    },
+    {
+        "id": 188,
+        "text": "I want to talk to someone in Novokuznetsk at Oct 24 2032 10:44:34PM in Campo Grande. What time is it there?",
+        "gold_answer": "2032-10-25 09:44:34"
+    },
+    {
+        "id": 189,
+        "text": "It is 2037-07-10 11:39:35 in Anchorage. What is the time in Santiago?",
+        "gold_answer": "2037-07-10 15:39:35"
+    },
+    {
+        "id": 190,
+        "text": "I want to make a call to someone. He is in Aqtau, and I am in Kentucky. If it is 2005-08-13 14:36:54 here, what time is it there?",
+        "gold_answer": "2005-08-13 23:36:54"
+    },
+    {
+        "id": 191,
+        "text": "I want to make a call to someone. He is in Cape Verde, and I am in Nauru. If it is 16:11:18, Jan 01, 2012 here, what time is it there?",
+        "gold_answer": "2012-01-01 03:11:18"
+    },
+    {
+        "id": 192,
+        "text": "I want to talk to someone in Windhoek at 08:13:40, Sep 02, 2033 in Indiana. What time is it there?",
+        "gold_answer": "2033-09-02 14:13:40"
+    },
+    {
+        "id": 193,
+        "text": "What is the time in Universal if it is Jan 24 2017 09:58:08AM in Chihuahua?",
+        "gold_answer": "2017-01-24 16:58:08"
+    },
+    {
+        "id": 194,
+        "text": "I want to talk to someone in Qostanay at 18:37:22, Apr 24, 2040 in Grenada. What time is it there?",
+        "gold_answer": "2040-04-25 04:37:22"
+    },
+    {
+        "id": 195,
+        "text": "What is the time in Cuba if it is 2000-07-18 23:54:39 in Miquelon?",
+        "gold_answer": "2000-07-18 21:54:39"
+    },
+    {
+        "id": 196,
+        "text": "I want to make a call to someone. He is in Vientiane, and I am in Belize. If it is Jul 31 2016 01:09:54AM here, what time is it there?",
+        "gold_answer": "2016-07-31 14:09:54"
+    },
+    {
+        "id": 197,
+        "text": "I want to talk to someone in Thunder Bay at 03:28:45, Oct 01, 2003 in Port-au-Prince. What time is it there?",
+        "gold_answer": "2003-10-01 04:28:45"
+    },
+    {
+        "id": 198,
+        "text": "What is the time in Boa Vista if it is 12:37:39, Mar 05, 2014 in Yerevan?",
+        "gold_answer": "2014-03-05 04:37:39"
+    },
+    {
+        "id": 199,
+        "text": "My friend is in Mahe, and I am in Tortola. If it is 2029-09-07 19:45:16 here, what time is it there?",
+        "gold_answer": "2029-09-08 03:45:16"
+    },
+    {
+        "id": 200,
+        "text": "It is 12:46:45, Mar 20, 2008 in Anadyr. What is the time in Oral?",
+        "gold_answer": "2008-03-20 05:46:45"
+    },
+    {
+        "id": 201,
+        "text": "I want to make a call to someone. He is in Thunder Bay, and I am in Dominica. If it is 15:57:31, Nov 21, 2036 here, what time is it there?",
+        "gold_answer": "2036-11-21 14:57:31"
+    },
+    {
+        "id": 202,
+        "text": "It is Mar 16 2013 11:17:01AM in Hong Kong. What is the time in Whitehorse?",
+        "gold_answer": "2013-03-15 20:17:01"
+    },
+    {
+        "id": 203,
+        "text": "It is 2022-06-30 23:50:44 in Choibalsan. What is the time in Vladivostok?",
+        "gold_answer": "2022-07-01 01:50:44"
+    },
+    {
+        "id": 204,
+        "text": "It is 2012-03-13 13:05:56 in UTC. What is the time in MST7MDT?",
+        "gold_answer": "2012-03-13 07:05:56"
+    },
+    {
+        "id": 205,
+        "text": "My friend is in GMT-10, and I am in Casablanca. If it is 23:14:01, Oct 08, 2025 here, what time is it there?",
+        "gold_answer": "2025-10-09 08:14:01"
+    },
+    {
+        "id": 206,
+        "text": "I want to make a call to someone. He is in El Aaiun, and I am in Kolkata. If it is 14:43:49, May 30, 2019 here, what time is it there?",
+        "gold_answer": "2019-05-30 09:13:49"
+    },
+    {
+        "id": 207,
+        "text": "I want to make a call to someone. He is in GMT+12, and I am in Auckland. If it is 01:40:14, Apr 09, 2009 here, what time is it there?",
+        "gold_answer": "2009-04-08 01:40:14"
+    },
+    {
+        "id": 208,
+        "text": "I want to make a call to someone. He is in Lima, and I am in Metlakatla. If it is 17:04:26, Aug 26, 2017 here, what time is it there?",
+        "gold_answer": "2017-08-26 20:04:26"
+    },
+    {
+        "id": 209,
+        "text": "What is the time in Magadan if it is Aug 11 2005 01:41:47PM in Harbin?",
+        "gold_answer": "2005-08-11 17:41:47"
+    },
+    {
+        "id": 210,
+        "text": "It is Aug 28 2024 02:39:29PM in Yap. What is the time in Buenos Aires?",
+        "gold_answer": "2024-08-28 01:39:29"
+    },
+    {
+        "id": 211,
+        "text": "I want to talk to someone in Canary at 2014-02-11 05:39:27 in Ponape. What time is it there?",
+        "gold_answer": "2014-02-10 18:39:27"
+    },
+    {
+        "id": 212,
+        "text": "What is the time in Indiana if it is 00:33:26, Feb 17, 2035 in Edmonton?",
+        "gold_answer": "2035-02-17 01:33:26"
+    },
+    {
+        "id": 213,
+        "text": "My friend is in Mexico City, and I am in South Pole. If it is 2031-04-25 07:52:06 here, what time is it there?",
+        "gold_answer": "2031-04-24 13:52:06"
+    },
+    {
+        "id": 214,
+        "text": "I want to make a call to someone. He is in Anguilla, and I am in Kirov. If it is 12:19:33, Oct 23, 2003 here, what time is it there?",
+        "gold_answer": "2003-10-23 04:19:33"
+    },
+    {
+        "id": 215,
+        "text": "It is 2022-12-28 16:25:56 in Kwajalein. What is the time in Guyana?",
+        "gold_answer": "2022-12-28 00:25:56"
+    },
+    {
+        "id": 216,
+        "text": "I want to talk to someone in Guam at Mar 21 2037 03:49:59PM in East-Indiana. What time is it there?",
+        "gold_answer": "2037-03-22 05:49:59"
+    },
+    {
+        "id": 217,
+        "text": "My friend is in MET, and I am in Monaco. If it is May 03 2038 11:14:09AM here, what time is it there?",
+        "gold_answer": "2038-05-03 11:14:09"
+    },
+    {
+        "id": 218,
+        "text": "It is Oct 15 2008 11:39:51PM in Chita. What is the time in Indianapolis?",
+        "gold_answer": "2008-10-15 09:39:51"
+    },
+    {
+        "id": 219,
+        "text": "I want to make a call to someone. He is in Mexico City, and I am in Mazatlan. If it is 00:43:58, Oct 23, 2003 here, what time is it there?",
+        "gold_answer": "2003-10-23 01:43:58"
+    },
+    {
+        "id": 220,
+        "text": "I want to make a call to someone. He is in GB-Eire, and I am in Kaliningrad. If it is Sep 16 2015 11:55:12PM here, what time is it there?",
+        "gold_answer": "2015-09-16 22:55:12"
+    },
+    {
+        "id": 221,
+        "text": "What is the time in Atyrau if it is 2021-07-25 16:57:57 in San Marino?",
+        "gold_answer": "2021-07-25 19:57:57"
+    },
+    {
+        "id": 222,
+        "text": "What is the time in Lord Howe if it is 2010-04-12 09:10:26 in Ponape?",
+        "gold_answer": "2010-04-12 08:40:26"
+    },
+    {
+        "id": 223,
+        "text": "I want to make a call to someone. He is in CET, and I am in Argentina. If it is 2012-06-29 15:51:47 here, what time is it there?",
+        "gold_answer": "2012-06-29 20:51:47"
+    },
+    {
+        "id": 224,
+        "text": "I want to make a call to someone. He is in Ojinaga, and I am in Aqtau. If it is Apr 10 2004 03:03:10PM here, what time is it there?",
+        "gold_answer": "2004-04-10 04:03:10"
+    },
+    {
+        "id": 225,
+        "text": "My friend is in Tongatapu, and I am in Tarawa. If it is 22:51:01, Oct 23, 2034 here, what time is it there?",
+        "gold_answer": "2034-10-23 23:51:01"
+    },
+    {
+        "id": 226,
+        "text": "I want to make a call to someone. He is in Kashgar, and I am in Pohnpei. If it is 07:25:54, Sep 27, 2012 here, what time is it there?",
+        "gold_answer": "2012-09-27 02:25:54"
+    },
+    {
+        "id": 227,
+        "text": "My friend is in Vienna, and I am in St Helena. If it is 2005-07-22 19:00:33 here, what time is it there?",
+        "gold_answer": "2005-07-22 21:00:33"
+    },
+    {
+        "id": 228,
+        "text": "What is the time in Busingen if it is 2015-04-15 20:48:38 in South?",
+        "gold_answer": "2015-04-15 13:18:38"
+    },
+    {
+        "id": 229,
+        "text": "I want to make a call to someone. He is in Belem, and I am in Johannesburg. If it is 21:54:29, Aug 18, 2004 here, what time is it there?",
+        "gold_answer": "2004-08-18 16:54:29"
+    },
+    {
+        "id": 230,
+        "text": "What is the time in Luanda if it is 2001-01-09 18:08:53 in Gambier?",
+        "gold_answer": "2001-01-10 04:08:53"
+    },
+    {
+        "id": 231,
+        "text": "What is the time in Lome if it is 2037-01-08 22:44:46 in Marquesas?",
+        "gold_answer": "2037-01-09 08:14:46"
+    },
+    {
+        "id": 232,
+        "text": "What is the time in Damascus if it is 04:46:24, Jan 07, 2026 in Port Moresby?",
+        "gold_answer": "2026-01-06 21:46:24"
+    },
+    {
+        "id": 233,
+        "text": "I want to talk to someone in Ho Chi Minh at Jul 18 2012 05:17:04AM in Minsk. What time is it there?",
+        "gold_answer": "2012-07-18 09:17:04"
+    },
+    {
+        "id": 234,
+        "text": "It is 2009-03-06 13:53:54 in Cuba. What is the time in GMT0?",
+        "gold_answer": "2009-03-06 18:53:54"
+    },
+    {
+        "id": 235,
+        "text": "It is 2009-08-15 13:52:11 in Grand Turk. What is the time in Mexico City?",
+        "gold_answer": "2009-08-15 12:52:11"
+    },
+    {
+        "id": 236,
+        "text": "My friend is in GMT+9, and I am in Brisbane. If it is 03:38:26, Aug 28, 2027 here, what time is it there?",
+        "gold_answer": "2027-08-27 08:38:26"
+    },
+    {
+        "id": 237,
+        "text": "I want to make a call to someone. He is in Troll, and I am in GMT+0. If it is 2027-11-25 13:14:12 here, what time is it there?",
+        "gold_answer": "2027-11-25 13:14:12"
+    },
+    {
+        "id": 238,
+        "text": "My friend is in Guyana, and I am in Fort Wayne. If it is Jan 27 2035 07:14:08AM here, what time is it there?",
+        "gold_answer": "2035-01-27 08:14:08"
+    },
+    {
+        "id": 239,
+        "text": "I want to make a call to someone. He is in Nuuk, and I am in Inuvik. If it is 2013-02-03 17:11:10 here, what time is it there?",
+        "gold_answer": "2013-02-03 21:11:10"
+    },
+    {
+        "id": 240,
+        "text": "It is 04:35:57, Sep 22, 2016 in Amman. What is the time in ROK?",
+        "gold_answer": "2016-09-22 10:35:57"
+    },
+    {
+        "id": 241,
+        "text": "My friend is in GMT+0, and I am in Rosario. If it is Apr 20 2024 08:07:18AM here, what time is it there?",
+        "gold_answer": "2024-04-20 11:07:18"
+    },
+    {
+        "id": 242,
+        "text": "I want to talk to someone in Nairobi at 2018-12-26 01:44:33 in Choibalsan. What time is it there?",
+        "gold_answer": "2018-12-25 20:44:33"
+    },
+    {
+        "id": 243,
+        "text": "I want to make a call to someone. He is in Samoa, and I am in Darwin. If it is 06:11:25, Jan 07, 2005 here, what time is it there?",
+        "gold_answer": "2005-01-06 09:41:25"
+    },
+    {
+        "id": 244,
+        "text": "What is the time in Kyiv if it is 14:37:11, May 30, 2040 in Glace Bay?",
+        "gold_answer": "2040-05-30 20:37:11"
+    },
+    {
+        "id": 245,
+        "text": "My friend is in Queensland, and I am in Rosario. If it is 2007-05-12 14:17:49 here, what time is it there?",
+        "gold_answer": "2007-05-13 03:17:49"
+    },
+    {
+        "id": 246,
+        "text": "It is 00:31:58, Aug 18, 2030 in Nome. What is the time in Edmonton?",
+        "gold_answer": "2030-08-18 02:31:58"
+    },
+    {
+        "id": 247,
+        "text": "I want to talk to someone in East-Indiana at 2015-09-30 18:54:45 in Noronha. What time is it there?",
+        "gold_answer": "2015-09-30 16:54:45"
+    },
+    {
+        "id": 248,
+        "text": "It is 16:59:00, Jun 11, 2004 in Bratislava. What is the time in Argentina?",
+        "gold_answer": "2004-06-11 10:59:00"
+    },
+    {
+        "id": 249,
+        "text": "It is Mar 31 2029 03:40:59AM in Troll. What is the time in Sitka?",
+        "gold_answer": "2029-03-30 17:40:59"
+    },
+    {
+        "id": 250,
+        "text": "My friend is in Oral, and I am in Kaliningrad. If it is Oct 11 2001 10:10:17PM here, what time is it there?",
+        "gold_answer": "2001-10-12 00:10:17"
+    },
+    {
+        "id": 251,
+        "text": "I want to talk to someone in Kentucky at 05:36:43, Jul 30, 2008 in Argentina. What time is it there?",
+        "gold_answer": "2008-07-30 04:36:43"
+    },
+    {
+        "id": 252,
+        "text": "I want to talk to someone in Boise at 03:07:22, Nov 17, 2017 in Kuwait. What time is it there?",
+        "gold_answer": "2017-11-16 17:07:22"
+    },
+    {
+        "id": 253,
+        "text": "I want to talk to someone in Seoul at 17:38:11, Dec 06, 2019 in Fort Wayne. What time is it there?",
+        "gold_answer": "2019-12-07 07:38:11"
+    },
+    {
+        "id": 254,
+        "text": "I want to make a call to someone. He is in Rankin Inlet, and I am in Monrovia. If it is 2035-06-28 04:49:14 here, what time is it there?",
+        "gold_answer": "2035-06-27 23:49:14"
+    },
+    {
+        "id": 255,
+        "text": "It is May 19 2015 04:12:50AM in EET. What is the time in Santiago?",
+        "gold_answer": "2015-05-18 22:12:50"
+    },
+    {
+        "id": 256,
+        "text": "It is 00:57:02, Jun 08, 2007 in Indiana. What is the time in North Dakota?",
+        "gold_answer": "2007-06-07 23:57:02"
+    },
+    {
+        "id": 257,
+        "text": "What is the time in Kolkata if it is Mar 03 2023 10:15:42PM in Nairobi?",
+        "gold_answer": "2023-03-04 00:45:42"
+    },
+    {
+        "id": 258,
+        "text": "What is the time in New York if it is May 02 2028 02:16:39PM in ACT?",
+        "gold_answer": "2028-05-02 00:16:39"
+    },
+    {
+        "id": 259,
+        "text": "What is the time in Los Angeles if it is Jul 30 2000 06:09:26AM in Qostanay?",
+        "gold_answer": "2000-07-29 17:09:26"
+    },
+    {
+        "id": 260,
+        "text": "I want to make a call to someone. He is in Copenhagen, and I am in Hebron. If it is 2015-03-22 16:03:05 here, what time is it there?",
+        "gold_answer": "2015-03-22 15:03:05"
+    },
+    {
+        "id": 261,
+        "text": "It is 03:16:07, Apr 09, 2001 in Andorra. What is the time in Srednekolymsk?",
+        "gold_answer": "2001-04-09 13:16:07"
+    },
+    {
+        "id": 262,
+        "text": "My friend is in Bangkok, and I am in Macao. If it is Sep 25 2038 07:16:29PM here, what time is it there?",
+        "gold_answer": "2038-09-25 18:16:29"
+    },
+    {
+        "id": 263,
+        "text": "What is the time in Grenada if it is 16:30:37, Sep 30, 2012 in Qyzylorda?",
+        "gold_answer": "2012-09-30 06:30:37"
+    },
+    {
+        "id": 264,
+        "text": "I want to make a call to someone. He is in El Aaiun, and I am in Menominee. If it is 2037-07-07 15:21:48 here, what time is it there?",
+        "gold_answer": "2037-07-07 21:21:48"
+    },
+    {
+        "id": 265,
+        "text": "I want to talk to someone in Libreville at 2019-04-08 19:40:21 in ROK. What time is it there?",
+        "gold_answer": "2019-04-08 11:40:21"
+    },
+    {
+        "id": 266,
+        "text": "I want to talk to someone in GMT at 21:40:48, Oct 01, 2017 in Kentucky. What time is it there?",
+        "gold_answer": "2017-10-02 01:40:48"
+    },
+    {
+        "id": 267,
+        "text": "What is the time in Acre if it is 17:04:49, Nov 03, 2031 in Kolkata?",
+        "gold_answer": "2031-11-03 06:34:49"
+    },
+    {
+        "id": 268,
+        "text": "What is the time in Hongkong if it is 05:10:14, May 13, 2030 in Bogota?",
+        "gold_answer": "2030-05-13 18:10:14"
+    },
+    {
+        "id": 269,
+        "text": "My friend is in Louisville, and I am in UTC. If it is Apr 09 2031 02:03:30AM here, what time is it there?",
+        "gold_answer": "2031-04-08 22:03:30"
+    },
+    {
+        "id": 270,
+        "text": "I want to talk to someone in Santarem at May 01 2015 07:13:58PM in Goose Bay. What time is it there?",
+        "gold_answer": "2015-05-01 19:13:58"
+    },
+    {
+        "id": 271,
+        "text": "What is the time in East-Indiana if it is 15:44:13, Aug 28, 2023 in PST8PDT?",
+        "gold_answer": "2023-08-28 18:44:13"
+    },
+    {
+        "id": 272,
+        "text": "What is the time in Indiana-Starke if it is Oct 31 2015 03:49:34PM in Buenos Aires?",
+        "gold_answer": "2015-10-31 13:49:34"
+    },
+    {
+        "id": 273,
+        "text": "It is 2014-09-04 01:47:16 in Seoul. What is the time in Faeroe?",
+        "gold_answer": "2014-09-03 17:47:16"
+    },
+    {
+        "id": 274,
+        "text": "It is Oct 10 2032 01:26:46PM in St Kitts. What is the time in Santiago?",
+        "gold_answer": "2032-10-10 14:26:46"
+    },
+    {
+        "id": 275,
+        "text": "What is the time in Vostok if it is Sep 22 2020 12:44:52AM in Aqtau?",
+        "gold_answer": "2020-09-22 01:44:52"
+    },
+    {
+        "id": 276,
+        "text": "What is the time in GMT+8 if it is Jan 14 2006 06:11:12PM in Santiago?",
+        "gold_answer": "2006-01-14 13:11:12"
+    },
+    {
+        "id": 277,
+        "text": "I want to make a call to someone. He is in Kerguelen, and I am in Lord Howe. If it is 23:40:09, Nov 18, 2025 here, what time is it there?",
+        "gold_answer": "2025-11-18 17:40:09"
+    },
+    {
+        "id": 278,
+        "text": "It is Jun 02 2024 05:50:30PM in Adelaide. What is the time in Mendoza?",
+        "gold_answer": "2024-06-02 05:20:30"
+    },
+    {
+        "id": 279,
+        "text": "I want to talk to someone in Omsk at 2038-11-13 21:46:35 in Chongqing. What time is it there?",
+        "gold_answer": "2038-11-13 19:46:35"
+    },
+    {
+        "id": 280,
+        "text": "It is Nov 02 2035 04:33:39AM in Jujuy. What is the time in GMT+6?",
+        "gold_answer": "2035-11-02 01:33:39"
+    },
+    {
+        "id": 281,
+        "text": "I want to talk to someone in Guyana at 15:44:46, Jan 09, 2019 in Israel. What time is it there?",
+        "gold_answer": "2019-01-09 09:44:46"
+    },
+    {
+        "id": 282,
+        "text": "It is 2028-08-21 04:49:17 in Simferopol. What is the time in Muscat?",
+        "gold_answer": "2028-08-21 05:49:17"
+    },
+    {
+        "id": 283,
+        "text": "I want to talk to someone in Central at 2038-01-15 21:45:25 in Adak. What time is it there?",
+        "gold_answer": "2038-01-16 01:45:25"
+    },
+    {
+        "id": 284,
+        "text": "I want to talk to someone in Moncton at Aug 06 2029 05:48:20AM in Universal. What time is it there?",
+        "gold_answer": "2029-08-06 02:48:20"
+    },
+    {
+        "id": 285,
+        "text": "It is 00:55:44, Jul 06, 2023 in St Thomas. What is the time in Khandyga?",
+        "gold_answer": "2023-07-06 13:55:44"
+    },
+    {
+        "id": 286,
+        "text": "It is Nov 17 2020 10:10:07AM in Poland. What is the time in St Johns?",
+        "gold_answer": "2020-11-17 05:40:07"
+    },
+    {
+        "id": 287,
+        "text": "What is the time in Bissau if it is Feb 01 2018 05:15:32AM in Paris?",
+        "gold_answer": "2018-02-01 04:15:32"
+    },
+    {
+        "id": 288,
+        "text": "It is 2014-12-20 14:52:05 in Dhaka. What is the time in Indiana-Starke?",
+        "gold_answer": "2014-12-20 02:52:05"
+    },
+    {
+        "id": 289,
+        "text": "What is the time in Algiers if it is 2011-03-19 16:23:20 in Nuuk?",
+        "gold_answer": "2011-03-19 20:23:20"
+    },
+    {
+        "id": 290,
+        "text": "My friend is in DeNoronha, and I am in Michigan. If it is 01:18:38, Nov 07, 2000 here, what time is it there?",
+        "gold_answer": "2000-11-07 04:18:38"
+    },
+    {
+        "id": 291,
+        "text": "I want to talk to someone in Inuvik at 2021-08-25 20:42:43 in Grenada. What time is it there?",
+        "gold_answer": "2021-08-25 18:42:43"
+    },
+    {
+        "id": 292,
+        "text": "What is the time in North Dakota if it is 19:32:28, Mar 31, 2037 in Muscat?",
+        "gold_answer": "2037-03-31 10:32:28"
+    },
+    {
+        "id": 293,
+        "text": "What is the time in Damascus if it is Oct 12 2016 06:41:08AM in Anchorage?",
+        "gold_answer": "2016-10-12 17:41:08"
+    },
+    {
+        "id": 294,
+        "text": "I want to talk to someone in Calcutta at 00:38:26, May 13, 2030 in Alaska. What time is it there?",
+        "gold_answer": "2030-05-13 14:08:26"
+    },
+    {
+        "id": 295,
+        "text": "It is 2022-12-02 05:29:56 in Wake. What is the time in Vancouver?",
+        "gold_answer": "2022-12-01 09:29:56"
+    },
+    {
+        "id": 296,
+        "text": "It is 2037-10-19 00:56:37 in Scoresbysund. What is the time in Detroit?",
+        "gold_answer": "2037-10-18 20:56:37"
+    },
+    {
+        "id": 297,
+        "text": "I want to talk to someone in Montreal at Jul 05 2023 04:05:52AM in General. What time is it there?",
+        "gold_answer": "2023-07-05 06:05:52"
+    },
+    {
+        "id": 298,
+        "text": "My friend is in Bamako, and I am in Hebron. If it is Jul 05 2007 01:03:40AM here, what time is it there?",
+        "gold_answer": "2007-07-04 22:03:40"
+    },
+    {
+        "id": 299,
+        "text": "It is Jan 29 2014 10:46:09AM in Tunis. What is the time in Kiritimati?",
+        "gold_answer": "2014-01-29 23:46:09"
+    },
+    {
+        "id": 300,
+        "text": "What is the time in Phnom Penh if it is 12:26:45, Feb 20, 2011 in Yap?",
+        "gold_answer": "2011-02-20 09:26:45"
+    },
+    {
+        "id": 301,
+        "text": "I want to talk to someone in Yukon at Sep 29 2030 04:29:38PM in Algiers. What time is it there?",
+        "gold_answer": "2030-09-29 08:29:38"
+    },
+    {
+        "id": 302,
+        "text": "What is the time in Pacific if it is 18:01:30, Sep 12, 2018 in Sarajevo?",
+        "gold_answer": "2018-09-12 09:01:30"
+    },
+    {
+        "id": 303,
+        "text": "I want to make a call to someone. He is in North Dakota, and I am in Sitka. If it is 2017-09-12 23:33:25 here, what time is it there?",
+        "gold_answer": "2017-09-13 02:33:25"
+    },
+    {
+        "id": 304,
+        "text": "What is the time in GMT-2 if it is 2027-09-23 00:01:35 in Cambridge Bay?",
+        "gold_answer": "2027-09-23 08:01:35"
+    },
+    {
+        "id": 305,
+        "text": "My friend is in Aruba, and I am in West. If it is 22:55:37, Mar 26, 2034 here, what time is it there?",
+        "gold_answer": "2034-03-26 22:55:37"
+    },
+    {
+        "id": 306,
+        "text": "My friend is in Menominee, and I am in Rothera. If it is 2002-09-12 13:04:18 here, what time is it there?",
+        "gold_answer": "2002-09-12 11:04:18"
+    },
+    {
+        "id": 307,
+        "text": "I want to make a call to someone. He is in Miquelon, and I am in Brisbane. If it is 04:56:09, Dec 21, 2014 here, what time is it there?",
+        "gold_answer": "2014-12-20 15:56:09"
+    },
+    {
+        "id": 308,
+        "text": "I want to make a call to someone. He is in Longyearbyen, and I am in Conakry. If it is 2027-02-01 05:42:34 here, what time is it there?",
+        "gold_answer": "2027-02-01 06:42:34"
+    },
+    {
+        "id": 309,
+        "text": "My friend is in Port-au-Prince, and I am in GMT-14. If it is 2009-02-10 11:59:08 here, what time is it there?",
+        "gold_answer": "2009-02-09 16:59:08"
+    },
+    {
+        "id": 310,
+        "text": "I want to make a call to someone. He is in Kamchatka, and I am in Montserrat. If it is 2025-10-18 08:17:46 here, what time is it there?",
+        "gold_answer": "2025-10-19 00:17:46"
+    },
+    {
+        "id": 311,
+        "text": "I want to talk to someone in Alaska at May 06 2031 09:54:42PM in Havana. What time is it there?",
+        "gold_answer": "2031-05-06 17:54:42"
+    },
+    {
+        "id": 312,
+        "text": "My friend is in HST, and I am in Harbin. If it is 2013-11-24 10:13:56 here, what time is it there?",
+        "gold_answer": "2013-11-23 16:13:56"
+    },
+    {
+        "id": 313,
+        "text": "It is 2016-06-27 21:28:57 in Seoul. What is the time in Costa Rica?",
+        "gold_answer": "2016-06-27 06:28:57"
+    },
+    {
+        "id": 314,
+        "text": "What is the time in East-Indiana if it is 21:40:59, Aug 16, 2036 in Volgograd?",
+        "gold_answer": "2036-08-16 14:40:59"
+    },
+    {
+        "id": 315,
+        "text": "It is 03:26:16, Jun 23, 2025 in Belize. What is the time in Scoresbysund?",
+        "gold_answer": "2025-06-23 09:26:16"
+    },
+    {
+        "id": 316,
+        "text": "It is 08:22:51, Mar 24, 2001 in CET. What is the time in Novosibirsk?",
+        "gold_answer": "2001-03-24 13:22:51"
+    },
+    {
+        "id": 317,
+        "text": "What is the time in Greenwich if it is 2017-05-13 11:57:25 in Kigali?",
+        "gold_answer": "2017-05-13 09:57:25"
+    },
+    {
+        "id": 318,
+        "text": "It is 05:16:14, Sep 02, 2039 in South Georgia. What is the time in Stanley?",
+        "gold_answer": "2039-09-02 04:16:14"
+    },
+    {
+        "id": 319,
+        "text": "My friend is in Timbuktu, and I am in Honolulu. If it is Apr 13 2040 06:02:35AM here, what time is it there?",
+        "gold_answer": "2040-04-13 16:02:35"
+    },
+    {
+        "id": 320,
+        "text": "I want to talk to someone in South Georgia at 03:52:13, Apr 12, 2021 in Caracas. What time is it there?",
+        "gold_answer": "2021-04-12 05:52:13"
+    },
+    {
+        "id": 321,
+        "text": "I want to talk to someone in Muscat at 00:10:09, Oct 13, 2007 in GMT+4. What time is it there?",
+        "gold_answer": "2007-10-13 08:10:09"
+    },
+    {
+        "id": 322,
+        "text": "What is the time in EST5EDT if it is 16:33:14, Mar 17, 2015 in Azores?",
+        "gold_answer": "2015-03-17 13:33:14"
+    },
+    {
+        "id": 323,
+        "text": "I want to make a call to someone. He is in Singapore, and I am in Los Angeles. If it is 09:20:38, Feb 29, 2016 here, what time is it there?",
+        "gold_answer": "2016-03-01 01:20:38"
+    },
+    {
+        "id": 324,
+        "text": "I want to talk to someone in Chungking at 13:07:14, Jul 11, 2004 in Accra. What time is it there?",
+        "gold_answer": "2004-07-11 21:07:14"
+    },
+    {
+        "id": 325,
+        "text": "What is the time in LHI if it is 2034-09-28 04:20:03 in W-SU?",
+        "gold_answer": "2034-09-28 11:50:03"
+    },
+    {
+        "id": 326,
+        "text": "I want to make a call to someone. He is in GMT+10, and I am in West. If it is Feb 19 2017 05:20:55AM here, what time is it there?",
+        "gold_answer": "2017-02-18 23:20:55"
+    },
+    {
+        "id": 327,
+        "text": "It is 2020-12-19 22:23:18 in Dhaka. What is the time in MST?",
+        "gold_answer": "2020-12-19 09:23:18"
+    },
+    {
+        "id": 328,
+        "text": "What is the time in South Pole if it is 2011-08-19 05:49:29 in Amman?",
+        "gold_answer": "2011-08-19 14:49:29"
+    },
+    {
+        "id": 329,
+        "text": "It is 2025-11-29 02:33:19 in St Vincent. What is the time in Port of Spain?",
+        "gold_answer": "2025-11-29 02:33:19"
+    },
+    {
+        "id": 330,
+        "text": "It is Apr 06 2013 09:43:18AM in Troll. What is the time in Niue?",
+        "gold_answer": "2013-04-05 20:43:18"
+    },
+    {
+        "id": 331,
+        "text": "I want to make a call to someone. He is in GMT-14, and I am in Darwin. If it is 2029-04-19 00:59:26 here, what time is it there?",
+        "gold_answer": "2029-04-19 05:29:26"
+    },
+    {
+        "id": 332,
+        "text": "It is Aug 31 2036 12:11:14PM in Portugal. What is the time in Acre?",
+        "gold_answer": "2036-08-31 06:11:14"
+    },
+    {
+        "id": 333,
+        "text": "My friend is in ROC, and I am in Stockholm. If it is 04:45:38, Dec 12, 2021 here, what time is it there?",
+        "gold_answer": "2021-12-12 11:45:38"
+    },
+    {
+        "id": 334,
+        "text": "My friend is in Almaty, and I am in Araguaina. If it is 16:43:20, Apr 14, 2025 here, what time is it there?",
+        "gold_answer": "2025-04-15 01:43:20"
+    },
+    {
+        "id": 335,
+        "text": "It is Aug 29 2025 03:13:13AM in Macau. What is the time in GMT+11?",
+        "gold_answer": "2025-08-28 08:13:13"
+    },
+    {
+        "id": 336,
+        "text": "What is the time in Indiana-Starke if it is Jul 13 2011 06:27:55AM in Majuro?",
+        "gold_answer": "2011-07-12 13:27:55"
+    },
+    {
+        "id": 337,
+        "text": "What is the time in Ashkhabad if it is 2006-09-12 21:43:22 in Johnston?",
+        "gold_answer": "2006-09-13 12:43:22"
+    },
+    {
+        "id": 338,
+        "text": "It is 11:36:07, May 14, 2038 in GMT-5. What is the time in Pangnirtung?",
+        "gold_answer": "2038-05-14 01:36:07"
+    },
+    {
+        "id": 339,
+        "text": "It is 05:58:48, Jan 01, 2039 in Caracas. What is the time in Rankin Inlet?",
+        "gold_answer": "2039-01-01 03:58:48"
+    },
+    {
+        "id": 340,
+        "text": "It is 02:37:22, May 21, 2019 in Whitehorse. What is the time in Maldives?",
+        "gold_answer": "2019-05-21 14:37:22"
+    },
+    {
+        "id": 341,
+        "text": "My friend is in GB-Eire, and I am in BajaSur. If it is Dec 12 2013 11:06:04AM here, what time is it there?",
+        "gold_answer": "2013-12-12 18:06:04"
+    },
+    {
+        "id": 342,
+        "text": "My friend is in Magadan, and I am in Argentina. If it is 14:17:19, Sep 22, 2020 here, what time is it there?",
+        "gold_answer": "2020-09-23 04:17:19"
+    },
+    {
+        "id": 343,
+        "text": "My friend is in Indiana-Starke, and I am in Midway. If it is 2008-12-17 14:55:32 here, what time is it there?",
+        "gold_answer": "2008-12-17 19:55:32"
+    },
+    {
+        "id": 344,
+        "text": "I want to talk to someone in Harbin at 22:13:47, Feb 28, 2023 in Thunder Bay. What time is it there?",
+        "gold_answer": "2023-03-01 11:13:47"
+    },
+    {
+        "id": 345,
+        "text": "My friend is in Makassar, and I am in Azores. If it is 05:48:24, Jun 06, 2030 here, what time is it there?",
+        "gold_answer": "2030-06-06 13:48:24"
+    },
+    {
+        "id": 346,
+        "text": "I want to talk to someone in Argentina at Jul 16 2025 05:33:06PM in Khandyga. What time is it there?",
+        "gold_answer": "2025-07-16 05:33:06"
+    },
+    {
+        "id": 347,
+        "text": "I want to make a call to someone. He is in Dawson, and I am in Reykjavik. If it is 10:29:34, Jul 04, 2029 here, what time is it there?",
+        "gold_answer": "2029-07-04 03:29:34"
+    },
+    {
+        "id": 348,
+        "text": "It is Dec 15 2034 01:04:35PM in Argentina. What is the time in GMT-10?",
+        "gold_answer": "2034-12-16 02:04:35"
+    },
+    {
+        "id": 349,
+        "text": "I want to talk to someone in Juba at Feb 24 2032 09:55:54AM in Vientiane. What time is it there?",
+        "gold_answer": "2032-02-24 04:55:54"
+    },
+    {
+        "id": 350,
+        "text": "I want to talk to someone in Gambier at 2023-09-11 07:40:56 in Fiji. What time is it there?",
+        "gold_answer": "2023-09-10 10:40:56"
+    },
+    {
+        "id": 351,
+        "text": "It is Jan 06 2021 12:02:23AM in Costa Rica. What is the time in Santarem?",
+        "gold_answer": "2021-01-06 03:02:23"
+    },
+    {
+        "id": 352,
+        "text": "I want to make a call to someone. He is in Kiev, and I am in Saipan. If it is Sep 16 2031 11:39:45AM here, what time is it there?",
+        "gold_answer": "2031-09-16 04:39:45"
+    },
+    {
+        "id": 353,
+        "text": "My friend is in Majuro, and I am in Gaza. If it is 2007-08-02 01:18:56 here, what time is it there?",
+        "gold_answer": "2007-08-02 10:18:56"
+    },
+    {
+        "id": 354,
+        "text": "I want to make a call to someone. He is in Fortaleza, and I am in Cocos. If it is 00:58:49, Dec 29, 2004 here, what time is it there?",
+        "gold_answer": "2004-12-28 15:28:49"
+    },
+    {
+        "id": 355,
+        "text": "It is Oct 31 2024 02:17:38AM in Chagos. What is the time in St Lucia?",
+        "gold_answer": "2024-10-30 16:17:38"
+    },
+    {
+        "id": 356,
+        "text": "I want to talk to someone in Sakhalin at Feb 17 2039 07:53:42PM in Cayenne. What time is it there?",
+        "gold_answer": "2039-02-18 09:53:42"
+    },
+    {
+        "id": 357,
+        "text": "It is 2018-08-15 04:05:08 in Lord Howe. What is the time in Mountain?",
+        "gold_answer": "2018-08-14 11:35:08"
+    },
+    {
+        "id": 358,
+        "text": "I want to make a call to someone. He is in Fiji, and I am in Podgorica. If it is 2033-09-08 11:47:15 here, what time is it there?",
+        "gold_answer": "2033-09-08 21:47:15"
+    },
+    {
+        "id": 359,
+        "text": "I want to talk to someone in Fakaofo at 06:42:31, Oct 01, 2006 in Asuncion. What time is it there?",
+        "gold_answer": "2006-09-30 23:42:31"
+    },
+    {
+        "id": 360,
+        "text": "It is 08:48:06, Aug 06, 2027 in GMT+8. What is the time in Asmara?",
+        "gold_answer": "2027-08-06 19:48:06"
+    },
+    {
+        "id": 361,
+        "text": "I want to make a call to someone. He is in Yukon, and I am in Canary. If it is 2008-01-11 00:50:03 here, what time is it there?",
+        "gold_answer": "2008-01-10 16:50:03"
+    },
+    {
+        "id": 362,
+        "text": "What is the time in Rio Branco if it is 2022-04-23 10:30:10 in Yakutat?",
+        "gold_answer": "2022-04-23 13:30:10"
+    },
+    {
+        "id": 363,
+        "text": "I want to talk to someone in Luanda at 2026-01-30 23:05:08 in Glace Bay. What time is it there?",
+        "gold_answer": "2026-01-31 04:05:08"
+    },
+    {
+        "id": 364,
+        "text": "My friend is in Norfolk, and I am in Malta. If it is May 10 2031 08:04:59AM here, what time is it there?",
+        "gold_answer": "2031-05-10 17:04:59"
+    },
+    {
+        "id": 365,
+        "text": "My friend is in Zulu, and I am in Marquesas. If it is 2030-05-24 17:31:03 here, what time is it there?",
+        "gold_answer": "2030-05-25 03:01:03"
+    },
+    {
+        "id": 366,
+        "text": "I want to talk to someone in Saskatchewan at 00:42:16, May 24, 2011 in Irkutsk. What time is it there?",
+        "gold_answer": "2011-05-23 09:42:16"
+    },
+    {
+        "id": 367,
+        "text": "My friend is in Ensenada, and I am in Vientiane. If it is 17:15:25, May 05, 2017 here, what time is it there?",
+        "gold_answer": "2017-05-05 03:15:25"
+    },
+    {
+        "id": 368,
+        "text": "I want to make a call to someone. He is in Lagos, and I am in Kuching. If it is Jan 05 2001 08:18:30PM here, what time is it there?",
+        "gold_answer": "2001-01-05 13:18:30"
+    },
+    {
+        "id": 369,
+        "text": "I want to talk to someone in Nassau at 22:55:21, Jul 08, 2002 in Kyiv. What time is it there?",
+        "gold_answer": "2002-07-08 15:55:21"
+    },
+    {
+        "id": 370,
+        "text": "It is 17:02:53, Mar 15, 2013 in Warsaw. What is the time in Moscow?",
+        "gold_answer": "2013-03-15 20:02:53"
+    },
+    {
+        "id": 371,
+        "text": "My friend is in CST6CDT, and I am in Eucla. If it is 2007-01-04 20:33:30 here, what time is it there?",
+        "gold_answer": "2007-01-04 04:48:30"
+    },
+    {
+        "id": 372,
+        "text": "It is May 04 2018 05:29:07PM in Anchorage. What is the time in Asmera?",
+        "gold_answer": "2018-05-05 04:29:07"
+    },
+    {
+        "id": 373,
+        "text": "I want to make a call to someone. He is in Chongqing, and I am in Maldives. If it is Oct 20 2023 03:40:34PM here, what time is it there?",
+        "gold_answer": "2023-10-20 18:40:34"
+    },
+    {
+        "id": 374,
+        "text": "I want to make a call to someone. He is in Truk, and I am in Juneau. If it is 2001-03-28 12:52:23 here, what time is it there?",
+        "gold_answer": "2001-03-29 07:52:23"
+    },
+    {
+        "id": 375,
+        "text": "It is Sep 21 2019 02:34:14PM in Jersey. What is the time in Martinique?",
+        "gold_answer": "2019-09-21 09:34:14"
+    },
+    {
+        "id": 376,
+        "text": "My friend is in CET, and I am in GMT+6. If it is 04:31:39, May 11, 2033 here, what time is it there?",
+        "gold_answer": "2033-05-11 12:31:39"
+    },
+    {
+        "id": 377,
+        "text": "I want to make a call to someone. He is in Miquelon, and I am in GMT-2. If it is 2036-10-02 06:21:42 here, what time is it there?",
+        "gold_answer": "2036-10-02 02:21:42"
+    },
+    {
+        "id": 378,
+        "text": "I want to make a call to someone. He is in GMT-13, and I am in BajaNorte. If it is 11:49:19, Sep 28, 2006 here, what time is it there?",
+        "gold_answer": "2006-09-29 07:49:19"
+    },
+    {
+        "id": 379,
+        "text": "It is Mar 26 2038 05:19:03AM in Cayenne. What is the time in Busingen?",
+        "gold_answer": "2038-03-26 09:19:03"
+    },
+    {
+        "id": 380,
+        "text": "My friend is in Yukon, and I am in Barnaul. If it is 23:22:51, Oct 14, 2001 here, what time is it there?",
+        "gold_answer": "2001-10-14 09:22:51"
+    },
+    {
+        "id": 381,
+        "text": "My friend is in Skopje, and I am in Midway. If it is 2013-06-25 16:04:16 here, what time is it there?",
+        "gold_answer": "2013-06-26 05:04:16"
+    },
+    {
+        "id": 382,
+        "text": "It is 2002-12-19 13:51:23 in Dhaka. What is the time in Azores?",
+        "gold_answer": "2002-12-19 06:51:23"
+    },
+    {
+        "id": 383,
+        "text": "I want to make a call to someone. He is in Faeroe, and I am in Indianapolis. If it is Jun 01 2029 03:43:39PM here, what time is it there?",
+        "gold_answer": "2029-06-01 20:43:39"
+    },
+    {
+        "id": 384,
+        "text": "I want to talk to someone in Gibraltar at 21:18:33, Jan 03, 2024 in Urumqi. What time is it there?",
+        "gold_answer": "2024-01-03 16:18:33"
+    },
+    {
+        "id": 385,
+        "text": "I want to make a call to someone. He is in Conakry, and I am in Porto Velho. If it is Apr 01 2034 05:27:55AM here, what time is it there?",
+        "gold_answer": "2034-04-01 09:27:55"
+    },
+    {
+        "id": 386,
+        "text": "It is 2027-04-17 17:43:51 in Niamey. What is the time in GB-Eire?",
+        "gold_answer": "2027-04-17 17:43:51"
+    },
+    {
+        "id": 387,
+        "text": "What is the time in CET if it is 09:16:22, Nov 18, 2024 in Qostanay?",
+        "gold_answer": "2024-11-18 04:16:22"
+    },
+    {
+        "id": 388,
+        "text": "I want to make a call to someone. He is in Saipan, and I am in Bermuda. If it is 07:57:12, Oct 26, 2007 here, what time is it there?",
+        "gold_answer": "2007-10-26 20:57:12"
+    },
+    {
+        "id": 389,
+        "text": "What is the time in Metlakatla if it is 2003-03-04 20:23:42 in Pago Pago?",
+        "gold_answer": "2003-03-04 23:23:42"
+    },
+    {
+        "id": 390,
+        "text": "What is the time in Syowa if it is 07:44:37, Jan 05, 2023 in Vatican?",
+        "gold_answer": "2023-01-05 09:44:37"
+    },
+    {
+        "id": 391,
+        "text": "I want to talk to someone in Lower Princes at 14:17:04, May 09, 2017 in Nome. What time is it there?",
+        "gold_answer": "2017-05-09 18:17:04"
+    },
+    {
+        "id": 392,
+        "text": "It is 2036-02-14 19:33:06 in Arizona. What is the time in Winnipeg?",
+        "gold_answer": "2036-02-14 20:33:06"
+    },
+    {
+        "id": 393,
+        "text": "My friend is in Antananarivo, and I am in Puerto Rico. If it is Aug 16 2036 02:49:52AM here, what time is it there?",
+        "gold_answer": "2036-08-16 09:49:52"
+    },
+    {
+        "id": 394,
+        "text": "I want to make a call to someone. He is in East, and I am in Sofia. If it is 09:27:03, Dec 15, 2011 here, what time is it there?",
+        "gold_answer": "2011-12-15 05:27:03"
+    },
+    {
+        "id": 395,
+        "text": "My friend is in Zulu, and I am in Asuncion. If it is 05:28:54, Mar 19, 2026 here, what time is it there?",
+        "gold_answer": "2026-03-19 08:28:54"
+    },
+    {
+        "id": 396,
+        "text": "My friend is in Gibraltar, and I am in Mazatlan. If it is Dec 20 2019 12:11:13PM here, what time is it there?",
+        "gold_answer": "2019-12-20 20:11:13"
+    },
+    {
+        "id": 397,
+        "text": "It is 13:31:42, May 19, 2040 in Zulu. What is the time in Indiana?",
+        "gold_answer": "2040-05-19 07:31:42"
+    },
+    {
+        "id": 398,
+        "text": "I want to make a call to someone. He is in Samarkand, and I am in Antigua. If it is 2030-10-20 06:44:13 here, what time is it there?",
+        "gold_answer": "2030-10-20 15:44:13"
+    },
+    {
+        "id": 399,
+        "text": "What is the time in Pangnirtung if it is 07:31:55, Jan 24, 2004 in Lome?",
+        "gold_answer": "2004-01-24 02:31:55"
+    },
+    {
+        "id": 400,
+        "text": "My friend is in Mauritius, and I am in Fort Nelson. If it is 2028-11-24 16:59:33 here, what time is it there?",
+        "gold_answer": "2028-11-25 03:59:33"
+    },
+    {
+        "id": 401,
+        "text": "It is 06:53:17, Nov 01, 2028 in GB. What is the time in Argentina?",
+        "gold_answer": "2028-11-01 03:53:17"
+    },
+    {
+        "id": 402,
+        "text": "My friend is in La Paz, and I am in Iceland. If it is 2008-01-27 07:41:07 here, what time is it there?",
+        "gold_answer": "2008-01-27 03:41:07"
+    },
+    {
+        "id": 403,
+        "text": "It is 2031-09-01 05:14:29 in Casey. What is the time in Coral Harbour?",
+        "gold_answer": "2031-08-31 13:14:29"
+    },
+    {
+        "id": 404,
+        "text": "I want to talk to someone in Sofia at May 27 2014 01:10:49AM in Argentina. What time is it there?",
+        "gold_answer": "2014-05-27 07:10:49"
+    },
+    {
+        "id": 405,
+        "text": "I want to talk to someone in Turkey at 2033-01-21 21:34:09 in East. What time is it there?",
+        "gold_answer": "2033-01-22 03:34:09"
+    },
+    {
+        "id": 406,
+        "text": "My friend is in GMT-0, and I am in Anadyr. If it is Aug 20 2019 04:40:04PM here, what time is it there?",
+        "gold_answer": "2019-08-20 04:40:04"
+    },
+    {
+        "id": 407,
+        "text": "I want to make a call to someone. He is in Kosrae, and I am in Srednekolymsk. If it is Jun 10 2017 04:52:07PM here, what time is it there?",
+        "gold_answer": "2017-06-10 16:52:07"
+    },
+    {
+        "id": 408,
+        "text": "I want to make a call to someone. He is in Aleutian, and I am in Dawson. If it is 22:38:22, May 23, 2003 here, what time is it there?",
+        "gold_answer": "2003-05-23 20:38:22"
+    },
+    {
+        "id": 409,
+        "text": "I want to talk to someone in GMT+5 at 08:04:33, Feb 12, 2040 in Argentina. What time is it there?",
+        "gold_answer": "2040-02-12 06:04:33"
+    },
+    {
+        "id": 410,
+        "text": "I want to make a call to someone. He is in Bermuda, and I am in Ashgabat. If it is Aug 20 2035 05:47:41PM here, what time is it there?",
+        "gold_answer": "2035-08-20 09:47:41"
+    },
+    {
+        "id": 411,
+        "text": "I want to talk to someone in Bahrain at 20:36:33, Oct 20, 2010 in Detroit. What time is it there?",
+        "gold_answer": "2010-10-21 03:36:33"
+    },
+    {
+        "id": 412,
+        "text": "My friend is in Boa Vista, and I am in Dawson. If it is Jan 06 2024 11:52:07AM here, what time is it there?",
+        "gold_answer": "2024-01-06 14:52:07"
+    },
+    {
+        "id": 413,
+        "text": "I want to make a call to someone. He is in Cuba, and I am in Argentina. If it is 2026-08-08 20:57:52 here, what time is it there?",
+        "gold_answer": "2026-08-08 19:57:52"
+    },
+    {
+        "id": 414,
+        "text": "It is 12:04:39, Mar 24, 2030 in South. What is the time in Pyongyang?",
+        "gold_answer": "2030-03-24 10:34:39"
+    },
+    {
+        "id": 415,
+        "text": "My friend is in Bangui, and I am in London. If it is 09:38:22, Aug 13, 2008 here, what time is it there?",
+        "gold_answer": "2008-08-13 09:38:22"
+    },
+    {
+        "id": 416,
+        "text": "I want to talk to someone in Comoro at Aug 26 2006 11:09:24AM in Taipei. What time is it there?",
+        "gold_answer": "2006-08-26 06:09:24"
+    },
+    {
+        "id": 417,
+        "text": "My friend is in Oral, and I am in Caracas. If it is 2008-08-17 12:38:56 here, what time is it there?",
+        "gold_answer": "2008-08-17 22:08:56"
+    },
+    {
+        "id": 418,
+        "text": "What is the time in Yekaterinburg if it is Aug 30 2020 07:32:54AM in Catamarca?",
+        "gold_answer": "2020-08-30 15:32:54"
+    },
+    {
+        "id": 419,
+        "text": "I want to make a call to someone. He is in Victoria, and I am in Qyzylorda. If it is 15:34:57, Dec 22, 2009 here, what time is it there?",
+        "gold_answer": "2009-12-22 20:34:57"
+    },
+    {
+        "id": 420,
+        "text": "I want to talk to someone in Fort Nelson at 2005-03-04 11:45:56 in Phnom Penh. What time is it there?",
+        "gold_answer": "2005-03-03 20:45:56"
+    },
+    {
+        "id": 421,
+        "text": "It is Jun 13 2005 05:07:29AM in Vienna. What is the time in Palmer?",
+        "gold_answer": "2005-06-12 23:07:29"
+    },
+    {
+        "id": 422,
+        "text": "It is 2024-07-22 18:43:26 in Libreville. What is the time in GMT+2?",
+        "gold_answer": "2024-07-22 15:43:26"
+    },
+    {
+        "id": 423,
+        "text": "My friend is in NZ, and I am in Knox IN. If it is 2013-06-12 00:11:53 here, what time is it there?",
+        "gold_answer": "2013-06-12 17:11:53"
+    },
+    {
+        "id": 424,
+        "text": "I want to talk to someone in Currie at Oct 19 2016 05:24:20AM in Argentina. What time is it there?",
+        "gold_answer": "2016-10-19 19:24:20"
+    },
+    {
+        "id": 425,
+        "text": "What is the time in Porto Acre if it is 12:11:18, Jul 10, 2036 in Bangkok?",
+        "gold_answer": "2036-07-10 00:11:18"
+    },
+    {
+        "id": 426,
+        "text": "I want to make a call to someone. He is in Samarkand, and I am in GMT+5. If it is Jun 24 2030 11:00:05PM here, what time is it there?",
+        "gold_answer": "2030-06-25 09:00:05"
+    },
+    {
+        "id": 427,
+        "text": "I want to make a call to someone. He is in West, and I am in Kanton. If it is 10:02:05, Apr 05, 2032 here, what time is it there?",
+        "gold_answer": "2032-04-04 17:02:05"
+    },
+    {
+        "id": 428,
+        "text": "I want to talk to someone in Manaus at 2013-02-25 17:45:03 in Guam. What time is it there?",
+        "gold_answer": "2013-02-25 03:45:03"
+    },
+    {
+        "id": 429,
+        "text": "I want to make a call to someone. He is in Bangkok, and I am in Moncton. If it is 2002-08-14 15:44:21 here, what time is it there?",
+        "gold_answer": "2002-08-15 01:44:21"
+    },
+    {
+        "id": 430,
+        "text": "What is the time in Argentina if it is Jul 25 2024 12:48:22AM in Atka?",
+        "gold_answer": "2024-07-25 06:48:22"
+    },
+    {
+        "id": 431,
+        "text": "I want to make a call to someone. He is in Qyzylorda, and I am in Cordoba. If it is 20:31:49, Mar 07, 2033 here, what time is it there?",
+        "gold_answer": "2033-03-08 04:31:49"
+    },
+    {
+        "id": 432,
+        "text": "What is the time in Kolkata if it is Nov 23 2029 03:00:43AM in Gaza?",
+        "gold_answer": "2029-11-23 06:30:43"
+    },
+    {
+        "id": 433,
+        "text": "My friend is in Ashkhabad, and I am in Atlantic. If it is 2021-12-24 13:31:23 here, what time is it there?",
+        "gold_answer": "2021-12-24 22:31:23"
+    },
+    {
+        "id": 434,
+        "text": "My friend is in Swift Current, and I am in Cairo. If it is 04:01:49, Mar 19, 2020 here, what time is it there?",
+        "gold_answer": "2020-03-18 20:01:49"
+    },
+    {
+        "id": 435,
+        "text": "I want to talk to someone in Argentina at 12:07:39, Sep 07, 2031 in GMT-14. What time is it there?",
+        "gold_answer": "2031-09-06 19:07:39"
+    },
+    {
+        "id": 436,
+        "text": "I want to make a call to someone. He is in UTC, and I am in Faroe. If it is 2003-07-08 07:47:30 here, what time is it there?",
+        "gold_answer": "2003-07-08 06:47:30"
+    },
+    {
+        "id": 437,
+        "text": "I want to make a call to someone. He is in Rainy River, and I am in Jakarta. If it is 14:20:02, May 12, 2029 here, what time is it there?",
+        "gold_answer": "2029-05-12 02:20:02"
+    },
+    {
+        "id": 438,
+        "text": "It is 00:46:16, Sep 07, 2031 in Israel. What is the time in Nipigon?",
+        "gold_answer": "2031-09-06 17:46:16"
+    },
+    {
+        "id": 439,
+        "text": "I want to make a call to someone. He is in MET, and I am in Yakutat. If it is 2025-07-03 10:49:47 here, what time is it there?",
+        "gold_answer": "2025-07-03 20:49:47"
+    },
+    {
+        "id": 440,
+        "text": "My friend is in Chisinau, and I am in Yekaterinburg. If it is Sep 04 2008 02:15:33PM here, what time is it there?",
+        "gold_answer": "2008-09-04 11:15:33"
+    },
+    {
+        "id": 441,
+        "text": "What is the time in Winnipeg if it is 2039-03-18 15:51:32 in Glace Bay?",
+        "gold_answer": "2039-03-18 13:51:32"
+    },
+    {
+        "id": 442,
+        "text": "My friend is in Prague, and I am in Cambridge Bay. If it is 2035-05-04 16:34:11 here, what time is it there?",
+        "gold_answer": "2035-05-05 00:34:11"
+    },
+    {
+        "id": 443,
+        "text": "It is 12:25:37, May 05, 2035 in St Helena. What is the time in Guam?",
+        "gold_answer": "2035-05-05 22:25:37"
+    },
+    {
+        "id": 444,
+        "text": "I want to talk to someone in Lubumbashi at 2036-08-04 13:57:41 in Podgorica. What time is it there?",
+        "gold_answer": "2036-08-04 13:57:41"
+    },
+    {
+        "id": 445,
+        "text": "What is the time in GMT+6 if it is Mar 20 2033 02:25:26PM in Recife?",
+        "gold_answer": "2033-03-20 11:25:26"
+    },
+    {
+        "id": 446,
+        "text": "My friend is in Cayman, and I am in Srednekolymsk. If it is 04:40:25, May 11, 2026 here, what time is it there?",
+        "gold_answer": "2026-05-10 12:40:25"
+    },
+    {
+        "id": 447,
+        "text": "What is the time in Hobart if it is 2016-02-27 13:31:43 in Shanghai?",
+        "gold_answer": "2016-02-27 16:31:43"
+    },
+    {
+        "id": 448,
+        "text": "I want to make a call to someone. He is in Blantyre, and I am in Sakhalin. If it is 2024-09-22 01:55:26 here, what time is it there?",
+        "gold_answer": "2024-09-21 16:55:26"
+    },
+    {
+        "id": 449,
+        "text": "I want to make a call to someone. He is in Novosibirsk, and I am in Moncton. If it is 2025-04-24 15:38:29 here, what time is it there?",
+        "gold_answer": "2025-04-25 01:38:29"
+    },
+    {
+        "id": 450,
+        "text": "I want to talk to someone in Virgin at 03:14:18, Mar 30, 2032 in Amman. What time is it there?",
+        "gold_answer": "2032-03-29 20:14:18"
+    },
+    {
+        "id": 451,
+        "text": "My friend is in Inuvik, and I am in Kentucky. If it is Nov 25 2033 08:13:44AM here, what time is it there?",
+        "gold_answer": "2033-11-25 06:13:44"
+    },
+    {
+        "id": 452,
+        "text": "My friend is in PRC, and I am in Caracas. If it is Feb 16 2020 06:53:29PM here, what time is it there?",
+        "gold_answer": "2020-02-17 06:53:29"
+    },
+    {
+        "id": 453,
+        "text": "I want to talk to someone in Truk at May 16 2040 02:44:08AM in Niamey. What time is it there?",
+        "gold_answer": "2040-05-16 11:44:08"
+    },
+    {
+        "id": 454,
+        "text": "My friend is in Fort Wayne, and I am in Ciudad Juarez. If it is Jul 15 2035 03:34:21AM here, what time is it there?",
+        "gold_answer": "2035-07-15 05:34:21"
+    },
+    {
+        "id": 455,
+        "text": "My friend is in Libya, and I am in Famagusta. If it is Aug 02 2009 06:40:23PM here, what time is it there?",
+        "gold_answer": "2009-08-02 17:40:23"
+    },
+    {
+        "id": 456,
+        "text": "It is 16:38:38, Jan 06, 2001 in Atyrau. What is the time in Indiana-Starke?",
+        "gold_answer": "2001-01-06 07:38:38"
+    },
+    {
+        "id": 457,
+        "text": "I want to make a call to someone. He is in Busingen, and I am in Cambridge Bay. If it is 2003-07-27 20:10:35 here, what time is it there?",
+        "gold_answer": "2003-07-28 04:10:35"
+    },
+    {
+        "id": 458,
+        "text": "What is the time in Aruba if it is Feb 16 2023 05:45:48PM in Malabo?",
+        "gold_answer": "2023-02-16 12:45:48"
+    },
+    {
+        "id": 459,
+        "text": "It is Dec 31 2022 01:25:02AM in Saigon. What is the time in Magadan?",
+        "gold_answer": "2022-12-31 05:25:02"
+    },
+    {
+        "id": 460,
+        "text": "My friend is in CST6CDT, and I am in GB-Eire. If it is 21:28:52, Apr 25, 2004 here, what time is it there?",
+        "gold_answer": "2004-04-25 15:28:52"
+    },
+    {
+        "id": 461,
+        "text": "What is the time in Lower Princes if it is Jan 10 2018 02:07:04PM in GMT+0?",
+        "gold_answer": "2018-01-10 10:07:04"
+    },
+    {
+        "id": 462,
+        "text": "My friend is in Kinshasa, and I am in Casablanca. If it is 17:21:05, Apr 03, 2035 here, what time is it there?",
+        "gold_answer": "2035-04-03 17:21:05"
+    },
+    {
+        "id": 463,
+        "text": "I want to talk to someone in Monterrey at Jun 28 2009 12:21:59AM in Buenos Aires. What time is it there?",
+        "gold_answer": "2009-06-27 22:21:59"
+    },
+    {
+        "id": 464,
+        "text": "It is Feb 12 2020 01:07:19AM in Hermosillo. What is the time in Libya?",
+        "gold_answer": "2020-02-12 10:07:19"
+    },
+    {
+        "id": 465,
+        "text": "It is Jun 09 2002 06:07:11PM in Mawson. What is the time in Bougainville?",
+        "gold_answer": "2002-06-09 22:07:11"
+    },
+    {
+        "id": 466,
+        "text": "I want to talk to someone in Gambier at Feb 15 2035 09:19:24PM in Chatham. What time is it there?",
+        "gold_answer": "2035-02-14 22:34:24"
+    },
+    {
+        "id": 467,
+        "text": "It is 20:04:24, Oct 03, 2034 in GMT0. What is the time in Omsk?",
+        "gold_answer": "2034-10-04 02:04:24"
+    },
+    {
+        "id": 468,
+        "text": "I want to talk to someone in Marigot at Feb 15 2011 03:35:26PM in Guyana. What time is it there?",
+        "gold_answer": "2011-02-15 15:35:26"
+    },
+    {
+        "id": 469,
+        "text": "What is the time in Dominica if it is 2026-02-26 10:10:18 in Muscat?",
+        "gold_answer": "2026-02-26 02:10:18"
+    },
+    {
+        "id": 470,
+        "text": "I want to talk to someone in Canberra at 15:13:32, Dec 10, 2017 in Dushanbe. What time is it there?",
+        "gold_answer": "2017-12-10 21:13:32"
+    },
+    {
+        "id": 471,
+        "text": "I want to talk to someone in Nicosia at 2029-05-21 23:42:12 in Monterrey. What time is it there?",
+        "gold_answer": "2029-05-22 08:42:12"
+    },
+    {
+        "id": 472,
+        "text": "I want to make a call to someone. He is in GMT-8, and I am in Dublin. If it is Mar 23 2030 11:00:02PM here, what time is it there?",
+        "gold_answer": "2030-03-24 07:00:02"
+    },
+    {
+        "id": 473,
+        "text": "It is Nov 02 2018 10:13:52AM in Marquesas. What is the time in Turkey?",
+        "gold_answer": "2018-11-02 22:43:52"
+    },
+    {
+        "id": 474,
+        "text": "I want to make a call to someone. He is in Conakry, and I am in Lisbon. If it is 2010-05-26 11:15:37 here, what time is it there?",
+        "gold_answer": "2010-05-26 10:15:37"
+    },
+    {
+        "id": 475,
+        "text": "It is 10:41:13, Feb 06, 2029 in Vostok. What is the time in Antananarivo?",
+        "gold_answer": "2029-02-06 07:41:13"
+    },
+    {
+        "id": 476,
+        "text": "What is the time in Tallinn if it is 2025-08-10 14:46:48 in Argentina?",
+        "gold_answer": "2025-08-10 20:46:48"
+    },
+    {
+        "id": 477,
+        "text": "I want to talk to someone in Kigali at Jan 08 2032 07:46:17AM in Dawson. What time is it there?",
+        "gold_answer": "2032-01-08 16:46:17"
+    },
+    {
+        "id": 478,
+        "text": "I want to make a call to someone. He is in Windhoek, and I am in Chicago. If it is 19:39:53, Oct 06, 2018 here, what time is it there?",
+        "gold_answer": "2018-10-07 02:39:53"
+    },
+    {
+        "id": 479,
+        "text": "It is 00:34:48, Jan 21, 2038 in Zulu. What is the time in Bangui?",
+        "gold_answer": "2038-01-21 01:34:48"
+    },
+    {
+        "id": 480,
+        "text": "It is 2015-10-20 18:51:07 in Moncton. What is the time in Regina?",
+        "gold_answer": "2015-10-20 15:51:07"
+    },
+    {
+        "id": 481,
+        "text": "I want to make a call to someone. He is in Darwin, and I am in Montevideo. If it is Jun 29 2022 11:08:29PM here, what time is it there?",
+        "gold_answer": "2022-06-30 11:38:29"
+    },
+    {
+        "id": 482,
+        "text": "What is the time in Pago Pago if it is 11:17:07, Jan 26, 2011 in Belgrade?",
+        "gold_answer": "2011-01-25 23:17:07"
+    },
+    {
+        "id": 483,
+        "text": "My friend is in Reunion, and I am in Barnaul. If it is 2002-08-17 09:02:43 here, what time is it there?",
+        "gold_answer": "2002-08-17 06:02:43"
+    },
+    {
+        "id": 484,
+        "text": "My friend is in Victoria, and I am in Bougainville. If it is 18:35:35, May 29, 2002 here, what time is it there?",
+        "gold_answer": "2002-05-29 18:35:35"
+    },
+    {
+        "id": 485,
+        "text": "It is 2030-03-16 13:23:57 in Poland. What is the time in Port Moresby?",
+        "gold_answer": "2030-03-16 22:23:57"
+    },
+    {
+        "id": 486,
+        "text": "I want to talk to someone in Rarotonga at 2020-01-14 18:18:24 in Jamaica. What time is it there?",
+        "gold_answer": "2020-01-14 13:18:24"
+    },
+    {
+        "id": 487,
+        "text": "I want to make a call to someone. He is in Porto Velho, and I am in NSW. If it is 09:22:07, Sep 16, 2022 here, what time is it there?",
+        "gold_answer": "2022-09-15 19:22:07"
+    },
+    {
+        "id": 488,
+        "text": "What is the time in Bogota if it is May 26 2013 11:10:17AM in GMT+5?",
+        "gold_answer": "2013-05-26 11:10:17"
+    },
+    {
+        "id": 489,
+        "text": "I want to talk to someone in GMT-6 at 2006-04-03 17:59:14 in Urumqi. What time is it there?",
+        "gold_answer": "2006-04-03 17:59:14"
+    },
+    {
+        "id": 490,
+        "text": "What is the time in Inuvik if it is 12:05:43, Jan 17, 2007 in Ashkhabad?",
+        "gold_answer": "2007-01-17 00:05:43"
+    },
+    {
+        "id": 491,
+        "text": "It is 2033-12-22 11:15:49 in Atka. What is the time in Stanley?",
+        "gold_answer": "2033-12-22 18:15:49"
+    },
+    {
+        "id": 492,
+        "text": "What is the time in Jamaica if it is 00:33:23, Nov 23, 2007 in Puerto Rico?",
+        "gold_answer": "2007-11-22 23:33:23"
+    },
+    {
+        "id": 493,
+        "text": "I want to talk to someone in Andorra at 2025-11-22 10:50:12 in Kentucky. What time is it there?",
+        "gold_answer": "2025-11-22 16:50:12"
+    },
+    {
+        "id": 494,
+        "text": "I want to make a call to someone. He is in Perth, and I am in Argentina. If it is Jun 17 2001 05:56:59AM here, what time is it there?",
+        "gold_answer": "2001-06-17 16:56:59"
+    },
+    {
+        "id": 495,
+        "text": "My friend is in Bougainville, and I am in Podgorica. If it is 10:14:28, Oct 18, 2037 here, what time is it there?",
+        "gold_answer": "2037-10-18 19:14:28"
+    },
+    {
+        "id": 496,
+        "text": "I want to talk to someone in Canberra at 2008-11-21 20:04:25 in GMT-2. What time is it there?",
+        "gold_answer": "2008-11-22 05:04:25"
+    },
+    {
+        "id": 497,
+        "text": "What is the time in Pohnpei if it is Apr 06 2035 05:27:52PM in Guadalcanal?",
+        "gold_answer": "2035-04-06 17:27:52"
+    },
+    {
+        "id": 498,
+        "text": "What is the time in Phoenix if it is 12:28:53, Nov 30, 2019 in Istanbul?",
+        "gold_answer": "2019-11-30 02:28:53"
+    },
+    {
+        "id": 499,
+        "text": "My friend is in Merida, and I am in Queensland. If it is Jul 11 2011 07:02:59AM here, what time is it there?",
+        "gold_answer": "2011-07-10 16:02:59"
+    },
+    {
+        "id": 500,
+        "text": "My friend is in Tahiti, and I am in Tripoli. If it is Sep 04 2011 09:19:40PM here, what time is it there?",
+        "gold_answer": "2011-09-04 09:19:40"
+    },
+    {
+        "id": 501,
+        "text": "I want to talk to someone in UCT at Jul 22 2014 12:56:06AM in Thimbu. What time is it there?",
+        "gold_answer": "2014-07-21 18:56:06"
+    },
+    {
+        "id": 502,
+        "text": "My friend is in Malta, and I am in Kentucky. If it is Apr 15 2028 08:41:43PM here, what time is it there?",
+        "gold_answer": "2028-04-16 02:41:43"
+    },
+    {
+        "id": 503,
+        "text": "It is 2026-04-07 18:16:41 in ACT. What is the time in Omsk?",
+        "gold_answer": "2026-04-07 14:16:41"
+    },
+    {
+        "id": 504,
+        "text": "My friend is in Lusaka, and I am in Barbados. If it is 2015-01-21 20:44:41 here, what time is it there?",
+        "gold_answer": "2015-01-22 02:44:41"
+    },
+    {
+        "id": 505,
+        "text": "I want to make a call to someone. He is in Ciudad Juarez, and I am in Qatar. If it is 2015-08-28 09:17:12 here, what time is it there?",
+        "gold_answer": "2015-08-28 00:17:12"
+    },
+    {
+        "id": 506,
+        "text": "What is the time in Phnom Penh if it is 2029-06-10 16:04:06 in Douala?",
+        "gold_answer": "2029-06-10 22:04:06"
+    },
+    {
+        "id": 507,
+        "text": "I want to make a call to someone. He is in Yerevan, and I am in South Pole. If it is Jun 22 2003 07:31:51PM here, what time is it there?",
+        "gold_answer": "2003-06-22 12:31:51"
+    },
+    {
+        "id": 508,
+        "text": "I want to make a call to someone. He is in Tirane, and I am in Freetown. If it is 09:36:30, Jun 01, 2003 here, what time is it there?",
+        "gold_answer": "2003-06-01 11:36:30"
+    },
+    {
+        "id": 509,
+        "text": "I want to make a call to someone. He is in EST5EDT, and I am in Godthab. If it is 09:05:23, Apr 20, 2018 here, what time is it there?",
+        "gold_answer": "2018-04-20 07:05:23"
+    },
+    {
+        "id": 510,
+        "text": "I want to talk to someone in Easter at 16:05:27, Dec 23, 2031 in Mendoza. What time is it there?",
+        "gold_answer": "2031-12-23 14:05:27"
+    },
+    {
+        "id": 511,
+        "text": "What is the time in Kwajalein if it is 10:29:11, Aug 13, 2029 in Yakutsk?",
+        "gold_answer": "2029-08-13 13:29:11"
+    },
+    {
+        "id": 512,
+        "text": "My friend is in Faeroe, and I am in Ceuta. If it is May 25 2038 10:12:02AM here, what time is it there?",
+        "gold_answer": "2038-05-25 09:12:02"
+    },
+    {
+        "id": 513,
+        "text": "My friend is in Santarem, and I am in Universal. If it is 2024-04-21 01:51:39 here, what time is it there?",
+        "gold_answer": "2024-04-20 22:51:39"
+    },
+    {
+        "id": 514,
+        "text": "I want to make a call to someone. He is in St Barthelemy, and I am in Andorra. If it is 16:02:23, Jul 17, 2024 here, what time is it there?",
+        "gold_answer": "2024-07-17 10:02:23"
+    },
+    {
+        "id": 515,
+        "text": "I want to talk to someone in Timbuktu at 2038-07-05 06:31:55 in Nicosia. What time is it there?",
+        "gold_answer": "2038-07-05 04:31:55"
+    },
+    {
+        "id": 516,
+        "text": "What is the time in Brunei if it is 06:46:38, May 13, 2009 in Punta Arenas?",
+        "gold_answer": "2009-05-13 18:46:38"
+    },
+    {
+        "id": 517,
+        "text": "I want to talk to someone in Christmas at Nov 15 2001 02:56:01PM in St Lucia. What time is it there?",
+        "gold_answer": "2001-11-16 01:56:01"
+    },
+    {
+        "id": 518,
+        "text": "It is Oct 12 2015 07:40:31PM in Novokuznetsk. What is the time in Hobart?",
+        "gold_answer": "2015-10-12 23:40:31"
+    },
+    {
+        "id": 519,
+        "text": "I want to talk to someone in Grenada at 2039-06-20 02:18:58 in Lower Princes. What time is it there?",
+        "gold_answer": "2039-06-20 02:18:58"
+    },
+    {
+        "id": 520,
+        "text": "My friend is in Tripoli, and I am in Yakutsk. If it is Apr 13 2022 09:27:08AM here, what time is it there?",
+        "gold_answer": "2022-04-13 02:27:08"
+    },
+    {
+        "id": 521,
+        "text": "My friend is in GMT-0, and I am in Dakar. If it is 2004-08-27 14:42:29 here, what time is it there?",
+        "gold_answer": "2004-08-27 14:42:29"
+    },
+    {
+        "id": 522,
+        "text": "My friend is in Almaty, and I am in Harbin. If it is 2025-02-13 14:36:17 here, what time is it there?",
+        "gold_answer": "2025-02-13 12:36:17"
+    },
+    {
+        "id": 523,
+        "text": "I want to talk to someone in Costa Rica at 2006-10-12 23:59:46 in Dominica. What time is it there?",
+        "gold_answer": "2006-10-12 21:59:46"
+    },
+    {
+        "id": 524,
+        "text": "I want to talk to someone in Dawson at 09:14:31, Jan 19, 2023 in Calcutta. What time is it there?",
+        "gold_answer": "2023-01-18 20:44:31"
+    },
+    {
+        "id": 525,
+        "text": "I want to make a call to someone. He is in Argentina, and I am in Luxembourg. If it is 2011-06-13 18:14:43 here, what time is it there?",
+        "gold_answer": "2011-06-13 13:14:43"
+    },
+    {
+        "id": 526,
+        "text": "What is the time in Belfast if it is 02:20:44, Nov 13, 2028 in UCT?",
+        "gold_answer": "2028-11-13 02:20:44"
+    },
+    {
+        "id": 527,
+        "text": "I want to talk to someone in UCT at 16:06:27, May 18, 2004 in Bogota. What time is it there?",
+        "gold_answer": "2004-05-18 21:06:27"
+    },
+    {
+        "id": 528,
+        "text": "My friend is in Bamako, and I am in Warsaw. If it is 2030-03-20 23:18:31 here, what time is it there?",
+        "gold_answer": "2030-03-20 22:18:31"
+    },
+    {
+        "id": 529,
+        "text": "My friend is in Dawson Creek, and I am in EST5EDT. If it is Aug 13 2010 06:20:46PM here, what time is it there?",
+        "gold_answer": "2010-08-13 15:20:46"
+    },
+    {
+        "id": 530,
+        "text": "I want to talk to someone in Libya at 15:48:06, May 23, 2006 in Pangnirtung. What time is it there?",
+        "gold_answer": "2006-05-23 21:48:06"
+    },
+    {
+        "id": 531,
+        "text": "What is the time in DumontDUrville if it is Dec 29 2002 09:12:28PM in Phnom Penh?",
+        "gold_answer": "2002-12-30 00:12:28"
+    },
+    {
+        "id": 532,
+        "text": "My friend is in South Georgia, and I am in Efate. If it is Feb 25 2004 07:41:38AM here, what time is it there?",
+        "gold_answer": "2004-02-24 18:41:38"
+    },
+    {
+        "id": 533,
+        "text": "What is the time in Kuching if it is Feb 14 2031 10:46:00PM in Ho Chi Minh?",
+        "gold_answer": "2031-02-14 23:46:00"
+    },
+    {
+        "id": 534,
+        "text": "I want to make a call to someone. He is in Atlantic, and I am in Bratislava. If it is 2024-06-18 19:18:26 here, what time is it there?",
+        "gold_answer": "2024-06-18 14:18:26"
+    },
+    {
+        "id": 535,
+        "text": "I want to talk to someone in Perth at 2034-07-11 19:35:03 in Astrakhan. What time is it there?",
+        "gold_answer": "2034-07-11 23:35:03"
+    },
+    {
+        "id": 536,
+        "text": "My friend is in Catamarca, and I am in Kaliningrad. If it is Feb 19 2032 10:25:43AM here, what time is it there?",
+        "gold_answer": "2032-02-19 05:25:43"
+    },
+    {
+        "id": 537,
+        "text": "What is the time in Vatican if it is Sep 26 2005 12:05:21PM in Novokuznetsk?",
+        "gold_answer": "2005-09-26 06:05:21"
+    },
+    {
+        "id": 538,
+        "text": "I want to make a call to someone. He is in Funafuti, and I am in Puerto Rico. If it is 2032-07-09 00:10:28 here, what time is it there?",
+        "gold_answer": "2032-07-09 16:10:28"
+    },
+    {
+        "id": 539,
+        "text": "I want to talk to someone in Knox IN at Oct 18 2026 12:00:31AM in Kyiv. What time is it there?",
+        "gold_answer": "2026-10-17 16:00:31"
+    },
+    {
+        "id": 540,
+        "text": "I want to make a call to someone. He is in Tongatapu, and I am in Aqtobe. If it is 12:46:52, Sep 25, 2029 here, what time is it there?",
+        "gold_answer": "2029-09-25 20:46:52"
+    },
+    {
+        "id": 541,
+        "text": "My friend is in Paramaribo, and I am in Adelaide. If it is 2031-12-23 08:42:45 here, what time is it there?",
+        "gold_answer": "2031-12-22 19:12:45"
+    },
+    {
+        "id": 542,
+        "text": "I want to make a call to someone. He is in Pago Pago, and I am in Menominee. If it is Oct 26 2016 12:15:51PM here, what time is it there?",
+        "gold_answer": "2016-10-26 06:15:51"
+    },
+    {
+        "id": 543,
+        "text": "It is 21:48:35, Apr 10, 2029 in Mariehamn. What is the time in Kuala Lumpur?",
+        "gold_answer": "2029-04-11 02:48:35"
+    },
+    {
+        "id": 544,
+        "text": "I want to talk to someone in GMT at 2018-09-21 19:51:56 in Mountain. What time is it there?",
+        "gold_answer": "2018-09-22 01:51:56"
+    },
+    {
+        "id": 545,
+        "text": "I want to talk to someone in Libreville at 21:04:21, Apr 02, 2003 in Michigan. What time is it there?",
+        "gold_answer": "2003-04-03 03:04:21"
+    },
+    {
+        "id": 546,
+        "text": "I want to make a call to someone. He is in Harbin, and I am in Bahia. If it is Oct 08 2002 05:35:17PM here, what time is it there?",
+        "gold_answer": "2002-10-09 04:35:17"
+    },
+    {
+        "id": 547,
+        "text": "I want to make a call to someone. He is in Phoenix, and I am in GMT-6. If it is 2028-03-05 07:23:10 here, what time is it there?",
+        "gold_answer": "2028-03-04 18:23:10"
+    },
+    {
+        "id": 548,
+        "text": "I want to talk to someone in GMT+10 at 14:37:26, Nov 13, 2007 in Kyiv. What time is it there?",
+        "gold_answer": "2007-11-13 02:37:26"
+    },
+    {
+        "id": 549,
+        "text": "I want to talk to someone in GMT-7 at 12:12:05, Jun 18, 2032 in Atikokan. What time is it there?",
+        "gold_answer": "2032-06-19 00:12:05"
+    },
+    {
+        "id": 550,
+        "text": "I want to make a call to someone. He is in MST, and I am in Ashkhabad. If it is Mar 26 2020 02:20:47AM here, what time is it there?",
+        "gold_answer": "2020-03-25 14:20:47"
+    },
+    {
+        "id": 551,
+        "text": "My friend is in Maputo, and I am in Simferopol. If it is Oct 21 2025 02:47:46AM here, what time is it there?",
+        "gold_answer": "2025-10-21 01:47:46"
+    },
+    {
+        "id": 552,
+        "text": "I want to make a call to someone. He is in Mayotte, and I am in Jerusalem. If it is Mar 15 2024 06:32:20PM here, what time is it there?",
+        "gold_answer": "2024-03-15 19:32:20"
+    },
+    {
+        "id": 553,
+        "text": "I want to talk to someone in Indiana at 14:37:56, Dec 05, 2016 in EST. What time is it there?",
+        "gold_answer": "2016-12-05 14:37:56"
+    },
+    {
+        "id": 554,
+        "text": "I want to talk to someone in Paris at 2032-10-25 21:43:18 in Oral. What time is it there?",
+        "gold_answer": "2032-10-25 18:43:18"
+    },
+    {
+        "id": 555,
+        "text": "My friend is in Jan Mayen, and I am in Palmer. If it is Dec 27 2009 10:36:32PM here, what time is it there?",
+        "gold_answer": "2009-12-28 02:36:32"
+    },
+    {
+        "id": 556,
+        "text": "My friend is in Faeroe, and I am in Creston. If it is 10:06:01, Dec 21, 2005 here, what time is it there?",
+        "gold_answer": "2005-12-21 17:06:01"
+    },
+    {
+        "id": 557,
+        "text": "I want to make a call to someone. He is in Atka, and I am in Victoria. If it is 02:08:54, Nov 19, 2026 here, what time is it there?",
+        "gold_answer": "2026-11-18 05:08:54"
+    },
+    {
+        "id": 558,
+        "text": "I want to talk to someone in Tijuana at Nov 22 2034 06:09:50AM in Malta. What time is it there?",
+        "gold_answer": "2034-11-21 21:09:50"
+    },
+    {
+        "id": 559,
+        "text": "My friend is in GMT-2, and I am in GMT+9. If it is 21:01:07, Dec 20, 2027 here, what time is it there?",
+        "gold_answer": "2027-12-21 08:01:07"
+    },
+    {
+        "id": 560,
+        "text": "I want to talk to someone in Halifax at 2022-05-18 12:07:33 in Eastern. What time is it there?",
+        "gold_answer": "2022-05-18 13:07:33"
+    },
+    {
+        "id": 561,
+        "text": "What is the time in Lusaka if it is 15:24:18, Apr 27, 2030 in Goose Bay?",
+        "gold_answer": "2030-04-27 20:24:18"
+    },
+    {
+        "id": 562,
+        "text": "It is 2005-05-10 21:16:46 in GMT+12. What is the time in Porto-Novo?",
+        "gold_answer": "2005-05-11 10:16:46"
+    },
+    {
+        "id": 563,
+        "text": "I want to make a call to someone. He is in Taipei, and I am in Ljubljana. If it is 05:24:56, Jun 28, 2016 here, what time is it there?",
+        "gold_answer": "2016-06-28 11:24:56"
+    },
+    {
+        "id": 564,
+        "text": "What is the time in Paramaribo if it is 2008-06-17 01:56:39 in Kentucky?",
+        "gold_answer": "2008-06-17 02:56:39"
+    },
+    {
+        "id": 565,
+        "text": "My friend is in Bishkek, and I am in Perth. If it is 02:01:43, Jul 15, 2038 here, what time is it there?",
+        "gold_answer": "2038-07-15 00:01:43"
+    },
+    {
+        "id": 566,
+        "text": "What is the time in Harare if it is 2024-02-13 03:43:26 in Argentina?",
+        "gold_answer": "2024-02-13 08:43:26"
+    },
+    {
+        "id": 567,
+        "text": "My friend is in Katmandu, and I am in Riyadh. If it is 2022-06-23 22:31:16 here, what time is it there?",
+        "gold_answer": "2022-06-24 01:16:16"
+    },
+    {
+        "id": 568,
+        "text": "I want to make a call to someone. He is in Andorra, and I am in Argentina. If it is 02:50:40, Aug 16, 2028 here, what time is it there?",
+        "gold_answer": "2028-08-16 07:50:40"
+    },
+    {
+        "id": 569,
+        "text": "It is 2013-09-11 04:44:48 in Khandyga. What is the time in GMT-13?",
+        "gold_answer": "2013-09-11 07:44:48"
+    },
+    {
+        "id": 570,
+        "text": "My friend is in Tiraspol, and I am in Urumqi. If it is Jun 06 2021 02:36:16PM here, what time is it there?",
+        "gold_answer": "2021-06-06 11:36:16"
+    },
+    {
+        "id": 571,
+        "text": "My friend is in Ensenada, and I am in Chatham. If it is Aug 07 2003 09:52:21AM here, what time is it there?",
+        "gold_answer": "2003-08-06 14:07:21"
+    },
+    {
+        "id": 572,
+        "text": "It is 20:15:26, Jun 07, 2023 in Christmas. What is the time in Rarotonga?",
+        "gold_answer": "2023-06-07 03:15:26"
+    },
+    {
+        "id": 573,
+        "text": "I want to talk to someone in Pangnirtung at 18:46:35, Aug 12, 2037 in Damascus. What time is it there?",
+        "gold_answer": "2037-08-12 11:46:35"
+    },
+    {
+        "id": 574,
+        "text": "My friend is in Mazatlan, and I am in West. If it is 02:44:30, Oct 27, 2022 here, what time is it there?",
+        "gold_answer": "2022-10-27 00:44:30"
+    },
+    {
+        "id": 575,
+        "text": "It is 17:11:39, May 26, 2003 in Resolute. What is the time in Jujuy?",
+        "gold_answer": "2003-05-26 19:11:39"
+    },
+    {
+        "id": 576,
+        "text": "My friend is in Colombo, and I am in Argentina. If it is 2005-05-08 18:14:20 here, what time is it there?",
+        "gold_answer": "2005-05-09 03:14:20"
+    },
+    {
+        "id": 577,
+        "text": "It is 2011-09-27 13:51:39 in Ho Chi Minh. What is the time in Ulaanbaatar?",
+        "gold_answer": "2011-09-27 14:51:39"
+    },
+    {
+        "id": 578,
+        "text": "I want to make a call to someone. He is in Belem, and I am in Lome. If it is Jan 15 2039 07:08:46PM here, what time is it there?",
+        "gold_answer": "2039-01-15 16:08:46"
+    },
+    {
+        "id": 579,
+        "text": "I want to make a call to someone. He is in South Pole, and I am in Libreville. If it is 10:58:07, Jul 29, 2036 here, what time is it there?",
+        "gold_answer": "2036-07-29 21:58:07"
+    },
+    {
+        "id": 580,
+        "text": "It is 2011-04-29 19:57:31 in Toronto. What is the time in Midway?",
+        "gold_answer": "2011-04-29 12:57:31"
+    },
+    {
+        "id": 581,
+        "text": "What is the time in Yerevan if it is 16:58:05, Dec 21, 2021 in Grand Turk?",
+        "gold_answer": "2021-12-22 01:58:05"
+    },
+    {
+        "id": 582,
+        "text": "My friend is in Kigali, and I am in Resolute. If it is 05:00:14, Nov 11, 2036 here, what time is it there?",
+        "gold_answer": "2036-11-11 13:00:14"
+    },
+    {
+        "id": 583,
+        "text": "My friend is in St Vincent, and I am in Maputo. If it is Jun 26 2006 01:19:38PM here, what time is it there?",
+        "gold_answer": "2006-06-26 07:19:38"
+    },
+    {
+        "id": 584,
+        "text": "It is 02:23:55, Mar 10, 2014 in Indiana. What is the time in Paramaribo?",
+        "gold_answer": "2014-03-10 04:23:55"
+    },
+    {
+        "id": 585,
+        "text": "What is the time in GMT+0 if it is Aug 25 2003 06:31:22PM in Turkey?",
+        "gold_answer": "2003-08-25 15:31:22"
+    },
+    {
+        "id": 586,
+        "text": "My friend is in Anadyr, and I am in Amman. If it is Apr 24 2021 12:35:37AM here, what time is it there?",
+        "gold_answer": "2021-04-24 09:35:37"
+    },
+    {
+        "id": 587,
+        "text": "I want to make a call to someone. He is in Rothera, and I am in Indiana-Starke. If it is 2009-08-25 19:30:22 here, what time is it there?",
+        "gold_answer": "2009-08-25 21:30:22"
+    },
+    {
+        "id": 588,
+        "text": "I want to talk to someone in GMT-5 at 2031-12-06 15:48:41 in GMT. What time is it there?",
+        "gold_answer": "2031-12-06 20:48:41"
+    },
+    {
+        "id": 589,
+        "text": "It is 12:54:50, Aug 06, 2023 in Jamaica. What is the time in Chagos?",
+        "gold_answer": "2023-08-06 23:54:50"
+    },
+    {
+        "id": 590,
+        "text": "I want to make a call to someone. He is in Dili, and I am in Bahrain. If it is 02:15:37, Jul 21, 2033 here, what time is it there?",
+        "gold_answer": "2033-07-21 08:15:37"
+    },
+    {
+        "id": 591,
+        "text": "What is the time in Paris if it is 2017-04-14 23:35:00 in Yancowinna?",
+        "gold_answer": "2017-04-14 16:05:00"
+    },
+    {
+        "id": 592,
+        "text": "I want to make a call to someone. He is in London, and I am in Bangui. If it is 2003-08-26 08:02:43 here, what time is it there?",
+        "gold_answer": "2003-08-26 08:02:43"
+    },
+    {
+        "id": 593,
+        "text": "I want to make a call to someone. He is in Jerusalem, and I am in Brussels. If it is 23:41:47, Oct 23, 2016 here, what time is it there?",
+        "gold_answer": "2016-10-24 00:41:47"
+    },
+    {
+        "id": 594,
+        "text": "What is the time in Tehran if it is 13:05:18, Dec 19, 2009 in Bahia Banderas?",
+        "gold_answer": "2009-12-19 23:35:18"
+    },
+    {
+        "id": 595,
+        "text": "I want to talk to someone in Jakarta at 2014-05-20 05:43:17 in Gambier. What time is it there?",
+        "gold_answer": "2014-05-20 21:43:17"
+    },
+    {
+        "id": 596,
+        "text": "I want to make a call to someone. He is in Argentina, and I am in Noronha. If it is 2024-05-24 20:56:50 here, what time is it there?",
+        "gold_answer": "2024-05-24 19:56:50"
+    },
+    {
+        "id": 597,
+        "text": "What is the time in Mendoza if it is Jul 26 2005 09:30:11PM in Bermuda?",
+        "gold_answer": "2005-07-26 21:30:11"
+    },
+    {
+        "id": 598,
+        "text": "I want to make a call to someone. He is in Mexico City, and I am in Galapagos. If it is 05:59:59, Nov 06, 2012 here, what time is it there?",
+        "gold_answer": "2012-11-06 05:59:59"
+    },
+    {
+        "id": 599,
+        "text": "What is the time in Bahrain if it is 2012-09-15 02:18:08 in Longyearbyen?",
+        "gold_answer": "2012-09-15 03:18:08"
+    },
+    {
+        "id": 600,
+        "text": "What is the time in Faroe if it is May 14 2010 04:00:51PM in Ciudad Juarez?",
+        "gold_answer": "2010-05-14 23:00:51"
+    },
+    {
+        "id": 601,
+        "text": "It is Jan 20 2019 08:49:41PM in Darwin. What is the time in Mauritius?",
+        "gold_answer": "2019-01-20 15:19:41"
+    },
+    {
+        "id": 602,
+        "text": "I want to make a call to someone. He is in Rothera, and I am in Rangoon. If it is 2013-06-08 21:56:11 here, what time is it there?",
+        "gold_answer": "2013-06-08 12:26:11"
+    },
+    {
+        "id": 603,
+        "text": "My friend is in Madrid, and I am in Caracas. If it is 2028-01-21 06:44:58 here, what time is it there?",
+        "gold_answer": "2028-01-21 11:44:58"
+    },
+    {
+        "id": 604,
+        "text": "It is 19:12:50, Aug 15, 2023 in Regina. What is the time in Boa Vista?",
+        "gold_answer": "2023-08-15 21:12:50"
+    },
+    {
+        "id": 605,
+        "text": "I want to make a call to someone. He is in Toronto, and I am in Atyrau. If it is 2030-06-05 02:00:21 here, what time is it there?",
+        "gold_answer": "2030-06-04 17:00:21"
+    },
+    {
+        "id": 606,
+        "text": "I want to talk to someone in Qostanay at Apr 20 2019 01:08:19AM in Sarajevo. What time is it there?",
+        "gold_answer": "2019-04-20 05:08:19"
+    },
+    {
+        "id": 607,
+        "text": "I want to talk to someone in GMT-8 at Feb 24 2027 01:40:46AM in Tijuana. What time is it there?",
+        "gold_answer": "2027-02-24 17:40:46"
+    },
+    {
+        "id": 608,
+        "text": "It is 10:17:08, Nov 14, 2022 in Hermosillo. What is the time in Atikokan?",
+        "gold_answer": "2022-11-14 12:17:08"
+    },
+    {
+        "id": 609,
+        "text": "It is 2022-03-10 23:07:39 in St Barthelemy. What is the time in Singapore?",
+        "gold_answer": "2022-03-11 11:07:39"
+    },
+    {
+        "id": 610,
+        "text": "My friend is in Harbin, and I am in Chisinau. If it is 18:36:10, Dec 25, 2025 here, what time is it there?",
+        "gold_answer": "2025-12-26 00:36:10"
+    },
+    {
+        "id": 611,
+        "text": "It is May 02 2026 04:46:35AM in GMT-0. What is the time in Rainy River?",
+        "gold_answer": "2026-05-01 23:46:35"
+    },
+    {
+        "id": 612,
+        "text": "What is the time in GMT+3 if it is 18:22:34, Jan 11, 2037 in Makassar?",
+        "gold_answer": "2037-01-11 07:22:34"
+    },
+    {
+        "id": 613,
+        "text": "What is the time in Cancun if it is May 06 2021 11:10:17PM in Indianapolis?",
+        "gold_answer": "2021-05-06 22:10:17"
+    },
+    {
+        "id": 614,
+        "text": "I want to make a call to someone. He is in Punta Arenas, and I am in Buenos Aires. If it is Sep 18 2025 08:16:58PM here, what time is it there?",
+        "gold_answer": "2025-09-18 20:16:58"
+    },
+    {
+        "id": 615,
+        "text": "My friend is in Tongatapu, and I am in Helsinki. If it is 2026-02-17 18:49:48 here, what time is it there?",
+        "gold_answer": "2026-02-18 05:49:48"
+    },
+    {
+        "id": 616,
+        "text": "I want to talk to someone in HST at Oct 10 2027 01:22:02PM in MST7MDT. What time is it there?",
+        "gold_answer": "2027-10-10 09:22:02"
+    },
+    {
+        "id": 617,
+        "text": "It is May 09 2018 06:16:33PM in Zaporozhye. What is the time in Dubai?",
+        "gold_answer": "2018-05-09 19:16:33"
+    },
+    {
+        "id": 618,
+        "text": "It is 12:14:40, Dec 03, 2014 in Kiritimati. What is the time in Argentina?",
+        "gold_answer": "2014-12-02 19:14:40"
+    },
+    {
+        "id": 619,
+        "text": "It is 17:22:35, Apr 03, 2005 in Paris. What is the time in Chicago?",
+        "gold_answer": "2005-04-03 10:22:35"
+    },
+    {
+        "id": 620,
+        "text": "What is the time in Makassar if it is 2007-05-13 17:25:56 in NZ-CHAT?",
+        "gold_answer": "2007-05-13 12:40:56"
+    },
+    {
+        "id": 621,
+        "text": "I want to talk to someone in Hermosillo at Jan 15 2027 02:09:56PM in Kiritimati. What time is it there?",
+        "gold_answer": "2027-01-14 17:09:56"
+    },
+    {
+        "id": 622,
+        "text": "It is 01:26:42, May 14, 2022 in Fortaleza. What is the time in Porto Velho?",
+        "gold_answer": "2022-05-14 00:26:42"
+    },
+    {
+        "id": 623,
+        "text": "It is Sep 01 2021 08:57:50PM in St Kitts. What is the time in Managua?",
+        "gold_answer": "2021-09-01 18:57:50"
+    },
+    {
+        "id": 624,
+        "text": "What is the time in Eucla if it is Dec 29 2004 06:51:20PM in Tortola?",
+        "gold_answer": "2004-12-30 07:36:20"
+    },
+    {
+        "id": 625,
+        "text": "I want to talk to someone in Gaza at Feb 24 2037 12:28:30AM in Paramaribo. What time is it there?",
+        "gold_answer": "2037-02-24 05:28:30"
+    },
+    {
+        "id": 626,
+        "text": "What is the time in Los Angeles if it is 2009-08-28 19:39:11 in Norfolk?",
+        "gold_answer": "2009-08-28 01:09:11"
+    },
+    {
+        "id": 627,
+        "text": "I want to talk to someone in GMT at Oct 21 2025 12:12:56PM in Douala. What time is it there?",
+        "gold_answer": "2025-10-21 11:12:56"
+    },
+    {
+        "id": 628,
+        "text": "I want to talk to someone in GMT-5 at Oct 22 2005 06:47:41PM in Wallis. What time is it there?",
+        "gold_answer": "2005-10-22 11:47:41"
+    },
+    {
+        "id": 629,
+        "text": "I want to talk to someone in Blantyre at Jul 30 2003 06:10:12PM in Punta Arenas. What time is it there?",
+        "gold_answer": "2003-07-31 00:10:12"
+    },
+    {
+        "id": 630,
+        "text": "I want to talk to someone in Zagreb at 2037-04-22 01:50:36 in Dakar. What time is it there?",
+        "gold_answer": "2037-04-22 03:50:36"
+    },
+    {
+        "id": 631,
+        "text": "My friend is in Calcutta, and I am in Sao Tome. If it is Nov 25 2015 03:24:23PM here, what time is it there?",
+        "gold_answer": "2015-11-25 20:54:23"
+    },
+    {
+        "id": 632,
+        "text": "It is 08:34:47, Mar 20, 2026 in Macao. What is the time in Bahia Banderas?",
+        "gold_answer": "2026-03-19 18:34:47"
+    },
+    {
+        "id": 633,
+        "text": "What is the time in Singapore if it is 00:53:53, Sep 04, 2009 in Nicosia?",
+        "gold_answer": "2009-09-04 05:53:53"
+    },
+    {
+        "id": 634,
+        "text": "My friend is in Havana, and I am in Madeira. If it is Sep 14 2015 09:34:51PM here, what time is it there?",
+        "gold_answer": "2015-09-14 16:34:51"
+    },
+    {
+        "id": 635,
+        "text": "I want to make a call to someone. He is in Iceland, and I am in DeNoronha. If it is 08:17:56, Jul 22, 2014 here, what time is it there?",
+        "gold_answer": "2014-07-22 10:17:56"
+    },
+    {
+        "id": 636,
+        "text": "My friend is in Greenwich, and I am in Omsk. If it is 2011-11-19 02:48:53 here, what time is it there?",
+        "gold_answer": "2011-11-18 19:48:53"
+    },
+    {
+        "id": 637,
+        "text": "What is the time in New York if it is 2018-12-16 13:44:29 in Hovd?",
+        "gold_answer": "2018-12-16 01:44:29"
+    },
+    {
+        "id": 638,
+        "text": "My friend is in Hebron, and I am in Maldives. If it is 17:13:00, Feb 27, 2037 here, what time is it there?",
+        "gold_answer": "2037-02-27 14:13:00"
+    },
+    {
+        "id": 639,
+        "text": "I want to talk to someone in Punta Arenas at 2013-08-23 06:38:42 in Madeira. What time is it there?",
+        "gold_answer": "2013-08-23 01:38:42"
+    },
+    {
+        "id": 640,
+        "text": "My friend is in Bishkek, and I am in Ulaanbaatar. If it is 2036-07-04 13:12:35 here, what time is it there?",
+        "gold_answer": "2036-07-04 11:12:35"
+    },
+    {
+        "id": 641,
+        "text": "What is the time in Kentucky if it is 2036-11-25 13:52:09 in GMT+7?",
+        "gold_answer": "2036-11-25 15:52:09"
+    },
+    {
+        "id": 642,
+        "text": "It is 23:47:57, Jan 15, 2024 in Tongatapu. What is the time in Creston?",
+        "gold_answer": "2024-01-15 03:47:57"
+    },
+    {
+        "id": 643,
+        "text": "My friend is in GMT-10, and I am in Kuching. If it is 2005-08-19 16:36:51 here, what time is it there?",
+        "gold_answer": "2005-08-19 18:36:51"
+    },
+    {
+        "id": 644,
+        "text": "I want to make a call to someone. He is in Hong Kong, and I am in Samarkand. If it is May 03 2031 08:05:32PM here, what time is it there?",
+        "gold_answer": "2031-05-03 23:05:32"
+    },
+    {
+        "id": 645,
+        "text": "What is the time in Vaduz if it is 2035-07-25 12:50:09 in Melbourne?",
+        "gold_answer": "2035-07-25 04:50:09"
+    },
+    {
+        "id": 646,
+        "text": "What is the time in St Vincent if it is 2013-06-03 20:37:13 in Caracas?",
+        "gold_answer": "2013-06-03 21:07:13"
+    },
+    {
+        "id": 647,
+        "text": "What is the time in Mountain if it is 2015-01-13 18:51:30 in Belem?",
+        "gold_answer": "2015-01-13 14:51:30"
+    },
+    {
+        "id": 648,
+        "text": "It is 2001-09-07 08:09:19 in Cuba. What is the time in Resolute?",
+        "gold_answer": "2001-09-07 07:09:19"
+    },
+    {
+        "id": 649,
+        "text": "I want to make a call to someone. He is in Perth, and I am in Kentucky. If it is 06:42:43, Nov 26, 2035 here, what time is it there?",
+        "gold_answer": "2035-11-26 19:42:43"
+    },
+    {
+        "id": 650,
+        "text": "My friend is in Qostanay, and I am in Vostok. If it is Jul 13 2010 09:21:26PM here, what time is it there?",
+        "gold_answer": "2010-07-13 21:21:26"
+    },
+    {
+        "id": 651,
+        "text": "It is 18:58:35, Apr 24, 2016 in St Johns. What is the time in Belfast?",
+        "gold_answer": "2016-04-24 22:28:35"
+    },
+    {
+        "id": 652,
+        "text": "I want to talk to someone in Singapore at Nov 02 2014 01:44:32PM in Lome. What time is it there?",
+        "gold_answer": "2014-11-02 21:44:32"
+    },
+    {
+        "id": 653,
+        "text": "My friend is in Libreville, and I am in Vatican. If it is 08:17:15, Jan 05, 2025 here, what time is it there?",
+        "gold_answer": "2025-01-05 08:17:15"
+    },
+    {
+        "id": 654,
+        "text": "My friend is in Montserrat, and I am in Jujuy. If it is 21:36:41, Jan 02, 2002 here, what time is it there?",
+        "gold_answer": "2002-01-02 20:36:41"
+    },
+    {
+        "id": 655,
+        "text": "It is 2011-02-23 15:18:45 in New York. What is the time in Denver?",
+        "gold_answer": "2011-02-23 13:18:45"
+    },
+    {
+        "id": 656,
+        "text": "I want to talk to someone in Zagreb at 2021-12-15 21:28:53 in Moscow. What time is it there?",
+        "gold_answer": "2021-12-15 19:28:53"
+    },
+    {
+        "id": 657,
+        "text": "What is the time in Asmera if it is 15:42:01, Sep 09, 2007 in Israel?",
+        "gold_answer": "2007-09-09 15:42:01"
+    },
+    {
+        "id": 658,
+        "text": "It is May 20 2017 12:12:46AM in Warsaw. What is the time in Poland?",
+        "gold_answer": "2017-05-20 00:12:46"
+    },
+    {
+        "id": 659,
+        "text": "My friend is in Reunion, and I am in Blanc-Sablon. If it is Feb 18 2026 01:21:59PM here, what time is it there?",
+        "gold_answer": "2026-02-18 21:21:59"
+    },
+    {
+        "id": 660,
+        "text": "My friend is in Kabul, and I am in Grand Turk. If it is 22:02:49, Jul 19, 2023 here, what time is it there?",
+        "gold_answer": "2023-07-20 06:32:49"
+    },
+    {
+        "id": 661,
+        "text": "What is the time in Eastern if it is Jun 14 2036 04:31:46AM in Almaty?",
+        "gold_answer": "2036-06-13 18:31:46"
+    },
+    {
+        "id": 662,
+        "text": "I want to make a call to someone. He is in Pontianak, and I am in Maldives. If it is Sep 10 2013 12:09:40PM here, what time is it there?",
+        "gold_answer": "2013-09-10 14:09:40"
+    },
+    {
+        "id": 663,
+        "text": "It is Sep 06 2033 07:56:51AM in Central. What is the time in Queensland?",
+        "gold_answer": "2033-09-06 22:56:51"
+    },
+    {
+        "id": 664,
+        "text": "I want to make a call to someone. He is in Santarem, and I am in Los Angeles. If it is 18:35:20, Aug 02, 2024 here, what time is it there?",
+        "gold_answer": "2024-08-02 22:35:20"
+    },
+    {
+        "id": 665,
+        "text": "My friend is in Pangnirtung, and I am in Bahia Banderas. If it is 2013-01-26 12:43:28 here, what time is it there?",
+        "gold_answer": "2013-01-26 13:43:28"
+    },
+    {
+        "id": 666,
+        "text": "What is the time in Dakar if it is 17:33:03, Sep 12, 2000 in Belgrade?",
+        "gold_answer": "2000-09-12 15:33:03"
+    },
+    {
+        "id": 667,
+        "text": "What is the time in Nicosia if it is Sep 27 2024 11:07:31AM in Niamey?",
+        "gold_answer": "2024-09-27 13:07:31"
+    },
+    {
+        "id": 668,
+        "text": "It is Oct 19 2038 02:33:07PM in Famagusta. What is the time in Pago Pago?",
+        "gold_answer": "2038-10-19 01:33:07"
+    },
+    {
+        "id": 669,
+        "text": "My friend is in Tongatapu, and I am in Davis. If it is 01:09:11, Oct 01, 2022 here, what time is it there?",
+        "gold_answer": "2022-10-01 07:09:11"
+    },
+    {
+        "id": 670,
+        "text": "It is 2020-01-28 11:56:50 in Chungking. What is the time in Havana?",
+        "gold_answer": "2020-01-27 22:56:50"
+    },
+    {
+        "id": 671,
+        "text": "My friend is in Kaliningrad, and I am in London. If it is 19:46:24, Mar 20, 2034 here, what time is it there?",
+        "gold_answer": "2034-03-20 21:46:24"
+    },
+    {
+        "id": 672,
+        "text": "My friend is in Poland, and I am in Indiana. If it is 18:23:50, Jan 27, 2022 here, what time is it there?",
+        "gold_answer": "2022-01-28 01:23:50"
+    },
+    {
+        "id": 673,
+        "text": "My friend is in GMT-13, and I am in Tahiti. If it is 16:03:19, Aug 11, 2018 here, what time is it there?",
+        "gold_answer": "2018-08-12 15:03:19"
+    },
+    {
+        "id": 674,
+        "text": "I want to make a call to someone. He is in GMT, and I am in West. If it is 09:53:34, Jul 28, 2024 here, what time is it there?",
+        "gold_answer": "2024-07-28 01:53:34"
+    },
+    {
+        "id": 675,
+        "text": "What is the time in Kuwait if it is 2037-03-02 08:29:09 in NSW?",
+        "gold_answer": "2037-03-02 00:29:09"
+    },
+    {
+        "id": 676,
+        "text": "I want to make a call to someone. He is in Famagusta, and I am in San Marino. If it is 06:35:05, Apr 22, 2021 here, what time is it there?",
+        "gold_answer": "2021-04-22 07:35:05"
+    },
+    {
+        "id": 677,
+        "text": "I want to make a call to someone. He is in Johannesburg, and I am in Vancouver. If it is Dec 09 2005 02:47:34AM here, what time is it there?",
+        "gold_answer": "2005-12-09 12:47:34"
+    },
+    {
+        "id": 678,
+        "text": "What is the time in Santa Isabel if it is 2020-05-17 02:10:34 in Jamaica?",
+        "gold_answer": "2020-05-17 00:10:34"
+    },
+    {
+        "id": 679,
+        "text": "I want to talk to someone in Beirut at Aug 03 2023 09:42:15PM in GMT-7. What time is it there?",
+        "gold_answer": "2023-08-03 17:42:15"
+    },
+    {
+        "id": 680,
+        "text": "I want to make a call to someone. He is in Metlakatla, and I am in Krasnoyarsk. If it is 2011-11-04 08:37:47 here, what time is it there?",
+        "gold_answer": "2011-11-03 16:37:47"
+    },
+    {
+        "id": 681,
+        "text": "What is the time in Volgograd if it is 2035-04-01 22:25:23 in Campo Grande?",
+        "gold_answer": "2035-04-02 05:25:23"
+    },
+    {
+        "id": 682,
+        "text": "My friend is in St Johns, and I am in ROC. If it is Sep 05 2035 02:11:18PM here, what time is it there?",
+        "gold_answer": "2035-09-05 03:41:18"
+    },
+    {
+        "id": 683,
+        "text": "What is the time in GMT if it is 2010-11-14 06:48:44 in Rangoon?",
+        "gold_answer": "2010-11-14 00:18:44"
+    },
+    {
+        "id": 684,
+        "text": "My friend is in Abidjan, and I am in Urumqi. If it is May 07 2004 07:49:28AM here, what time is it there?",
+        "gold_answer": "2004-05-07 01:49:28"
+    },
+    {
+        "id": 685,
+        "text": "I want to make a call to someone. He is in Monrovia, and I am in Edmonton. If it is Aug 16 2034 03:44:47AM here, what time is it there?",
+        "gold_answer": "2034-08-16 09:44:47"
+    },
+    {
+        "id": 686,
+        "text": "I want to talk to someone in GMT0 at 2019-11-30 08:03:33 in Nairobi. What time is it there?",
+        "gold_answer": "2019-11-30 05:03:33"
+    },
+    {
+        "id": 687,
+        "text": "What is the time in Dhaka if it is 09:17:17, Apr 04, 2005 in Brisbane?",
+        "gold_answer": "2005-04-04 05:17:17"
+    },
+    {
+        "id": 688,
+        "text": "I want to make a call to someone. He is in Damascus, and I am in Macao. If it is Jun 30 2021 01:12:10PM here, what time is it there?",
+        "gold_answer": "2021-06-30 08:12:10"
+    },
+    {
+        "id": 689,
+        "text": "It is Aug 04 2000 06:18:21PM in Havana. What is the time in Rio Branco?",
+        "gold_answer": "2000-08-04 17:18:21"
+    },
+    {
+        "id": 690,
+        "text": "My friend is in Menominee, and I am in Macquarie. If it is Mar 15 2027 01:37:23PM here, what time is it there?",
+        "gold_answer": "2027-03-14 21:37:23"
+    },
+    {
+        "id": 691,
+        "text": "It is Jan 27 2024 11:03:58PM in Niamey. What is the time in Kuwait?",
+        "gold_answer": "2024-01-28 01:03:58"
+    },
+    {
+        "id": 692,
+        "text": "It is 22:47:25, Dec 22, 2015 in Longyearbyen. What is the time in CET?",
+        "gold_answer": "2015-12-22 22:47:25"
+    },
+    {
+        "id": 693,
+        "text": "What is the time in Libreville if it is 08:17:28, Jan 10, 2013 in Cocos?",
+        "gold_answer": "2013-01-10 02:47:28"
+    },
+    {
+        "id": 694,
+        "text": "What is the time in Sitka if it is 2015-04-08 12:34:22 in Atka?",
+        "gold_answer": "2015-04-08 13:34:22"
+    },
+    {
+        "id": 695,
+        "text": "What is the time in Bahia Banderas if it is 2022-05-05 06:54:41 in Cape Verde?",
+        "gold_answer": "2022-05-05 02:54:41"
+    },
+    {
+        "id": 696,
+        "text": "I want to talk to someone in Mayotte at 02:24:35, Dec 01, 2029 in Aleutian. What time is it there?",
+        "gold_answer": "2029-12-01 15:24:35"
+    },
+    {
+        "id": 697,
+        "text": "I want to make a call to someone. He is in Juba, and I am in Caracas. If it is 00:06:43, Jul 24, 2032 here, what time is it there?",
+        "gold_answer": "2032-07-24 06:06:43"
+    },
+    {
+        "id": 698,
+        "text": "My friend is in Vatican, and I am in Vilnius. If it is 23:17:07, Apr 20, 2037 here, what time is it there?",
+        "gold_answer": "2037-04-20 22:17:07"
+    },
+    {
+        "id": 699,
+        "text": "I want to talk to someone in MST at Nov 01 2027 09:17:44PM in EST. What time is it there?",
+        "gold_answer": "2027-11-01 19:17:44"
+    },
+    {
+        "id": 700,
+        "text": "I want to talk to someone in NZ-CHAT at Oct 23 2029 04:11:11AM in Nipigon. What time is it there?",
+        "gold_answer": "2029-10-23 21:56:11"
+    },
+    {
+        "id": 701,
+        "text": "I want to make a call to someone. He is in Hobart, and I am in Riyadh. If it is 2017-01-09 06:10:54 here, what time is it there?",
+        "gold_answer": "2017-01-09 14:10:54"
+    },
+    {
+        "id": 702,
+        "text": "I want to talk to someone in Indiana-Starke at 2022-02-16 21:54:56 in Baghdad. What time is it there?",
+        "gold_answer": "2022-02-16 12:54:56"
+    },
+    {
+        "id": 703,
+        "text": "It is 03:47:26, Dec 06, 2021 in GMT-11. What is the time in Currie?",
+        "gold_answer": "2021-12-06 03:47:26"
+    },
+    {
+        "id": 704,
+        "text": "My friend is in Mariehamn, and I am in Canberra. If it is 2002-11-20 11:17:08 here, what time is it there?",
+        "gold_answer": "2002-11-20 02:17:08"
+    },
+    {
+        "id": 705,
+        "text": "I want to talk to someone in Eirunepe at 09:40:16, Apr 01, 2025 in Saipan. What time is it there?",
+        "gold_answer": "2025-03-31 18:40:16"
+    },
+    {
+        "id": 706,
+        "text": "What is the time in Argentina if it is 03:18:42, Nov 16, 2011 in Luanda?",
+        "gold_answer": "2011-11-15 23:18:42"
+    },
+    {
+        "id": 707,
+        "text": "I want to talk to someone in Prague at May 29 2007 08:10:49AM in GMT-4. What time is it there?",
+        "gold_answer": "2007-05-29 06:10:49"
+    },
+    {
+        "id": 708,
+        "text": "My friend is in Argentina, and I am in Detroit. If it is 16:52:33, May 16, 2030 here, what time is it there?",
+        "gold_answer": "2030-05-16 17:52:33"
+    },
+    {
+        "id": 709,
+        "text": "My friend is in Rangoon, and I am in GMT-1. If it is 2020-08-03 10:56:51 here, what time is it there?",
+        "gold_answer": "2020-08-03 16:26:51"
+    },
+    {
+        "id": 710,
+        "text": "I want to talk to someone in Dubai at Apr 11 2007 10:19:00PM in Portugal. What time is it there?",
+        "gold_answer": "2007-04-12 01:19:00"
+    },
+    {
+        "id": 711,
+        "text": "What is the time in Shanghai if it is Nov 15 2021 02:47:35AM in Sofia?",
+        "gold_answer": "2021-11-15 08:47:35"
+    },
+    {
+        "id": 712,
+        "text": "I want to talk to someone in Johannesburg at 2003-03-24 18:19:12 in North Dakota. What time is it there?",
+        "gold_answer": "2003-03-25 02:19:12"
+    },
+    {
+        "id": 713,
+        "text": "What is the time in Iceland if it is Mar 31 2040 06:57:15PM in Montevideo?",
+        "gold_answer": "2040-03-31 21:57:15"
+    },
+    {
+        "id": 714,
+        "text": "I want to talk to someone in Khartoum at 21:20:41, Apr 22, 2002 in BajaNorte. What time is it there?",
+        "gold_answer": "2002-04-23 07:20:41"
+    },
+    {
+        "id": 715,
+        "text": "I want to make a call to someone. He is in Guadeloupe, and I am in Nairobi. If it is Aug 27 2031 05:22:38AM here, what time is it there?",
+        "gold_answer": "2031-08-26 22:22:38"
+    },
+    {
+        "id": 716,
+        "text": "I want to make a call to someone. He is in Pangnirtung, and I am in Yangon. If it is 17:47:11, Apr 28, 2018 here, what time is it there?",
+        "gold_answer": "2018-04-28 07:17:11"
+    },
+    {
+        "id": 717,
+        "text": "I want to talk to someone in South at Apr 18 2033 11:34:34PM in Madrid. What time is it there?",
+        "gold_answer": "2033-04-19 07:04:34"
+    },
+    {
+        "id": 718,
+        "text": "I want to talk to someone in Abidjan at 2021-05-21 11:25:16 in Tomsk. What time is it there?",
+        "gold_answer": "2021-05-21 04:25:16"
+    },
+    {
+        "id": 719,
+        "text": "What is the time in East if it is Apr 29 2038 01:59:40AM in Singapore?",
+        "gold_answer": "2038-04-28 14:59:40"
+    },
+    {
+        "id": 720,
+        "text": "My friend is in Blantyre, and I am in Eastern. If it is 02:20:51, Jul 13, 2000 here, what time is it there?",
+        "gold_answer": "2000-07-13 08:20:51"
+    },
+    {
+        "id": 721,
+        "text": "What is the time in Troll if it is Jul 16 2004 11:26:00PM in Saskatchewan?",
+        "gold_answer": "2004-07-17 05:26:00"
+    },
+    {
+        "id": 722,
+        "text": "I want to talk to someone in Argentina at Oct 20 2020 08:00:23PM in Araguaina. What time is it there?",
+        "gold_answer": "2020-10-20 20:00:23"
+    },
+    {
+        "id": 723,
+        "text": "What is the time in Thunder Bay if it is 2003-05-10 05:03:11 in Addis Ababa?",
+        "gold_answer": "2003-05-09 22:03:11"
+    },
+    {
+        "id": 724,
+        "text": "It is 2028-01-24 10:54:07 in Havana. What is the time in Winnipeg?",
+        "gold_answer": "2028-01-24 09:54:07"
+    },
+    {
+        "id": 725,
+        "text": "I want to make a call to someone. He is in Arizona, and I am in Warsaw. If it is Sep 12 2036 06:59:01PM here, what time is it there?",
+        "gold_answer": "2036-09-12 09:59:01"
+    },
+    {
+        "id": 726,
+        "text": "I want to make a call to someone. He is in Port of Spain, and I am in Zaporozhye. If it is 16:39:10, Apr 28, 2013 here, what time is it there?",
+        "gold_answer": "2013-04-28 09:39:10"
+    },
+    {
+        "id": 727,
+        "text": "It is 2020-03-30 16:28:31 in Nipigon. What is the time in Windhoek?",
+        "gold_answer": "2020-03-30 22:28:31"
+    },
+    {
+        "id": 728,
+        "text": "I want to talk to someone in Santarem at 11:26:10, Sep 12, 2029 in Noronha. What time is it there?",
+        "gold_answer": "2029-09-12 10:26:10"
+    },
+    {
+        "id": 729,
+        "text": "My friend is in Zulu, and I am in Argentina. If it is Nov 03 2026 04:01:48AM here, what time is it there?",
+        "gold_answer": "2026-11-03 07:01:48"
+    },
+    {
+        "id": 730,
+        "text": "It is 2012-09-23 23:09:15 in La Paz. What is the time in Faeroe?",
+        "gold_answer": "2012-09-24 04:09:15"
+    },
+    {
+        "id": 731,
+        "text": "I want to talk to someone in Samoa at Oct 26 2011 04:19:13PM in Jamaica. What time is it there?",
+        "gold_answer": "2011-10-26 10:19:13"
+    },
+    {
+        "id": 732,
+        "text": "What is the time in Belgrade if it is 20:41:04, Dec 24, 2012 in Makassar?",
+        "gold_answer": "2012-12-24 13:41:04"
+    },
+    {
+        "id": 733,
+        "text": "I want to talk to someone in Mahe at Jul 20 2014 11:52:17PM in Knox IN. What time is it there?",
+        "gold_answer": "2014-07-21 08:52:17"
+    },
+    {
+        "id": 734,
+        "text": "I want to make a call to someone. He is in Juba, and I am in Stanley. If it is 20:34:43, Mar 08, 2009 here, what time is it there?",
+        "gold_answer": "2009-03-09 02:34:43"
+    },
+    {
+        "id": 735,
+        "text": "My friend is in EasterIsland, and I am in Belem. If it is Oct 05 2005 02:58:10AM here, what time is it there?",
+        "gold_answer": "2005-10-04 23:58:10"
+    },
+    {
+        "id": 736,
+        "text": "It is 14:19:29, Jul 01, 2009 in Mahe. What is the time in Yukon?",
+        "gold_answer": "2009-07-01 03:19:29"
+    },
+    {
+        "id": 737,
+        "text": "It is 2000-09-14 09:30:53 in Bahrain. What is the time in North Dakota?",
+        "gold_answer": "2000-09-14 00:30:53"
+    },
+    {
+        "id": 738,
+        "text": "It is 2001-01-08 09:19:45 in Volgograd. What is the time in Kampala?",
+        "gold_answer": "2001-01-08 09:19:45"
+    },
+    {
+        "id": 739,
+        "text": "I want to talk to someone in Santiago at Nov 28 2024 10:09:05PM in Guadeloupe. What time is it there?",
+        "gold_answer": "2024-11-28 23:09:05"
+    },
+    {
+        "id": 740,
+        "text": "It is 04:01:59, Nov 18, 2035 in Famagusta. What is the time in Pohnpei?",
+        "gold_answer": "2035-11-18 13:01:59"
+    },
+    {
+        "id": 741,
+        "text": "I want to talk to someone in Baghdad at Aug 21 2022 11:19:13AM in Bucharest. What time is it there?",
+        "gold_answer": "2022-08-21 11:19:13"
+    },
+    {
+        "id": 742,
+        "text": "It is 21:27:29, Dec 07, 2008 in Thimphu. What is the time in Galapagos?",
+        "gold_answer": "2008-12-07 09:27:29"
+    },
+    {
+        "id": 743,
+        "text": "What is the time in Mauritius if it is 01:32:55, Mar 16, 2033 in Sao Tome?",
+        "gold_answer": "2033-03-16 05:32:55"
+    },
+    {
+        "id": 744,
+        "text": "It is 2020-11-13 07:29:34 in Ashkhabad. What is the time in Ljubljana?",
+        "gold_answer": "2020-11-13 03:29:34"
+    },
+    {
+        "id": 745,
+        "text": "My friend is in Minsk, and I am in Greenwich. If it is 21:46:52, May 08, 2027 here, what time is it there?",
+        "gold_answer": "2027-05-09 00:46:52"
+    },
+    {
+        "id": 746,
+        "text": "What is the time in Bangkok if it is 2019-08-10 07:22:35 in Dakar?",
+        "gold_answer": "2019-08-10 14:22:35"
+    },
+    {
+        "id": 747,
+        "text": "What is the time in Lagos if it is 2020-07-28 10:24:45 in Nicosia?",
+        "gold_answer": "2020-07-28 08:24:45"
+    },
+    {
+        "id": 748,
+        "text": "What is the time in Argentina if it is 2000-08-15 04:30:48 in EST5EDT?",
+        "gold_answer": "2000-08-15 05:30:48"
+    },
+    {
+        "id": 749,
+        "text": "I want to talk to someone in Knox IN at Jun 05 2036 07:30:26AM in Atlantic. What time is it there?",
+        "gold_answer": "2036-06-05 05:30:26"
+    },
+    {
+        "id": 750,
+        "text": "My friend is in Rosario, and I am in GMT+3. If it is 2037-10-21 20:10:25 here, what time is it there?",
+        "gold_answer": "2037-10-21 20:10:25"
+    },
+    {
+        "id": 751,
+        "text": "My friend is in Dawson Creek, and I am in Libreville. If it is 04:43:04, Jan 21, 2006 here, what time is it there?",
+        "gold_answer": "2006-01-20 20:43:04"
+    },
+    {
+        "id": 752,
+        "text": "I want to make a call to someone. He is in Greenwich, and I am in Asmera. If it is Jul 26 2006 09:00:37PM here, what time is it there?",
+        "gold_answer": "2006-07-26 18:00:37"
+    },
+    {
+        "id": 753,
+        "text": "It is Nov 17 2014 01:52:44AM in Gambier. What is the time in Perth?",
+        "gold_answer": "2014-11-17 18:52:44"
+    },
+    {
+        "id": 754,
+        "text": "It is Apr 14 2023 01:51:22PM in Fortaleza. What is the time in Eucla?",
+        "gold_answer": "2023-04-15 01:36:22"
+    },
+    {
+        "id": 755,
+        "text": "It is 2010-07-01 13:35:08 in GMT+8. What is the time in DeNoronha?",
+        "gold_answer": "2010-07-01 19:35:08"
+    },
+    {
+        "id": 756,
+        "text": "It is 12:42:12, Sep 15, 2025 in GMT0. What is the time in Damascus?",
+        "gold_answer": "2025-09-15 15:42:12"
+    },
+    {
+        "id": 757,
+        "text": "It is Oct 12 2028 07:41:29PM in Podgorica. What is the time in Novosibirsk?",
+        "gold_answer": "2028-10-13 00:41:29"
+    },
+    {
+        "id": 758,
+        "text": "I want to make a call to someone. He is in Darwin, and I am in Marigot. If it is 2022-01-05 06:05:44 here, what time is it there?",
+        "gold_answer": "2022-01-05 19:35:44"
+    },
+    {
+        "id": 759,
+        "text": "What is the time in Lubumbashi if it is 2012-05-29 14:41:33 in Cape Verde?",
+        "gold_answer": "2012-05-29 17:41:33"
+    },
+    {
+        "id": 760,
+        "text": "My friend is in Dhaka, and I am in Accra. If it is Nov 05 2023 05:12:16PM here, what time is it there?",
+        "gold_answer": "2023-11-05 23:12:16"
+    },
+    {
+        "id": 761,
+        "text": "I want to make a call to someone. He is in Iran, and I am in Rothera. If it is Mar 28 2005 12:21:35AM here, what time is it there?",
+        "gold_answer": "2005-03-28 07:51:35"
+    },
+    {
+        "id": 762,
+        "text": "What is the time in Argentina if it is 05:37:09, Jul 21, 2029 in Urumqi?",
+        "gold_answer": "2029-07-20 20:37:09"
+    },
+    {
+        "id": 763,
+        "text": "It is Jul 04 2020 09:39:02AM in Knox IN. What is the time in Madeira?",
+        "gold_answer": "2020-07-04 15:39:02"
+    },
+    {
+        "id": 764,
+        "text": "My friend is in El Aaiun, and I am in Macquarie. If it is 13:15:12, Oct 01, 2002 here, what time is it there?",
+        "gold_answer": "2002-10-01 03:15:12"
+    },
+    {
+        "id": 765,
+        "text": "It is May 16 2016 03:21:13PM in Matamoros. What is the time in Faeroe?",
+        "gold_answer": "2016-05-16 21:21:13"
+    },
+    {
+        "id": 766,
+        "text": "It is 2018-03-09 18:05:16 in UCT. What is the time in Faroe?",
+        "gold_answer": "2018-03-09 18:05:16"
+    },
+    {
+        "id": 767,
+        "text": "I want to talk to someone in Santarem at 2038-06-30 13:33:59 in Brisbane. What time is it there?",
+        "gold_answer": "2038-06-30 00:33:59"
+    },
+    {
+        "id": 768,
+        "text": "I want to talk to someone in Mariehamn at Jan 16 2033 11:59:27PM in UTC. What time is it there?",
+        "gold_answer": "2033-01-17 01:59:27"
+    },
+    {
+        "id": 769,
+        "text": "What is the time in GMT-8 if it is 2005-12-27 12:23:02 in Jamaica?",
+        "gold_answer": "2005-12-28 01:23:02"
+    },
+    {
+        "id": 770,
+        "text": "I want to make a call to someone. He is in Hongkong, and I am in Santo Domingo. If it is 2004-04-11 22:53:01 here, what time is it there?",
+        "gold_answer": "2004-04-12 10:53:01"
+    },
+    {
+        "id": 771,
+        "text": "I want to make a call to someone. He is in NZ-CHAT, and I am in Conakry. If it is Mar 15 2021 01:53:49AM here, what time is it there?",
+        "gold_answer": "2021-03-15 15:38:49"
+    },
+    {
+        "id": 772,
+        "text": "It is Oct 05 2015 01:26:00AM in Saigon. What is the time in Hawaii?",
+        "gold_answer": "2015-10-04 08:26:00"
+    },
+    {
+        "id": 773,
+        "text": "I want to make a call to someone. He is in Eire, and I am in El Aaiun. If it is May 03 2027 04:41:00PM here, what time is it there?",
+        "gold_answer": "2027-05-03 16:41:00"
+    },
+    {
+        "id": 774,
+        "text": "My friend is in Addis Ababa, and I am in Malabo. If it is 17:43:25, Oct 26, 2022 here, what time is it there?",
+        "gold_answer": "2022-10-26 19:43:25"
+    },
+    {
+        "id": 775,
+        "text": "It is Nov 07 2005 08:36:52AM in Newfoundland. What is the time in East-Indiana?",
+        "gold_answer": "2005-11-07 07:06:52"
+    },
+    {
+        "id": 776,
+        "text": "I want to talk to someone in Luanda at Aug 19 2030 03:38:31PM in WET. What time is it there?",
+        "gold_answer": "2030-08-19 15:38:31"
+    },
+    {
+        "id": 777,
+        "text": "I want to talk to someone in Thunder Bay at 2004-07-04 18:45:30 in Bermuda. What time is it there?",
+        "gold_answer": "2004-07-04 17:45:30"
+    },
+    {
+        "id": 778,
+        "text": "I want to talk to someone in Miquelon at 2005-03-19 04:11:34 in Istanbul. What time is it there?",
+        "gold_answer": "2005-03-18 23:11:34"
+    },
+    {
+        "id": 779,
+        "text": "I want to talk to someone in Guyana at 10:45:39, Aug 27, 2010 in Timbuktu. What time is it there?",
+        "gold_answer": "2010-08-27 06:45:39"
+    },
+    {
+        "id": 780,
+        "text": "I want to make a call to someone. He is in CST6CDT, and I am in Chungking. If it is 2002-06-01 13:12:58 here, what time is it there?",
+        "gold_answer": "2002-06-01 00:12:58"
+    },
+    {
+        "id": 781,
+        "text": "What is the time in Newfoundland if it is Dec 01 2022 01:07:15AM in Yancowinna?",
+        "gold_answer": "2022-11-30 11:07:15"
+    },
+    {
+        "id": 782,
+        "text": "What is the time in St Kitts if it is Mar 08 2004 01:13:15PM in Ashkhabad?",
+        "gold_answer": "2004-03-08 04:13:15"
+    },
+    {
+        "id": 783,
+        "text": "My friend is in Indiana, and I am in NZ-CHAT. If it is 2011-05-26 10:11:04 here, what time is it there?",
+        "gold_answer": "2011-05-25 16:26:04"
+    },
+    {
+        "id": 784,
+        "text": "I want to make a call to someone. He is in Campo Grande, and I am in North Dakota. If it is 2019-09-23 18:06:19 here, what time is it there?",
+        "gold_answer": "2019-09-23 19:06:19"
+    },
+    {
+        "id": 785,
+        "text": "My friend is in Asmera, and I am in Addis Ababa. If it is Sep 27 2012 06:46:09PM here, what time is it there?",
+        "gold_answer": "2012-09-27 18:46:09"
+    },
+    {
+        "id": 786,
+        "text": "I want to make a call to someone. He is in Niamey, and I am in Lord Howe. If it is 2039-06-27 09:08:49 here, what time is it there?",
+        "gold_answer": "2039-06-26 23:08:49"
+    },
+    {
+        "id": 787,
+        "text": "It is May 03 2039 01:45:39PM in GMT-7. What is the time in Eirunepe?",
+        "gold_answer": "2039-05-03 01:45:39"
+    },
+    {
+        "id": 788,
+        "text": "What is the time in Marquesas if it is 2032-06-30 05:47:38 in Sarajevo?",
+        "gold_answer": "2032-06-29 18:17:38"
+    },
+    {
+        "id": 789,
+        "text": "My friend is in Vladivostok, and I am in Ho Chi Minh. If it is 2002-05-18 19:45:15 here, what time is it there?",
+        "gold_answer": "2002-05-18 23:45:15"
+    },
+    {
+        "id": 790,
+        "text": "My friend is in Scoresbysund, and I am in Warsaw. If it is 2012-03-20 11:05:35 here, what time is it there?",
+        "gold_answer": "2012-03-20 09:05:35"
+    },
+    {
+        "id": 791,
+        "text": "My friend is in Phoenix, and I am in Dacca. If it is Jun 26 2034 02:29:35AM here, what time is it there?",
+        "gold_answer": "2034-06-25 13:29:35"
+    },
+    {
+        "id": 792,
+        "text": "What is the time in Brisbane if it is 12:10:29, Sep 09, 2019 in Fort Wayne?",
+        "gold_answer": "2019-09-10 02:10:29"
+    },
+    {
+        "id": 793,
+        "text": "I want to make a call to someone. He is in Andorra, and I am in GMT. If it is Jul 23 2034 02:11:40PM here, what time is it there?",
+        "gold_answer": "2034-07-23 16:11:40"
+    },
+    {
+        "id": 794,
+        "text": "What is the time in Kathmandu if it is Jul 27 2037 05:33:44PM in GMT-12?",
+        "gold_answer": "2037-07-27 11:18:44"
+    },
+    {
+        "id": 795,
+        "text": "It is 2012-04-09 18:17:48 in Lubumbashi. What is the time in Dacca?",
+        "gold_answer": "2012-04-09 22:17:48"
+    },
+    {
+        "id": 796,
+        "text": "I want to talk to someone in Cocos at 2001-06-24 08:50:07 in Oslo. What time is it there?",
+        "gold_answer": "2001-06-24 13:20:07"
+    },
+    {
+        "id": 797,
+        "text": "It is 2033-04-05 06:36:43 in Davis. What is the time in GMT-14?",
+        "gold_answer": "2033-04-05 13:36:43"
+    },
+    {
+        "id": 798,
+        "text": "I want to make a call to someone. He is in Porto Velho, and I am in Shanghai. If it is 15:13:14, Mar 14, 2039 here, what time is it there?",
+        "gold_answer": "2039-03-14 03:13:14"
+    },
+    {
+        "id": 799,
+        "text": "It is 16:06:45, Jan 21, 2030 in Maputo. What is the time in Famagusta?",
+        "gold_answer": "2030-01-21 16:06:45"
+    },
+    {
+        "id": 800,
+        "text": "It is 12:32:25, Apr 15, 2014 in Rome. What is the time in Madeira?",
+        "gold_answer": "2014-04-15 11:32:25"
+    },
+    {
+        "id": 801,
+        "text": "What is the time in Astrakhan if it is Aug 17 2006 05:38:08PM in Makassar?",
+        "gold_answer": "2006-08-17 13:38:08"
+    },
+    {
+        "id": 802,
+        "text": "My friend is in GMT+2, and I am in GMT-13. If it is 21:13:52, Jan 08, 2028 here, what time is it there?",
+        "gold_answer": "2028-01-08 06:13:52"
+    },
+    {
+        "id": 803,
+        "text": "I want to make a call to someone. He is in Harbin, and I am in Tasmania. If it is 2010-08-19 19:16:01 here, what time is it there?",
+        "gold_answer": "2010-08-19 17:16:01"
+    },
+    {
+        "id": 804,
+        "text": "It is 2030-01-28 19:13:06 in Mountain. What is the time in ACT?",
+        "gold_answer": "2030-01-29 13:13:06"
+    },
+    {
+        "id": 805,
+        "text": "It is 12:32:00, Mar 12, 2040 in Budapest. What is the time in Coral Harbour?",
+        "gold_answer": "2040-03-12 06:32:00"
+    },
+    {
+        "id": 806,
+        "text": "It is 2023-08-02 09:20:27 in Davis. What is the time in Qostanay?",
+        "gold_answer": "2023-08-02 08:20:27"
+    },
+    {
+        "id": 807,
+        "text": "I want to talk to someone in Japan at 2009-11-28 16:46:50 in Banjul. What time is it there?",
+        "gold_answer": "2009-11-29 01:46:50"
+    },
+    {
+        "id": 808,
+        "text": "I want to talk to someone in Aqtobe at 2023-09-17 02:17:01 in Boa Vista. What time is it there?",
+        "gold_answer": "2023-09-17 11:17:01"
+    },
+    {
+        "id": 809,
+        "text": "I want to make a call to someone. He is in Warsaw, and I am in Belize. If it is Jun 09 2002 05:06:02PM here, what time is it there?",
+        "gold_answer": "2002-06-10 01:06:02"
+    },
+    {
+        "id": 810,
+        "text": "What is the time in Funafuti if it is 01:08:00, Jul 10, 2009 in GMT-7?",
+        "gold_answer": "2009-07-10 06:08:00"
+    },
+    {
+        "id": 811,
+        "text": "It is 03:41:17, Mar 12, 2016 in Novosibirsk. What is the time in GMT-8?",
+        "gold_answer": "2016-03-12 05:41:17"
+    },
+    {
+        "id": 812,
+        "text": "What is the time in GMT-7 if it is 12:02:02, Apr 23, 2010 in Vladivostok?",
+        "gold_answer": "2010-04-23 08:02:02"
+    },
+    {
+        "id": 813,
+        "text": "My friend is in CET, and I am in Danmarkshavn. If it is 19:40:34, May 25, 2015 here, what time is it there?",
+        "gold_answer": "2015-05-25 21:40:34"
+    },
+    {
+        "id": 814,
+        "text": "It is 2025-11-16 07:25:38 in Chita. What is the time in Guernsey?",
+        "gold_answer": "2025-11-15 22:25:38"
+    },
+    {
+        "id": 815,
+        "text": "It is 2034-01-24 21:47:39 in Mountain. What is the time in Blantyre?",
+        "gold_answer": "2034-01-25 06:47:39"
+    },
+    {
+        "id": 816,
+        "text": "What is the time in Dhaka if it is Jun 19 2035 06:16:39PM in Harbin?",
+        "gold_answer": "2035-06-19 16:16:39"
+    },
+    {
+        "id": 817,
+        "text": "I want to talk to someone in GMT-14 at Nov 12 2015 10:43:12PM in Chungking. What time is it there?",
+        "gold_answer": "2015-11-13 04:43:12"
+    },
+    {
+        "id": 818,
+        "text": "I want to talk to someone in Cocos at 2029-04-07 13:18:49 in Gambier. What time is it there?",
+        "gold_answer": "2029-04-08 04:48:49"
+    },
+    {
+        "id": 819,
+        "text": "I want to talk to someone in Lagos at Mar 25 2005 10:25:10AM in Stanley. What time is it there?",
+        "gold_answer": "2005-03-25 14:25:10"
+    },
+    {
+        "id": 820,
+        "text": "It is 09:13:06, Feb 11, 2016 in Manaus. What is the time in Asmara?",
+        "gold_answer": "2016-02-11 16:13:06"
+    },
+    {
+        "id": 821,
+        "text": "My friend is in Palmer, and I am in Indiana. If it is Nov 27 2005 06:07:37AM here, what time is it there?",
+        "gold_answer": "2005-11-27 08:07:37"
+    },
+    {
+        "id": 822,
+        "text": "My friend is in Swift Current, and I am in Amsterdam. If it is Jun 14 2006 09:33:34AM here, what time is it there?",
+        "gold_answer": "2006-06-14 01:33:34"
+    },
+    {
+        "id": 823,
+        "text": "It is 13:49:44, Feb 18, 2033 in Norfolk. What is the time in Seoul?",
+        "gold_answer": "2033-02-18 10:49:44"
+    },
+    {
+        "id": 824,
+        "text": "What is the time in Goose Bay if it is 2011-02-27 09:19:04 in DeNoronha?",
+        "gold_answer": "2011-02-27 07:19:04"
+    },
+    {
+        "id": 825,
+        "text": "My friend is in Argentina, and I am in Regina. If it is Sep 21 2005 12:21:24PM here, what time is it there?",
+        "gold_answer": "2005-09-21 15:21:24"
+    },
+    {
+        "id": 826,
+        "text": "What is the time in Mbabane if it is Oct 07 2018 02:55:51AM in Funafuti?",
+        "gold_answer": "2018-10-06 16:55:51"
+    },
+    {
+        "id": 827,
+        "text": "My friend is in Riyadh, and I am in Shiprock. If it is 01:36:53, Jan 12, 2005 here, what time is it there?",
+        "gold_answer": "2005-01-12 11:36:53"
+    },
+    {
+        "id": 828,
+        "text": "I want to make a call to someone. He is in Hawaii, and I am in Argentina. If it is 2028-05-13 17:27:59 here, what time is it there?",
+        "gold_answer": "2028-05-13 10:27:59"
+    },
+    {
+        "id": 829,
+        "text": "What is the time in Volgograd if it is Aug 06 2022 07:35:32PM in Indiana?",
+        "gold_answer": "2022-08-07 02:35:32"
+    },
+    {
+        "id": 830,
+        "text": "I want to talk to someone in Brisbane at Aug 10 2036 02:39:30AM in Budapest. What time is it there?",
+        "gold_answer": "2036-08-10 10:39:30"
+    },
+    {
+        "id": 831,
+        "text": "What is the time in Scoresbysund if it is 06:55:07, Nov 21, 2023 in Marigot?",
+        "gold_answer": "2023-11-21 09:55:07"
+    },
+    {
+        "id": 832,
+        "text": "My friend is in GMT+11, and I am in Ojinaga. If it is Feb 04 2037 10:24:26PM here, what time is it there?",
+        "gold_answer": "2037-02-04 17:24:26"
+    },
+    {
+        "id": 833,
+        "text": "I want to talk to someone in Adak at Sep 14 2011 05:20:13PM in GMT-1. What time is it there?",
+        "gold_answer": "2011-09-14 07:20:13"
+    },
+    {
+        "id": 834,
+        "text": "My friend is in Ust-Nera, and I am in Lusaka. If it is Jul 18 2039 02:41:52PM here, what time is it there?",
+        "gold_answer": "2039-07-18 22:41:52"
+    },
+    {
+        "id": 835,
+        "text": "It is Dec 18 2032 04:46:03PM in GMT-1. What is the time in North Dakota?",
+        "gold_answer": "2032-12-18 09:46:03"
+    },
+    {
+        "id": 836,
+        "text": "It is 2022-10-30 01:37:48 in UCT. What is the time in Central?",
+        "gold_answer": "2022-10-29 20:37:48"
+    },
+    {
+        "id": 837,
+        "text": "I want to make a call to someone. He is in Vienna, and I am in Boa Vista. If it is 2026-11-06 18:19:40 here, what time is it there?",
+        "gold_answer": "2026-11-06 23:19:40"
+    },
+    {
+        "id": 838,
+        "text": "I want to make a call to someone. He is in Central, and I am in Port-au-Prince. If it is Mar 31 2039 07:33:57PM here, what time is it there?",
+        "gold_answer": "2039-03-31 18:33:57"
+    },
+    {
+        "id": 839,
+        "text": "I want to talk to someone in Katmandu at Jun 10 2028 01:43:31PM in Beirut. What time is it there?",
+        "gold_answer": "2028-06-10 16:28:31"
+    },
+    {
+        "id": 840,
+        "text": "I want to make a call to someone. He is in Samoa, and I am in Minsk. If it is Jul 22 2018 12:04:07PM here, what time is it there?",
+        "gold_answer": "2018-07-21 22:04:07"
+    },
+    {
+        "id": 841,
+        "text": "I want to talk to someone in Antananarivo at 09:23:51, Jun 09, 2032 in Port Moresby. What time is it there?",
+        "gold_answer": "2032-06-09 02:23:51"
+    },
+    {
+        "id": 842,
+        "text": "I want to make a call to someone. He is in Metlakatla, and I am in Dakar. If it is 2035-11-04 22:04:41 here, what time is it there?",
+        "gold_answer": "2035-11-04 13:04:41"
+    },
+    {
+        "id": 843,
+        "text": "What is the time in Queensland if it is 03:42:24, Feb 20, 2007 in Belize?",
+        "gold_answer": "2007-02-20 19:42:24"
+    },
+    {
+        "id": 844,
+        "text": "My friend is in Ulan Bator, and I am in Tel Aviv. If it is Aug 09 2010 11:57:08AM here, what time is it there?",
+        "gold_answer": "2010-08-09 16:57:08"
+    },
+    {
+        "id": 845,
+        "text": "What is the time in Maceio if it is Sep 18 2022 07:32:47AM in St Johns?",
+        "gold_answer": "2022-09-18 07:02:47"
+    },
+    {
+        "id": 846,
+        "text": "My friend is in Canberra, and I am in Canberra. If it is 20:48:10, Feb 21, 2036 here, what time is it there?",
+        "gold_answer": "2036-02-21 20:48:10"
+    },
+    {
+        "id": 847,
+        "text": "What is the time in Punta Arenas if it is 12:44:25, Jun 06, 2020 in Martinique?",
+        "gold_answer": "2020-06-06 13:44:25"
+    },
+    {
+        "id": 848,
+        "text": "My friend is in Poland, and I am in Vaduz. If it is 10:45:46, Dec 21, 2025 here, what time is it there?",
+        "gold_answer": "2025-12-21 10:45:46"
+    },
+    {
+        "id": 849,
+        "text": "It is 18:39:18, Aug 24, 2023 in Indiana. What is the time in Copenhagen?",
+        "gold_answer": "2023-08-25 00:39:18"
+    },
+    {
+        "id": 850,
+        "text": "I want to make a call to someone. He is in Malabo, and I am in Curacao. If it is May 17 2019 11:01:49AM here, what time is it there?",
+        "gold_answer": "2019-05-17 16:01:49"
+    },
+    {
+        "id": 851,
+        "text": "I want to make a call to someone. He is in Jakarta, and I am in GMT+0. If it is 12:16:07, Nov 06, 2017 here, what time is it there?",
+        "gold_answer": "2017-11-06 19:16:07"
+    },
+    {
+        "id": 852,
+        "text": "My friend is in Faeroe, and I am in PRC. If it is 01:30:46, Feb 14, 2015 here, what time is it there?",
+        "gold_answer": "2015-02-13 17:30:46"
+    },
+    {
+        "id": 853,
+        "text": "I want to talk to someone in Astrakhan at May 19 2011 07:39:45PM in Bujumbura. What time is it there?",
+        "gold_answer": "2011-05-19 21:39:45"
+    },
+    {
+        "id": 854,
+        "text": "What is the time in Belgrade if it is Apr 05 2026 12:21:52AM in Lagos?",
+        "gold_answer": "2026-04-05 01:21:52"
+    },
+    {
+        "id": 855,
+        "text": "What is the time in West if it is 2024-01-02 14:14:29 in Macquarie?",
+        "gold_answer": "2024-01-02 11:14:29"
+    },
+    {
+        "id": 856,
+        "text": "I want to talk to someone in GMT+6 at 03:13:37, Aug 18, 2033 in Jersey. What time is it there?",
+        "gold_answer": "2033-08-17 20:13:37"
+    },
+    {
+        "id": 857,
+        "text": "What is the time in Casablanca if it is 18:16:32, Jul 18, 2001 in Pago Pago?",
+        "gold_answer": "2001-07-19 05:16:32"
+    },
+    {
+        "id": 858,
+        "text": "I want to talk to someone in Monrovia at 2036-10-19 01:48:49 in Omsk. What time is it there?",
+        "gold_answer": "2036-10-18 19:48:49"
+    },
+    {
+        "id": 859,
+        "text": "I want to talk to someone in Rome at 2016-10-27 15:23:40 in Paramaribo. What time is it there?",
+        "gold_answer": "2016-10-27 20:23:40"
+    },
+    {
+        "id": 860,
+        "text": "My friend is in Rome, and I am in Niamey. If it is 2033-09-04 11:53:52 here, what time is it there?",
+        "gold_answer": "2033-09-04 12:53:52"
+    },
+    {
+        "id": 861,
+        "text": "It is 02:58:32, Jul 19, 2001 in Ulyanovsk. What is the time in Casablanca?",
+        "gold_answer": "2001-07-18 22:58:32"
+    },
+    {
+        "id": 862,
+        "text": "I want to make a call to someone. He is in GMT-4, and I am in GMT+0. If it is 06:04:34, Mar 07, 2022 here, what time is it there?",
+        "gold_answer": "2022-03-07 10:04:34"
+    },
+    {
+        "id": 863,
+        "text": "I want to talk to someone in Zulu at Aug 31 2004 01:51:15PM in Universal. What time is it there?",
+        "gold_answer": "2004-08-31 13:51:15"
+    },
+    {
+        "id": 864,
+        "text": "I want to talk to someone in Mazatlan at 2026-12-19 06:44:41 in Perth. What time is it there?",
+        "gold_answer": "2026-12-18 15:44:41"
+    },
+    {
+        "id": 865,
+        "text": "It is Oct 04 2028 05:21:35PM in Tarawa. What is the time in Funafuti?",
+        "gold_answer": "2028-10-04 17:21:35"
+    },
+    {
+        "id": 866,
+        "text": "What is the time in PST8PDT if it is Jul 12 2009 05:47:23AM in Seoul?",
+        "gold_answer": "2009-07-11 13:47:23"
+    },
+    {
+        "id": 867,
+        "text": "I want to make a call to someone. He is in Tunis, and I am in Podgorica. If it is 11:55:23, Oct 27, 2039 here, what time is it there?",
+        "gold_answer": "2039-10-27 11:55:23"
+    },
+    {
+        "id": 868,
+        "text": "I want to make a call to someone. He is in GMT-14, and I am in Malta. If it is 2024-12-16 07:03:06 here, what time is it there?",
+        "gold_answer": "2024-12-16 20:03:06"
+    },
+    {
+        "id": 869,
+        "text": "I want to talk to someone in Knox IN at 2006-01-18 00:25:00 in Kosrae. What time is it there?",
+        "gold_answer": "2006-01-17 08:25:00"
+    },
+    {
+        "id": 870,
+        "text": "I want to talk to someone in St Johns at Nov 26 2013 06:30:38AM in Timbuktu. What time is it there?",
+        "gold_answer": "2013-11-26 03:00:38"
+    },
+    {
+        "id": 871,
+        "text": "What is the time in Israel if it is 2023-07-06 22:32:52 in Istanbul?",
+        "gold_answer": "2023-07-06 22:32:52"
+    },
+    {
+        "id": 872,
+        "text": "I want to talk to someone in Warsaw at 06:56:24, Nov 06, 2014 in Gibraltar. What time is it there?",
+        "gold_answer": "2014-11-06 06:56:24"
+    },
+    {
+        "id": 873,
+        "text": "I want to talk to someone in Anguilla at 05:44:24, Oct 26, 2022 in Chuuk. What time is it there?",
+        "gold_answer": "2022-10-25 15:44:24"
+    },
+    {
+        "id": 874,
+        "text": "I want to make a call to someone. He is in Danmarkshavn, and I am in Jujuy. If it is 2010-09-27 02:29:32 here, what time is it there?",
+        "gold_answer": "2010-09-27 05:29:32"
+    },
+    {
+        "id": 875,
+        "text": "I want to talk to someone in Indiana at Mar 27 2027 09:04:43AM in Nairobi. What time is it there?",
+        "gold_answer": "2027-03-27 02:04:43"
+    },
+    {
+        "id": 876,
+        "text": "It is 13:33:08, Feb 23, 2017 in Norfolk. What is the time in Paramaribo?",
+        "gold_answer": "2017-02-22 23:33:08"
+    },
+    {
+        "id": 877,
+        "text": "It is Aug 10 2000 05:45:52AM in Guadalcanal. What is the time in Argentina?",
+        "gold_answer": "2000-08-09 15:45:52"
+    },
+    {
+        "id": 878,
+        "text": "I want to make a call to someone. He is in Vientiane, and I am in Eucla. If it is 2007-12-05 16:16:23 here, what time is it there?",
+        "gold_answer": "2007-12-05 13:31:23"
+    },
+    {
+        "id": 879,
+        "text": "I want to make a call to someone. He is in Nipigon, and I am in Dubai. If it is 2035-06-16 01:56:17 here, what time is it there?",
+        "gold_answer": "2035-06-15 17:56:17"
+    },
+    {
+        "id": 880,
+        "text": "I want to talk to someone in Seoul at Nov 02 2030 07:10:38PM in Juneau. What time is it there?",
+        "gold_answer": "2030-11-03 12:10:38"
+    },
+    {
+        "id": 881,
+        "text": "My friend is in Minsk, and I am in Kuching. If it is Jul 13 2028 12:42:26PM here, what time is it there?",
+        "gold_answer": "2028-07-13 07:42:26"
+    },
+    {
+        "id": 882,
+        "text": "My friend is in Navajo, and I am in Casablanca. If it is 2000-12-08 06:54:17 here, what time is it there?",
+        "gold_answer": "2000-12-07 23:54:17"
+    },
+    {
+        "id": 883,
+        "text": "It is 21:19:18, May 07, 2004 in Kuwait. What is the time in Phoenix?",
+        "gold_answer": "2004-05-07 11:19:18"
+    },
+    {
+        "id": 884,
+        "text": "I want to talk to someone in Mauritius at Jul 03 2000 09:21:16PM in Zaporozhye. What time is it there?",
+        "gold_answer": "2000-07-03 22:21:16"
+    },
+    {
+        "id": 885,
+        "text": "I want to make a call to someone. He is in Famagusta, and I am in Nome. If it is 22:08:38, May 15, 2039 here, what time is it there?",
+        "gold_answer": "2039-05-16 09:08:38"
+    },
+    {
+        "id": 886,
+        "text": "I want to talk to someone in Minsk at 11:29:32, May 15, 2022 in Magadan. What time is it there?",
+        "gold_answer": "2022-05-15 03:29:32"
+    },
+    {
+        "id": 887,
+        "text": "What is the time in GMT+2 if it is 12:40:22, May 13, 2016 in Katmandu?",
+        "gold_answer": "2016-05-13 04:55:22"
+    },
+    {
+        "id": 888,
+        "text": "I want to make a call to someone. He is in Pontianak, and I am in Oral. If it is 05:04:08, Jun 12, 2016 here, what time is it there?",
+        "gold_answer": "2016-06-12 07:04:08"
+    },
+    {
+        "id": 889,
+        "text": "I want to make a call to someone. He is in Casey, and I am in GMT+0. If it is 2038-11-27 03:34:07 here, what time is it there?",
+        "gold_answer": "2038-11-27 14:34:07"
+    },
+    {
+        "id": 890,
+        "text": "My friend is in Bratislava, and I am in Puerto Rico. If it is 02:57:04, Jul 28, 2020 here, what time is it there?",
+        "gold_answer": "2020-07-28 08:57:04"
+    },
+    {
+        "id": 891,
+        "text": "I want to make a call to someone. He is in Christmas, and I am in Los Angeles. If it is 2036-04-04 06:19:23 here, what time is it there?",
+        "gold_answer": "2036-04-04 20:19:23"
+    },
+    {
+        "id": 892,
+        "text": "What is the time in Tongatapu if it is 10:01:54, Jul 19, 2025 in Pontianak?",
+        "gold_answer": "2025-07-19 16:01:54"
+    },
+    {
+        "id": 893,
+        "text": "It is 2028-02-03 10:29:22 in Iqaluit. What is the time in Casey?",
+        "gold_answer": "2028-02-04 02:29:22"
+    },
+    {
+        "id": 894,
+        "text": "It is 2038-04-10 02:37:54 in St Johns. What is the time in Muscat?",
+        "gold_answer": "2038-04-10 10:07:54"
+    },
+    {
+        "id": 895,
+        "text": "It is Jun 15 2036 03:25:03AM in Karachi. What is the time in Riga?",
+        "gold_answer": "2036-06-15 01:25:03"
+    },
+    {
+        "id": 896,
+        "text": "My friend is in Boa Vista, and I am in Amman. If it is 15:03:52, May 04, 2018 here, what time is it there?",
+        "gold_answer": "2018-05-04 08:03:52"
+    },
+    {
+        "id": 897,
+        "text": "It is Dec 10 2024 03:26:47PM in Norfolk. What is the time in Almaty?",
+        "gold_answer": "2024-12-10 09:26:47"
+    },
+    {
+        "id": 898,
+        "text": "I want to make a call to someone. He is in West, and I am in Honolulu. If it is 2026-01-02 17:24:51 here, what time is it there?",
+        "gold_answer": "2026-01-02 23:24:51"
+    },
+    {
+        "id": 899,
+        "text": "I want to make a call to someone. He is in Guayaquil, and I am in Nipigon. If it is 01:35:36, Aug 21, 2039 here, what time is it there?",
+        "gold_answer": "2039-08-21 01:35:36"
+    },
+    {
+        "id": 900,
+        "text": "My friend is in GMT-14, and I am in Argentina. If it is 2003-04-01 23:38:30 here, what time is it there?",
+        "gold_answer": "2003-04-02 16:38:30"
+    },
+    {
+        "id": 901,
+        "text": "What is the time in Coral Harbour if it is Jun 12 2000 02:55:54PM in Vatican?",
+        "gold_answer": "2000-06-12 07:55:54"
+    },
+    {
+        "id": 902,
+        "text": "My friend is in GMT-9, and I am in Chita. If it is Jan 23 2016 05:03:59AM here, what time is it there?",
+        "gold_answer": "2016-01-23 06:03:59"
+    },
+    {
+        "id": 903,
+        "text": "I want to talk to someone in Baghdad at 00:25:25, Apr 04, 2018 in Porto Velho. What time is it there?",
+        "gold_answer": "2018-04-04 07:25:25"
+    },
+    {
+        "id": 904,
+        "text": "My friend is in Egypt, and I am in Costa Rica. If it is Feb 18 2022 02:09:11PM here, what time is it there?",
+        "gold_answer": "2022-02-18 22:09:11"
+    },
+    {
+        "id": 905,
+        "text": "It is 2018-06-06 11:17:55 in Queensland. What is the time in Faroe?",
+        "gold_answer": "2018-06-06 02:17:55"
+    },
+    {
+        "id": 906,
+        "text": "I want to make a call to someone. He is in Douala, and I am in GMT-3. If it is 2032-12-07 06:26:28 here, what time is it there?",
+        "gold_answer": "2032-12-07 04:26:28"
+    },
+    {
+        "id": 907,
+        "text": "I want to talk to someone in GMT+6 at 00:52:41, Jan 22, 2024 in Shanghai. What time is it there?",
+        "gold_answer": "2024-01-21 10:52:41"
+    },
+    {
+        "id": 908,
+        "text": "My friend is in Dawson Creek, and I am in Thule. If it is 23:20:53, Feb 22, 2029 here, what time is it there?",
+        "gold_answer": "2029-02-22 20:20:53"
+    },
+    {
+        "id": 909,
+        "text": "What is the time in Budapest if it is 2014-04-11 08:22:33 in Jan Mayen?",
+        "gold_answer": "2014-04-11 08:22:33"
+    },
+    {
+        "id": 910,
+        "text": "I want to make a call to someone. He is in GMT+12, and I am in General. If it is Feb 05 2038 05:57:52PM here, what time is it there?",
+        "gold_answer": "2038-02-05 11:57:52"
+    },
+    {
+        "id": 911,
+        "text": "My friend is in GMT0, and I am in Samoa. If it is Jun 27 2005 01:26:24PM here, what time is it there?",
+        "gold_answer": "2005-06-28 00:26:24"
+    },
+    {
+        "id": 912,
+        "text": "What is the time in Bogota if it is Mar 13 2010 03:29:01PM in Vostok?",
+        "gold_answer": "2010-03-13 04:29:01"
+    },
+    {
+        "id": 913,
+        "text": "What is the time in Dominica if it is 2032-08-11 00:09:32 in Tokyo?",
+        "gold_answer": "2032-08-10 11:09:32"
+    },
+    {
+        "id": 914,
+        "text": "I want to make a call to someone. He is in Matamoros, and I am in Eastern. If it is 05:25:24, Jun 08, 2015 here, what time is it there?",
+        "gold_answer": "2015-06-08 04:25:24"
+    },
+    {
+        "id": 915,
+        "text": "I want to talk to someone in Malta at 2000-08-03 05:10:23 in Lima. What time is it there?",
+        "gold_answer": "2000-08-03 12:10:23"
+    },
+    {
+        "id": 916,
+        "text": "It is 2016-08-10 14:27:25 in Beirut. What is the time in MET?",
+        "gold_answer": "2016-08-10 13:27:25"
+    },
+    {
+        "id": 917,
+        "text": "My friend is in Indiana, and I am in Prague. If it is 08:55:39, Apr 10, 2017 here, what time is it there?",
+        "gold_answer": "2017-04-10 02:55:39"
+    },
+    {
+        "id": 918,
+        "text": "My friend is in Santo Domingo, and I am in Mauritius. If it is 2006-11-20 00:07:38 here, what time is it there?",
+        "gold_answer": "2006-11-19 16:07:38"
+    },
+    {
+        "id": 919,
+        "text": "My friend is in Iceland, and I am in EET. If it is 2033-01-11 02:50:58 here, what time is it there?",
+        "gold_answer": "2033-01-11 00:50:58"
+    },
+    {
+        "id": 920,
+        "text": "What is the time in Iran if it is 2004-09-15 04:59:08 in Vostok?",
+        "gold_answer": "2004-09-15 03:29:08"
+    },
+    {
+        "id": 921,
+        "text": "I want to make a call to someone. He is in Maceio, and I am in Matamoros. If it is Feb 05 2026 05:47:18PM here, what time is it there?",
+        "gold_answer": "2026-02-05 20:47:18"
+    },
+    {
+        "id": 922,
+        "text": "It is 2020-10-28 23:09:47 in Honolulu. What is the time in Guernsey?",
+        "gold_answer": "2020-10-29 09:09:47"
+    },
+    {
+        "id": 923,
+        "text": "My friend is in Riga, and I am in Poland. If it is 2038-04-25 06:40:43 here, what time is it there?",
+        "gold_answer": "2038-04-25 07:40:43"
+    },
+    {
+        "id": 924,
+        "text": "I want to make a call to someone. He is in Niue, and I am in Kwajalein. If it is 00:11:36, Apr 03, 2040 here, what time is it there?",
+        "gold_answer": "2040-04-02 01:11:36"
+    },
+    {
+        "id": 925,
+        "text": "My friend is in Louisville, and I am in Indiana. If it is 2037-07-15 01:15:49 here, what time is it there?",
+        "gold_answer": "2037-07-15 01:15:49"
+    },
+    {
+        "id": 926,
+        "text": "What is the time in GMT-2 if it is 2001-07-14 14:27:43 in Fort Nelson?",
+        "gold_answer": "2001-07-14 23:27:43"
+    },
+    {
+        "id": 927,
+        "text": "What is the time in Accra if it is 2025-07-29 04:30:29 in Troll?",
+        "gold_answer": "2025-07-29 02:30:29"
+    },
+    {
+        "id": 928,
+        "text": "My friend is in GMT-4, and I am in Skopje. If it is Mar 07 2014 08:26:18PM here, what time is it there?",
+        "gold_answer": "2014-03-07 23:26:18"
+    },
+    {
+        "id": 929,
+        "text": "What is the time in Efate if it is Oct 28 2014 08:52:42AM in GMT+12?",
+        "gold_answer": "2014-10-29 07:52:42"
+    },
+    {
+        "id": 930,
+        "text": "My friend is in Inuvik, and I am in Simferopol. If it is 2004-08-21 17:05:17 here, what time is it there?",
+        "gold_answer": "2004-08-21 08:05:17"
+    },
+    {
+        "id": 931,
+        "text": "I want to talk to someone in Nicosia at Jan 29 2005 09:03:02AM in Indiana. What time is it there?",
+        "gold_answer": "2005-01-29 16:03:02"
+    },
+    {
+        "id": 932,
+        "text": "What is the time in Kirov if it is 03:06:07, Apr 14, 2025 in Shanghai?",
+        "gold_answer": "2025-04-13 22:06:07"
+    },
+    {
+        "id": 933,
+        "text": "I want to make a call to someone. He is in Rio Branco, and I am in Colombo. If it is May 10 2020 07:58:07AM here, what time is it there?",
+        "gold_answer": "2020-05-09 21:28:07"
+    },
+    {
+        "id": 934,
+        "text": "I want to talk to someone in Barnaul at 2029-05-09 13:43:46 in Tarawa. What time is it there?",
+        "gold_answer": "2029-05-09 08:43:46"
+    },
+    {
+        "id": 935,
+        "text": "What is the time in Addis Ababa if it is 2030-01-23 11:59:28 in UTC?",
+        "gold_answer": "2030-01-23 14:59:28"
+    },
+    {
+        "id": 936,
+        "text": "My friend is in Tegucigalpa, and I am in St Helena. If it is 03:15:59, Aug 22, 2004 here, what time is it there?",
+        "gold_answer": "2004-08-21 21:15:59"
+    },
+    {
+        "id": 937,
+        "text": "I want to make a call to someone. He is in GMT-7, and I am in Famagusta. If it is 22:18:41, Mar 20, 2023 here, what time is it there?",
+        "gold_answer": "2023-03-21 03:18:41"
+    },
+    {
+        "id": 938,
+        "text": "I want to make a call to someone. He is in Argentina, and I am in Apia. If it is 23:32:56, Mar 25, 2028 here, what time is it there?",
+        "gold_answer": "2028-03-25 07:32:56"
+    },
+    {
+        "id": 939,
+        "text": "My friend is in Uzhgorod, and I am in Juneau. If it is 2012-12-14 14:03:53 here, what time is it there?",
+        "gold_answer": "2012-12-15 01:03:53"
+    },
+    {
+        "id": 940,
+        "text": "What is the time in Warsaw if it is 2035-06-12 05:53:43 in Newfoundland?",
+        "gold_answer": "2035-06-12 10:23:43"
+    },
+    {
+        "id": 941,
+        "text": "I want to make a call to someone. He is in Tiraspol, and I am in Vientiane. If it is Jan 26 2035 01:33:19AM here, what time is it there?",
+        "gold_answer": "2035-01-25 20:33:19"
+    },
+    {
+        "id": 942,
+        "text": "I want to talk to someone in West at 15:40:00, Apr 22, 2003 in East-Indiana. What time is it there?",
+        "gold_answer": "2003-04-22 16:40:00"
+    },
+    {
+        "id": 943,
+        "text": "What is the time in Mahe if it is Jun 21 2037 11:01:04PM in Cocos?",
+        "gold_answer": "2037-06-21 20:31:04"
+    },
+    {
+        "id": 944,
+        "text": "I want to talk to someone in Mbabane at 2002-07-30 13:44:17 in Iran. What time is it there?",
+        "gold_answer": "2002-07-30 11:14:17"
+    },
+    {
+        "id": 945,
+        "text": "I want to make a call to someone. He is in Tel Aviv, and I am in New York. If it is 17:01:52, Oct 11, 2028 here, what time is it there?",
+        "gold_answer": "2028-10-12 00:01:52"
+    },
+    {
+        "id": 946,
+        "text": "My friend is in North Dakota, and I am in Inuvik. If it is Apr 09 2029 01:21:17AM here, what time is it there?",
+        "gold_answer": "2029-04-09 02:21:17"
+    },
+    {
+        "id": 947,
+        "text": "My friend is in Dominica, and I am in EasterIsland. If it is 14:05:04, Mar 12, 2026 here, what time is it there?",
+        "gold_answer": "2026-03-12 15:05:04"
+    },
+    {
+        "id": 948,
+        "text": "What is the time in Belem if it is Dec 06 2000 10:29:43AM in Funafuti?",
+        "gold_answer": "2000-12-05 19:29:43"
+    },
+    {
+        "id": 949,
+        "text": "I want to make a call to someone. He is in Argentina, and I am in Bissau. If it is 2035-09-15 23:25:08 here, what time is it there?",
+        "gold_answer": "2035-09-15 20:25:08"
+    },
+    {
+        "id": 950,
+        "text": "What is the time in Edmonton if it is 12:02:58, Apr 23, 2036 in Tegucigalpa?",
+        "gold_answer": "2036-04-23 12:02:58"
+    },
+    {
+        "id": 951,
+        "text": "It is 06:39:14, Jun 28, 2006 in Omsk. What is the time in Tirane?",
+        "gold_answer": "2006-06-28 01:39:14"
+    },
+    {
+        "id": 952,
+        "text": "I want to make a call to someone. He is in Krasnoyarsk, and I am in Yukon. If it is 14:51:42, Nov 14, 2031 here, what time is it there?",
+        "gold_answer": "2031-11-15 04:51:42"
+    },
+    {
+        "id": 953,
+        "text": "It is 09:43:31, Oct 19, 2001 in Nicosia. What is the time in Banjul?",
+        "gold_answer": "2001-10-19 06:43:31"
+    },
+    {
+        "id": 954,
+        "text": "I want to talk to someone in Indiana at Aug 31 2009 11:33:48PM in BajaNorte. What time is it there?",
+        "gold_answer": "2009-09-01 02:33:48"
+    },
+    {
+        "id": 955,
+        "text": "My friend is in Argentina, and I am in Argentina. If it is Feb 07 2036 01:50:40PM here, what time is it there?",
+        "gold_answer": "2036-02-07 13:50:40"
+    },
+    {
+        "id": 956,
+        "text": "I want to talk to someone in MST7MDT at Apr 26 2018 12:51:13AM in Dublin. What time is it there?",
+        "gold_answer": "2018-04-25 17:51:13"
+    },
+    {
+        "id": 957,
+        "text": "I want to talk to someone in Galapagos at 06:38:39, Sep 15, 2012 in Banjul. What time is it there?",
+        "gold_answer": "2012-09-15 00:38:39"
+    },
+    {
+        "id": 958,
+        "text": "What is the time in GMT-8 if it is Mar 14 2013 01:45:39AM in General?",
+        "gold_answer": "2013-03-14 15:45:39"
+    },
+    {
+        "id": 959,
+        "text": "I want to make a call to someone. He is in St Thomas, and I am in GMT-6. If it is 2008-03-07 08:42:56 here, what time is it there?",
+        "gold_answer": "2008-03-06 22:42:56"
+    },
+    {
+        "id": 960,
+        "text": "My friend is in Samara, and I am in Auckland. If it is Nov 07 2001 11:26:52AM here, what time is it there?",
+        "gold_answer": "2001-11-07 02:26:52"
+    },
+    {
+        "id": 961,
+        "text": "I want to talk to someone in Fakaofo at Feb 20 2004 09:38:29AM in Mayotte. What time is it there?",
+        "gold_answer": "2004-02-19 19:38:29"
+    },
+    {
+        "id": 962,
+        "text": "I want to make a call to someone. He is in UCT, and I am in Poland. If it is Jan 06 2017 08:31:31PM here, what time is it there?",
+        "gold_answer": "2017-01-06 19:31:31"
+    },
+    {
+        "id": 963,
+        "text": "It is 2019-01-17 04:23:42 in Auckland. What is the time in Midway?",
+        "gold_answer": "2019-01-16 04:23:42"
+    },
+    {
+        "id": 964,
+        "text": "My friend is in Dawson Creek, and I am in Johnston. If it is Dec 27 2032 11:31:41AM here, what time is it there?",
+        "gold_answer": "2032-12-27 14:31:41"
+    },
+    {
+        "id": 965,
+        "text": "It is Nov 02 2036 03:09:38AM in Kuwait. What is the time in Oslo?",
+        "gold_answer": "2036-11-02 01:09:38"
+    },
+    {
+        "id": 966,
+        "text": "It is Nov 12 2030 08:27:04AM in St Vincent. What is the time in Baku?",
+        "gold_answer": "2030-11-12 16:27:04"
+    },
+    {
+        "id": 967,
+        "text": "I want to talk to someone in Novosibirsk at 21:06:43, Oct 08, 2014 in Edmonton. What time is it there?",
+        "gold_answer": "2014-10-09 10:06:43"
+    },
+    {
+        "id": 968,
+        "text": "I want to talk to someone in Regina at 09:43:04, Feb 08, 2027 in Hebron. What time is it there?",
+        "gold_answer": "2027-02-08 01:43:04"
+    },
+    {
+        "id": 969,
+        "text": "I want to talk to someone in Rainy River at 08:19:14, Feb 10, 2013 in Pacific. What time is it there?",
+        "gold_answer": "2013-02-10 10:19:14"
+    },
+    {
+        "id": 970,
+        "text": "What is the time in North Dakota if it is 2019-09-07 20:33:16 in Choibalsan?",
+        "gold_answer": "2019-09-07 07:33:16"
+    },
+    {
+        "id": 971,
+        "text": "My friend is in Tasmania, and I am in Barbados. If it is 16:32:04, Mar 09, 2038 here, what time is it there?",
+        "gold_answer": "2038-03-10 07:32:04"
+    },
+    {
+        "id": 972,
+        "text": "I want to make a call to someone. He is in Perth, and I am in Irkutsk. If it is 13:50:37, Aug 13, 2038 here, what time is it there?",
+        "gold_answer": "2038-08-13 13:50:37"
+    },
+    {
+        "id": 973,
+        "text": "I want to talk to someone in Dar es Salaam at 2013-08-31 11:21:34 in Maputo. What time is it there?",
+        "gold_answer": "2013-08-31 12:21:34"
+    },
+    {
+        "id": 974,
+        "text": "I want to make a call to someone. He is in Tahiti, and I am in North Dakota. If it is 2027-10-25 04:21:04 here, what time is it there?",
+        "gold_answer": "2027-10-24 23:21:04"
+    },
+    {
+        "id": 975,
+        "text": "I want to talk to someone in GMT+0 at 2036-10-31 09:14:44 in Copenhagen. What time is it there?",
+        "gold_answer": "2036-10-31 08:14:44"
+    },
+    {
+        "id": 976,
+        "text": "It is 18:36:53, Sep 07, 2011 in East-Indiana. What is the time in Zaporozhye?",
+        "gold_answer": "2011-09-08 01:36:53"
+    },
+    {
+        "id": 977,
+        "text": "I want to talk to someone in Universal at 2017-01-22 00:29:41 in Brunei. What time is it there?",
+        "gold_answer": "2017-01-21 16:29:41"
+    },
+    {
+        "id": 978,
+        "text": "It is 17:47:48, Dec 25, 2027 in Brunei. What is the time in Harare?",
+        "gold_answer": "2027-12-25 11:47:48"
+    },
+    {
+        "id": 979,
+        "text": "What is the time in Volgograd if it is Dec 23 2027 03:29:24PM in GMT+4?",
+        "gold_answer": "2027-12-23 22:29:24"
+    },
+    {
+        "id": 980,
+        "text": "What is the time in Araguaina if it is Sep 02 2026 03:27:05PM in Central?",
+        "gold_answer": "2026-09-02 17:27:05"
+    },
+    {
+        "id": 981,
+        "text": "I want to make a call to someone. He is in Merida, and I am in Timbuktu. If it is 2002-03-02 16:33:01 here, what time is it there?",
+        "gold_answer": "2002-03-02 10:33:01"
+    },
+    {
+        "id": 982,
+        "text": "I want to make a call to someone. He is in Windhoek, and I am in Isle of Man. If it is Sep 22 2020 05:12:27AM here, what time is it there?",
+        "gold_answer": "2020-09-22 06:12:27"
+    },
+    {
+        "id": 983,
+        "text": "I want to talk to someone in Bougainville at Apr 18 2017 11:43:20AM in Kuwait. What time is it there?",
+        "gold_answer": "2017-04-18 19:43:20"
+    },
+    {
+        "id": 984,
+        "text": "What is the time in Yerevan if it is 2004-04-20 05:46:09 in Caracas?",
+        "gold_answer": "2004-04-20 14:46:09"
+    },
+    {
+        "id": 985,
+        "text": "It is Jun 13 2019 01:11:13AM in Samoa. What is the time in Vaduz?",
+        "gold_answer": "2019-06-13 14:11:13"
+    },
+    {
+        "id": 986,
+        "text": "My friend is in Paris, and I am in Johnston. If it is 15:02:12, Sep 23, 2015 here, what time is it there?",
+        "gold_answer": "2015-09-24 03:02:12"
+    },
+    {
+        "id": 987,
+        "text": "What is the time in Chagos if it is 2016-10-20 03:35:02 in Lubumbashi?",
+        "gold_answer": "2016-10-20 07:35:02"
+    },
+    {
+        "id": 988,
+        "text": "It is 2022-06-03 04:22:12 in Enderbury. What is the time in Kabul?",
+        "gold_answer": "2022-06-02 19:52:12"
+    },
+    {
+        "id": 989,
+        "text": "I want to make a call to someone. He is in Bratislava, and I am in Kathmandu. If it is Aug 10 2036 01:20:23PM here, what time is it there?",
+        "gold_answer": "2036-08-10 09:35:23"
+    },
+    {
+        "id": 990,
+        "text": "I want to talk to someone in Madrid at Oct 06 2006 09:09:17PM in St Lucia. What time is it there?",
+        "gold_answer": "2006-10-07 03:09:17"
+    },
+    {
+        "id": 991,
+        "text": "It is 14:47:50, Aug 19, 2001 in Virgin. What is the time in Galapagos?",
+        "gold_answer": "2001-08-19 12:47:50"
+    },
+    {
+        "id": 992,
+        "text": "I want to make a call to someone. He is in Qyzylorda, and I am in Gibraltar. If it is 14:39:00, Jan 29, 2005 here, what time is it there?",
+        "gold_answer": "2005-01-29 19:39:00"
+    },
+    {
+        "id": 993,
+        "text": "What is the time in Istanbul if it is Jan 22 2012 11:50:39AM in Tirane?",
+        "gold_answer": "2012-01-22 12:50:39"
+    },
+    {
+        "id": 994,
+        "text": "It is 19:41:07, Dec 02, 2037 in Nauru. What is the time in Bahia?",
+        "gold_answer": "2037-12-02 04:41:07"
+    },
+    {
+        "id": 995,
+        "text": "My friend is in Currie, and I am in Mauritius. If it is 2015-10-27 06:07:38 here, what time is it there?",
+        "gold_answer": "2015-10-27 13:07:38"
+    },
+    {
+        "id": 996,
+        "text": "It is Mar 05 2036 09:04:16PM in Indiana. What is the time in Mauritius?",
+        "gold_answer": "2036-03-06 07:04:16"
+    },
+    {
+        "id": 997,
+        "text": "I want to talk to someone in Ulyanovsk at 18:58:57, Mar 19, 2002 in Bougainville. What time is it there?",
+        "gold_answer": "2002-03-19 11:58:57"
+    },
+    {
+        "id": 998,
+        "text": "I want to talk to someone in Gambier at 2001-06-25 04:07:08 in Bissau. What time is it there?",
+        "gold_answer": "2001-06-24 19:07:08"
+    },
+    {
+        "id": 999,
+        "text": "My friend is in McMurdo, and I am in GMT+8. If it is 2012-10-25 17:08:47 here, what time is it there?",
+        "gold_answer": "2012-10-26 14:08:47"
+    }
+]
