@@ -8,7 +8,7 @@ conda create --name GEAR python=3.7.10
 pip install -r requirements.txt
 ```
 
-# What does data looks like
+## What does data looks like
 Dataset file examples are shown in ```/gear/read_dataset.py```
 
 ## Instructions
