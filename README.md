@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## What does data looks like
-We provide the sampled datasets used in our experiments in ``/dataset``
+We provide the sampled datasets used in our experiments in ``/datasets``
 
 Dataset path examples to are shown in ```/gear/read_dataset.py```
 
