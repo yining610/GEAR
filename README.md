@@ -9,9 +9,9 @@ pip install -r requirements.txt
 ```
 
 ## What does data looks like
-We provide the sampled datasets used in our experiments in ``/datasets``
+The sampled datasets used in our experiments can be found in ```/datasets```.
 
-Dataset path examples required by the execution commands are shown in ```/gear/read_dataset.py```
+```/gear/read_dataset.py``` provides functions for reading those dataset files.
 
 ## Instructions
 Add OpenAI Api key in ```api.py``` and ```OpenAIModels.py```
