@@ -1,6 +1,6 @@
 # GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution
 
-* paper: 
+* paper: https://arxiv.org/abs/2307.08775
 
 ## Requirements
 ```
