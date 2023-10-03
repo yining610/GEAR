@@ -1,6 +1,9 @@
 # GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution
 
 * paper: https://arxiv.org/abs/2307.08775
+* TL;DR: GEAR is a *computationally efficient* query-tool grounding algorithm that is *generalizable* to various tasks that require tool use while *not relying on task-specific demonstrations*
+
+![](figure.png)
 
 ## Requirements
 ```
