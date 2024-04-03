@@ -100,10 +100,20 @@ Reach out to Yining ylu130@jh.edu or Haoping hyu90@jh.edu if you have any other 
 
 ## How to Cite
 ```bibtex
-@article{lu2023gear,
-  title={GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution},
-  author={Lu, Yining and Yu, Haoping and Khashabi, Daniel},
-  journal={arXiv preprint arXiv:2307.08775},
-  year={2023}
+@inproceedings{lu-etal-2024-gear,
+    title = "{GEAR}: Augmenting Language Models with Generalizable and Efficient Tool Resolution",
+    author = "Lu, Yining  and
+      Yu, Haoping  and
+      Khashabi, Daniel",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-long.7",
+    pages = "112--138",
+    abstract = "Augmenting large language models (LLM) to use external tools enhances their performance across a variety of tasks. However, prior works over-rely on task-specific demonstration of tool use that limits their generalizability and computational cost due to making many calls to large-scale LLMs. We introduce GEAR, a computationally efficient query-tool grounding algorithm that is generalizable to various tasks that require tool use while not relying on task-specific demonstrations. GEAR achieves better efficiency by delegating tool grounding and execution to small language models (SLM) and LLM, respectively; while leveraging semantic and pattern-based evaluation at both question and answer levels for generalizable tool grounding. We evaluate GEAR on 14 datasets across 6 downstream tasks, demonstrating its strong generalizability to novel tasks, tools and different SLMs. Despite offering more efficiency, GEAR achieves higher precision in tool grounding compared to prior strategies using LLM prompting, thus improving downstream accuracy at a reduced computational cost. For example, we demonstrate that GEAR-augmented GPT-J and GPT-3 outperform counterpart tool-augmented baselines because of better tool use.",
 }
 ```
